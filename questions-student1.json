@@ -1,262 +1,282 @@
 [
   {
-    "question": "What is data?",
-    "correct": "Information that is collected or observed",
+    "question": "Which word correctly completes the sentence: '___ that building been shining for 3 hours?'",
+    "correct": "Has",
     "options": [
-      "Information that is collected or observed",
-      "A type of graph",
-      "A type of computer",
-      "A type of software"
+      "Have",
+      "Is",
+      "Does",
+      "Has"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Data"
+    "topic": "Subject-Verb Agreement",
+    "complexity_score": 1
   },
   {
-    "question": "Which of these is NOT a type of chart we learned about?",
-    "correct": "Triangle",
+    "question": "Choose the correct simple question to ask about ability:",
+    "correct": "Can you play?",
     "options": [
-      "Line",
-      "Bar",
-      "Pie",
-      "Triangle"
+      "Do you playing?",
+      "Are you play?",
+      "Can you play?",
+      "Have you play?"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Data Visualization"
+    "topic": "Modal Verbs (Can)",
+    "complexity_score": 1
   },
   {
-    "question": "What is the x-axis in a bar graph?",
-    "correct": "The horizontal axis",
+    "question": "How do you ask who is able to do something?",
+    "correct": "Who can do it?",
     "options": [
-      "The vertical axis",
-      "The title of the graph",
-      "The data labels",
-      "The horizontal axis"
+      "Who does it?",
+      "Whom can do it?",
+      "Who can do it?",
+      "Who is it doing?"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Data Visualization"
+    "topic": "Question Formation (Wh-questions)",
+    "complexity_score": 1
   },
   {
-    "question": "What is the purpose of collecting data?",
-    "correct": "To answer questions and discover new information",
+    "question": "Which sentence is in the simple past tense?",
+    "correct": "I did not think.",
     "options": [
-      "To make things more complicated",
-      "To have something to do",
-      "To keep information secret",
-      "To answer questions and discover new information"
+      "I am not thinking.",
+      "I have not thought.",
+      "I do not think.",
+      "I did not think."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Data Collection"
+    "topic": "Tense Identification (Past Simple)",
+    "complexity_score": 1
   },
   {
-    "question": "What is the purpose of a graph?",
-    "correct": "To help us see patterns in data",
+    "question": "Which verb correctly completes the sentence: 'She ___ been playing for hours.'?",
+    "correct": "has",
     "options": [
-      "To show pictures of animals",
-      "To play games",
-      "To help us see patterns in data",
-      "To write stories"
+      "is",
+      "have",
+      "has",
+      "does"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Data Visualization"
+    "topic": "Subject-Verb Agreement",
+    "complexity_score": 1
   },
   {
-    "question": "What is a label in a graph?",
-    "correct": "A word or title that tells us what the graph is about",
+    "question": "If someone is playing a game now, what is the correct question to ask?",
+    "correct": "What game are you playing?",
     "options": [
-      "A sticker",
-      "A piece of fruit",
-      "A type of car",
-      "A word or title that tells us what the graph is about"
+      "What game did you play?",
+      "What game you play?",
+      "What game have you played?",
+      "What game are you playing?"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Data Visualization"
+    "topic": "Tense Identification (Present Continuous)",
+    "complexity_score": 1
   },
   {
-    "question": "If you are collecting data on favorite fruits in your class, what are the pieces of information you would collect from each student?",
-    "correct": "Their name and their favorite fruit",
+    "question": "The statement is: 'I have been playing for 5 hours.' What is the correct question form?",
+    "correct": "Have you been playing for 5 hours?",
     "options": [
-      "Their height and favorite color",
-      "Their name and what they had for breakfast",
-      "Their favorite TV show and favorite game",
-      "Their name and their favorite fruit"
+      "Did you play for 5 hours?",
+      "Do you play for 5 hours?",
+      "Have you been playing for 5 hours?",
+      "Are you playing for 5 hours?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Data Collection"
+    "topic": "Question Formation (Present Perfect Continuous)",
+    "complexity_score": 2
   },
   {
-    "question": "You see a bar chart showing the number of pets owned by different students.  A bar for 'Dogs' is twice as tall as the bar for 'Cats'. What can you conclude?",
-    "correct": "Twice as many students own dogs as cats.",
+    "question": "A student says, 'Have that building been shining?' What is the primary mistake?",
+    "correct": "The helping verb does not agree with the subject.",
     "options": [
-      "Dogs are better pets than cats.",
-      "Cats are smaller than dogs.",
-      "Twice as many students own dogs as cats.",
-      "All students own dogs."
+      "The main verb is in the wrong form.",
+      "The sentence is missing an object.",
+      "The helping verb does not agree with the subject.",
+      "The word order is incorrect for a question."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Data Visualization"
+    "topic": "Error Analysis (Subject-Verb Agreement)",
+    "complexity_score": 2
   },
   {
-    "question": "If you want to show how a plant has grown over time, what type of graph would be best to use?",
-    "correct": "A line graph",
+    "question": "If you want to suggest playing a game in a polite way, which question is most appropriate?",
+    "correct": "Would you like to play?",
     "options": [
-      "A pie chart",
-      "A bar chart",
-      "A scatter plot",
-      "A line graph"
+      "Do you like to play?",
+      "Can you play?",
+      "Will you play?",
+      "Would you like to play?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Data Visualization"
+    "topic": "Modal Verbs (Would)",
+    "complexity_score": 2
   },
   {
-    "question": "A survey asks students about their favorite sport. 10 students like soccer, 5 like basketball, and 5 like swimming.  If this was on a pie chart, which sport would have the biggest slice?",
-    "correct": "Soccer",
+    "question": "The sentence 'He is able to come' means the same as:",
+    "correct": "He can come.",
     "options": [
-      "Basketball",
-      "Swimming",
-      "They would all be equal",
-      "Soccer"
+      "He will come.",
+      "He might come.",
+      "He should come.",
+      "He can come."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Data Visualization"
+    "topic": "Modal Verbs (Can/Ability)",
+    "complexity_score": 2
   },
   {
-    "question": "Why is it important to label the axes of a graph?",
-    "correct": "So that people know what the graph is showing.",
+    "question": "Which sentence correctly describes an action that started in the past and is still continuing?",
+    "correct": "I have been practicing for three days.",
     "options": [
-      "To make the graph look more colorful.",
-      "It's not important.",
-      "So that people know what the graph is showing.",
-      "To make the graph harder to read."
+      "I did practice for three days.",
+      "I am practicing for three days.",
+      "I practice for three days.",
+      "I have been practicing for three days."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Data Visualization"
+    "topic": "Tense Application (Present Perfect Continuous)",
+    "complexity_score": 2
   },
   {
-    "question": "What is the first step you should take when you want to collect data?",
-    "correct": "Decide what question you want to answer.",
+    "question": "What is the correct negative form of 'I could have won'?",
+    "correct": "I could not have won.",
     "options": [
-      "Start asking people questions randomly.",
-      "Draw a graph immediately.",
-      "Decide what question you want to answer.",
-      "Guess what the data will show."
+      "I did not could have won.",
+      "I could have not won.",
+      "I couldn't won.",
+      "I could not have won."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Data Collection"
+    "topic": "Modal Verbs (Could - Negative)",
+    "complexity_score": 2
   },
   {
-    "question": "If you are making a bar chart to show the number of different colored cars in a parking lot, what would you put on the y-axis?",
-    "correct": "The number of cars",
+    "question": "How do you correctly turn 'He keeps on playing' into a question?",
+    "correct": "Does he keep on playing?",
     "options": [
-      "The colors of the cars",
-      "The types of cars",
-      "The names of the car owners",
-      "The number of cars"
+      "Is he keep on playing?",
+      "Does he keeps on playing?",
+      "Keeps he on playing?",
+      "Does he keep on playing?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Data Visualization"
+    "topic": "Question Formation (Present Simple)",
+    "complexity_score": 2
   },
   {
-    "question": "A survey about favorite ice cream flavors shows that vanilla is the most popular. How would this look on a bar chart?",
-    "correct": "The bar for vanilla would be the tallest.",
+    "question": "Someone says, 'I was thinking.' How would you ask what they were thinking about?",
+    "correct": "What were you thinking about?",
     "options": [
-      "The bar for vanilla would be the shortest.",
-      "All the bars would be the same height.",
-      "The bar for vanilla would be the widest.",
-      "The bar for vanilla would be the tallest."
+      "What did you think about?",
+      "What you were thinking about?",
+      "What were you thinking about?",
+      "What are you thinking about?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Data Visualization"
+    "topic": "Question Formation (Past Continuous)",
+    "complexity_score": 2
   },
   {
-    "question": "A survey asks, 'What is your favorite pet?' What kind of data is being collected?",
-    "correct": "Categorical data",
+    "question": "A building started shining 3 hours ago and it is still shining now. Which question is the MOST precise way to ask about this situation?",
+    "correct": "Has the building been shining for 3 hours?",
     "options": [
-      "Numerical data",
-      "Qualitative data",
-      "Categorical data",
-      "Quantitative data"
+      "Is the building shining now?",
+      "Did the building shine today?",
+      "Has the building been shining for 3 hours?",
+      "Does the building shine?"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Data Types"
+    "topic": "Tense Nuance (Present Perfect Continuous vs. Others)",
+    "complexity_score": 3
   },
   {
-    "question": "A pie chart shows that 50% of the students chose pizza. If there are 30 students in the class, how many chose pizza?",
-    "correct": "15",
+    "question": "Analyze the question: 'Why was he coming?' What does this question imply about the action?",
+    "correct": "The action was in progress at a specific time in the past.",
     "options": [
-      "10",
-      "20",
-      "25",
-      "15"
+      "The action is happening right now.",
+      "The action was a completed habit in the past.",
+      "The action will happen in the future.",
+      "The action was in progress at a specific time in the past."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Data Interpretation"
+    "topic": "Tense Analysis (Past Continuous)",
+    "complexity_score": 3
   },
   {
-    "question": "Which of the following is an example of data?",
-    "correct": "All of the above",
+    "question": "A student says, 'I did not use to clear fast.' What are they trying to express?",
+    "correct": "A past habit that is no longer true.",
     "options": [
-      "The heights of all students in a class.",
-      "The favorite colors of students in a class.",
-      "The number of books read by each student in a class.",
-      "All of the above"
+      "A single event that did not happen yesterday.",
+      "A current inability to be clear.",
+      "A future intention to not be clear.",
+      "A past habit that is no longer true."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Data"
+    "topic": "Grammatical Structures ('used to')",
+    "complexity_score": 3
   },
   {
-    "question": "If a bar graph is showing the number of sunny days per month for a year, what would be the most appropriate title?",
-    "correct": "Sunny Days Per Month",
+    "question": "Which of these questions asks about permission or a polite request, rather than just ability?",
+    "correct": "May I know what you want?",
     "options": [
-      "My Favorite Weather",
-      "Weather Report",
-      "Graph of the Year",
-      "Sunny Days Per Month"
+      "Can you know what I want?",
+      "What do you want?",
+      "May I know what you want?",
+      "Are you able to know what I want?"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Data Visualization"
+    "topic": "Modal Verbs (May vs. Can)",
+    "complexity_score": 3
   },
   {
-    "question": "Why is it important to choose the right type of chart for your data?",
-    "correct": "To clearly show the story the data is telling.",
+    "question": "In the phrase 'You need not play,' what is the function of 'need not'?",
+    "correct": "It indicates a lack of obligation or necessity.",
     "options": [
-      "Because some charts are easier to draw.",
-      "To make the data look more complicated.",
-      "To confuse the people reading the chart.",
-      "To clearly show the story the data is telling."
+      "It indicates a lack of ability.",
+      "It is a command not to play.",
+      "It is asking for permission to not play.",
+      "It indicates a lack of obligation or necessity."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Data Visualization"
+    "topic": "Modal Verbs (Need)",
+    "complexity_score": 3
   },
   {
-    "question": "If you are collecting data on how many hours students spend on homework each night, what would be the best way to record this information?",
-    "correct": "A tally chart or a frequency table",
+    "question": "Consider the sentence: 'He was looking at me.' How does changing it to 'Did he look at me?' alter the meaning?",
+    "correct": "It changes the focus from an ongoing action to a single, completed action.",
     "options": [
-      "Drawing pictures of students doing homework.",
-      "Writing a story about homework.",
-      "A tally chart or a frequency table",
-      "Singing a song about homework."
+      "It changes the sentence from past to present.",
+      "It doesn't change the meaning, only the grammar.",
+      "It makes the statement less certain.",
+      "It changes the focus from an ongoing action to a single, completed action."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Data Collection"
+    "topic": "Tense Nuance (Past Continuous vs. Past Simple)",
+    "complexity_score": 3
   }
 ]
