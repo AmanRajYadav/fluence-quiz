@@ -1,282 +1,282 @@
 [
   {
-    "question": "In the first story, what was Rea's favorite video game?",
-    "correct": "Valorant",
+    "question": "Based on the lesson, which sentence correctly describes an object on a surface?",
+    "correct": "The remote is on the table.",
     "options": [
-      "Gemini",
-      "The Game of Life",
-      "Valorant",
-      "Sage's Adventure"
+      "The remote is in the table.",
+      "The remote is at the table.",
+      "The remote is on the table.",
+      "The remote is over the table."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Listening Comprehension",
+    "topic": "Prepositions of Place",
     "complexity_score": 1
   },
   {
-    "question": "In the second story, what did Maya find under a bush in the park?",
-    "correct": "A bird with an injured wing",
+    "question": "To describe something positioned in the middle of two other things, which preposition should you use?",
+    "correct": "between",
     "options": [
-      "A talking duck",
-      "A lost notebook",
-      "A bird with an injured wing",
-      "A box with soft cloth"
+      "among",
+      "across",
+      "beside",
+      "between"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Listening Comprehension",
+    "topic": "Prepositions of Place",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence is grammatically correct based on the correction made during the writing session?",
-    "correct": "I want to be successful in my life.",
+    "question": "If you are moving from one side of the street to the other, you are going ___ the road.",
+    "correct": "across",
     "options": [
-      "I want to be success in my life.",
-      "I want to being successful in my life.",
-      "I want to be successful in my life.",
-      "I wants to be success in my life."
+      "through",
+      "along",
+      "across",
+      "into"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Grammar - Parts of Speech",
+    "topic": "Prepositions of Direction",
     "complexity_score": 1
   },
   {
-    "question": "According to the lesson, the article 'the' should be used before the names of what specific type of book?",
-    "correct": "Holy books or scriptures",
+    "question": "The preposition used to show that something is moving towards the inside of an object is:",
+    "correct": "into",
     "options": [
-      "All notebooks",
-      "All story books",
-      "Holy books or scriptures",
-      "Any book mentioned twice"
+      "in",
+      "to",
+      "into",
+      "on"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Grammar - Articles",
+    "topic": "Prepositions of Direction",
     "complexity_score": 1
   },
   {
-    "question": "In Valorant, what special power did the character Sage have?",
-    "correct": "She could heal teammates and build walls.",
+    "question": "If you disagree with a new rule, you are ___ the rule.",
+    "correct": "against",
     "options": [
-      "She could use fire to attack.",
-      "She could move faster than anyone.",
-      "She could heal teammates and build walls.",
-      "She could become invisible."
+      "in favor of",
+      "with",
+      "against",
+      "besides"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Listening Comprehension",
+    "topic": "Prepositions of Relationship",
     "complexity_score": 1
   },
   {
-    "question": "Choose the correct subject-verb agreement discussed in the class.",
-    "correct": "I like badminton.",
+    "question": "When you are going up the stairs to the next floor, you are going ___.",
+    "correct": "upstairs",
     "options": [
-      "I likes badminton.",
-      "I are liking badminton.",
-      "I like badminton.",
-      "I am likes badminton."
+      "up",
+      "upon the stairs",
+      "upstairs",
+      "above"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Grammar - Subject-Verb Agreement",
+    "topic": "Prepositions of Direction",
     "complexity_score": 1
   },
   {
-    "question": "The story about Rea suggests that playing Valorant is similar to real life because success in both requires...",
-    "correct": "teamwork, patience, and smart choices.",
+    "question": "The teacher explained that an airplane flying high in the sky is ___ your head.",
+    "correct": "over",
     "options": [
-      "only being good at shooting.",
-      "playing as the character Sage.",
-      "teamwork, patience, and smart choices.",
-      "winning every round from the start."
+      "above",
+      "over",
+      "on",
+      "upon"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Listening Comprehension - Inference",
+    "topic": "Distinguishing Prepositions",
     "complexity_score": 2
   },
   {
-    "question": "Why is the article 'the' used in the sentence, \"He is the Shahjahan of our class\"?",
-    "correct": "A proper noun (Shahjahan) is being used as a common noun to represent a quality (like being a great builder).",
+    "question": "The sentence 'You must submit your project BY Monday' means you should submit it:",
+    "correct": "Before Monday",
     "options": [
-      "Because Shahjahan was a historical person.",
-      "It refers to a unique job title.",
-      "A proper noun (Shahjahan) is being used as a common noun to represent a quality (like being a great builder).",
-      "The name is a superlative adjective."
+      "On Monday exactly",
+      "Any time on Monday",
+      "Before Monday",
+      "After Monday"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar - Articles",
+    "topic": "Prepositions of Time",
     "complexity_score": 2
   },
   {
-    "question": "Based on the instructor's example, which sentence correctly uses the second conditional structure?",
-    "correct": "If I were the Prime Minister, I would ban the Chinese products.",
+    "question": "To say 'in addition to Saksham, I have no other sibling,' which preposition is correct?",
+    "correct": "Besides",
     "options": [
-      "If I was the Prime Minister, I will ban the Chinese products.",
-      "If I were the Prime Minister, I would have banned the Chinese products.",
-      "If I am the Prime Minister, I would ban the Chinese products.",
-      "If I were the Prime Minister, I would ban the Chinese products."
+      "Beside",
+      "Besides",
+      "Apart",
+      "With"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar - Conditionals",
+    "topic": "Distinguishing Prepositions",
     "complexity_score": 2
   },
   {
-    "question": "What character traits did Maya demonstrate by taking the injured bird home and caring for it?",
-    "correct": "Kindness and responsibility",
+    "question": "According to the lesson, which pair of prepositions correctly fills the blanks: 'You are ___ your house, but you are ___ your room.'",
+    "correct": "at, in",
     "options": [
-      "Curiosity and creativity",
-      "Patience and frustration",
-      "Kindness and responsibility",
-      "Bravery and strength"
+      "in, at",
+      "on, in",
+      "at, on",
+      "at, in"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Listening Comprehension - Character Analysis",
+    "topic": "Prepositions of Place",
     "complexity_score": 2
   },
   {
-    "question": "According to the quiz recall, which of these requires 'the' because it's a superlative adjective?",
-    "correct": "He is the best student.",
+    "question": "Based on the rule discussed about countries, which sentence is grammatically correct?",
+    "correct": "You are currently in India.",
     "options": [
-      "The more you study, the better you get.",
-      "He is a better student.",
-      "He is the best student.",
-      "The first student in line."
+      "You are currently in the India.",
+      "You are currently on India.",
+      "You are currently at India.",
+      "You are currently in India."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar - Articles",
+    "topic": "Grammar Rules",
     "complexity_score": 2
   },
   {
-    "question": "What strategy did the instructor suggest when the student was unsure about using 'I like' versus 'I likes'?",
-    "correct": "Say sentences out loud using different subjects to see what sounds right.",
+    "question": "If you are writing a letter using a pen, you are writing ___ a pen.",
+    "correct": "with",
     "options": [
-      "Look up the rule in a grammar book.",
-      "Ask for the answer immediately.",
-      "Say sentences out loud using different subjects to see what sounds right.",
-      "Guess and move on to the next question."
+      "by",
+      "from",
+      "with",
+      "through"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Metacognition - Learning Strategies",
+    "topic": "Prepositions of Instrument",
     "complexity_score": 2
   },
   {
-    "question": "The instructor mentioned that the homework of talking with Gemini was meant to improve a specific skill tested by the unseen passages. What was that skill?",
-    "correct": "Listening comprehension and recall",
+    "question": "To describe an object that is completely covered and physically touching the underside of something, which preposition is most accurate?",
+    "correct": "underneath",
     "options": [
-      "Writing speed",
-      "Spelling accuracy",
-      "Listening comprehension and recall",
-      "Reading out loud"
+      "below",
+      "under",
+      "beneath",
+      "underneath"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Lesson Purpose",
+    "topic": "Distinguishing Prepositions",
     "complexity_score": 2
   },
   {
-    "question": "Which sentence correctly applies the rule for using 'the' with ordinal numbers?",
-    "correct": "The first question was the easiest.",
+    "question": "Which sentence correctly uses a preposition to show travel via a transportation medium, as discussed in class?",
+    "correct": "Saksham goes to Bangalore by aeroplane.",
     "options": [
-      "A first question was the easiest.",
-      "First question was the easiest.",
-      "The first question was the easiest.",
-      "I have the one question."
+      "Saksham goes to Bangalore with aeroplane.",
+      "Saksham goes to Bangalore by aeroplane.",
+      "Saksham goes to Bangalore on aeroplane.",
+      "Saksham goes to Bangalore through aeroplane."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar - Articles",
+    "topic": "Prepositions of Instrument",
     "complexity_score": 2
   },
   {
-    "question": "The lesson about Valorant implies that a person's unique skills (like Sage's healing) are most effective when used...",
-    "correct": "in coordination with a team's strategy.",
+    "question": "The teacher explained that prepositions like 'above' and 'below' are best used for non-physical things like levels or marks. Which example fits this rule?",
+    "correct": "You performed above my expectations.",
     "options": [
-      "only for self-defense.",
-      "to show off to other players.",
-      "in coordination with a team's strategy.",
-      "independently, without talking to others."
+      "The cat jumped above the wall.",
+      "You performed above my expectations.",
+      "The helicopter is flying above the building.",
+      "Go above the stairs."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Listening Comprehension - Critical Thinking",
+    "topic": "Abstract Prepositions",
     "complexity_score": 3
   },
   {
-    "question": "At the end of the second story, Maya felt proud. How was this feeling different from just being happy?",
-    "correct": "It came from understanding the importance of her own actions and values like kindness.",
+    "question": "Which scenario best illustrates the use of the preposition 'among'?",
+    "correct": "A single red flower is hidden among many yellow flowers.",
     "options": [
-      "It was the same as being happy; the words mean the same thing.",
-      "It came from understanding the importance of her own actions and values like kindness.",
-      "It was a less intense feeling than happiness.",
-      "It was because her mother praised her, not because of the bird."
+      "The pencil is among the book and the eraser.",
+      "A single red flower is hidden among many yellow flowers.",
+      "The car is parked among the two houses.",
+      "She walked among the road."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Listening Comprehension - Thematic Analysis",
+    "topic": "Distinguishing Prepositions",
     "complexity_score": 3
   },
   {
-    "question": "The sentence structure \"The more you practice, the more you learn\" was given as an example for using 'the'. What relationship does this structure show?",
-    "correct": "It shows that two things change together in a parallel way.",
+    "question": "The instructor noted a specific rule for speaking in front of people versus non-living things. What is the correct way to say you are speaking on stage to your teachers?",
+    "correct": "I am speaking before my teachers.",
     "options": [
-      "It compares two different, unrelated things.",
-      "It is a rule for using superlatives.",
-      "It shows that two things change together in a parallel way.",
-      "It is used for selecting between two options."
+      "I am speaking in front of my teachers.",
+      "I am speaking before my teachers.",
+      "I am speaking against my teachers.",
+      "I am speaking to front of my teachers."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammar - Advanced Structures",
+    "topic": "Grammar Rules",
     "complexity_score": 3
   },
   {
-    "question": "What common theme connects the story about Rea playing Valorant and the story about Maya helping the bird?",
-    "correct": "Both stories show that applying positive values and smart strategies leads to success.",
+    "question": "'___ fighting so much, the two siblings became friends again.' Which preposition correctly shows this contrast?",
+    "correct": "Despite",
     "options": [
-      "Both stories are about winning a game.",
-      "Both stories involve animals.",
-      "Both stories show that applying positive values and smart strategies leads to success.",
-      "Both stories teach that one should always work alone."
+      "Instead of",
+      "Despite",
+      "Against",
+      "Without"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Thematic Synthesis",
+    "topic": "Prepositions of Logic",
     "complexity_score": 3
   },
   {
-    "question": "Based on the rules discussed in the quiz recall, why is 'the' correct in \"The US is a powerful country\"?",
-    "correct": "Because the name represents a union of states or a republic.",
+    "question": "The teacher described a cat jumping from a lower surface and landing on a higher one, like a wall. This action is best described as jumping ___ the wall.",
+    "correct": "upon",
     "options": [
-      "Because it is a proper noun.",
-      "Because 'US' is a superlative adjective.",
-      "Because the name represents a union of states or a republic.",
-      "Because it is a unique object in the universe."
+      "over",
+      "above",
+      "upon",
+      "on"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammar - Articles",
+    "topic": "Prepositions of Direction",
     "complexity_score": 3
   },
   {
-    "question": "In the Valorant story, the team was initially losing and frustrated. What was the key change that led to their victory?",
-    "correct": "They shifted from frustration to a strategy of staying calm and working together.",
+    "question": "As explained in the lesson, 'beneath' can be used for non-physical things. Which sentence correctly uses it in this abstract way?",
+    "correct": "His rude comment was beneath my dignity.",
     "options": [
-      "The other team made a mistake.",
-      "They changed the game they were playing.",
-      "Rea used a secret power no one knew about.",
-      "They shifted from frustration to a strategy of staying calm and working together."
+      "The keys are beneath the mat.",
+      "The submarine traveled beneath the waves.",
+      "His rude comment was beneath my dignity.",
+      "My feet are beneath the table."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Listening Comprehension - Cause and Effect",
+    "topic": "Abstract Prepositions",
     "complexity_score": 3
   }
 ]
