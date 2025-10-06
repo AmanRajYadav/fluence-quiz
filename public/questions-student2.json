@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the discussion, who is the author of the play 'Hamlet'?",
-    "correct": "William Shakespeare",
+    "question": "What is the correct definition of a shape's perimeter?",
+    "correct": "The total length of its border.",
     "options": [
-      "Charles Dickens",
-      "Jane Austen",
-      "William Shakespeare",
-      "John Keats"
+      "The space inside the shape.",
+      "The length of its longest side.",
+      "The total length of its border.",
+      "The result of multiplying its length and breadth."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "English Literature: Shakespeare",
+    "topic": "Perimeter & Area Definitions",
     "complexity_score": 1
   },
   {
-    "question": "What is the meaning of the word 'hamlet' as defined in the class?",
-    "correct": "A small village or settlement",
+    "question": "How do you calculate the area of a rectangle?",
+    "correct": "Multiply its length by its breadth.",
     "options": [
-      "A famous actor",
-      "A type of book",
-      "A small village or settlement",
-      "A tragic hero"
+      "Add all four of its sides together.",
+      "Multiply its length by its breadth.",
+      "Add its length and its breadth.",
+      "Multiply the length by 2."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vocabulary & Context",
+    "topic": "Area Calculation",
     "complexity_score": 1
   },
   {
-    "question": "Which of the following categories for famous personalities was used in the guessing game?",
-    "correct": "Actor",
+    "question": "What does the 'area' of a surface tell you?",
+    "correct": "How much space the surface covers.",
     "options": [
-      "Scientist",
-      "Musician",
-      "Actor",
-      "Chef"
+      "How long the boundary of the surface is.",
+      "How many corners the surface has.",
+      "How tall the surface is.",
+      "How much space the surface covers."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Game Categories",
+    "topic": "Perimeter & Area Definitions",
     "complexity_score": 1
   },
   {
-    "question": "One of the personalities discussed, Sachin Tendulkar, is famous in which field?",
-    "correct": "Cricket",
+    "question": "In a rectangle, what is the shorter side typically called?",
+    "correct": "Breadth",
     "options": [
-      "Acting",
-      "Politics",
-      "Cricket",
-      "Writing"
+      "Length",
+      "Diagonal",
+      "Breadth",
+      "Perimeter"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "General Knowledge: Famous Personalities",
+    "topic": "Rectangle Properties",
     "complexity_score": 1
   },
   {
-    "question": "The game played in class involved asking what type of questions to identify a secret personality?",
-    "correct": "Yes/No questions",
+    "question": "If you want to put a fence around a rectangular garden, what would you need to calculate?",
+    "correct": "The perimeter of the garden.",
     "options": [
-      "Open-ended questions",
-      "Multiple-choice questions",
-      "Yes/No questions",
-      "Riddles"
+      "The area of the garden.",
+      "The perimeter of the garden.",
+      "The length of one side.",
+      "The cost of the seeds."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Game Mechanics & Logic",
+    "topic": "Real-World Application",
     "complexity_score": 1
   },
   {
-    "question": "The students connected the guessing game to their studies by asking if the person was mentioned in their...",
-    "correct": "English book",
+    "question": "How is the perimeter of a rectangle calculated using its length (L) and breadth (B)?",
+    "correct": "L + B + L + B",
     "options": [
-      "History textbook",
-      "Science journal",
-      "English book",
-      "Math workbook"
+      "L x B",
+      "L + B",
+      "L + B + L + B",
+      "L x L x B x B"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Interdisciplinary Connections",
+    "topic": "Perimeter Calculation",
     "complexity_score": 1
   },
   {
-    "question": "In a deduction game, why is asking a broad category question like 'Is the person related to movies?' a good early strategy?",
-    "correct": "It eliminates a large number of possibilities at once.",
+    "question": "Akshi's rectangular track has a length of 70 meters and a breadth of 40 meters. What is the perimeter of her track?",
+    "correct": "220 meters",
     "options": [
-      "It gives a specific clue about the person's name.",
-      "It confirms the person's age.",
-      "It eliminates a large number of possibilities at once.",
-      "It is the only type of question allowed."
+      "110 meters",
+      "2800 meters",
+      "220 meters",
+      "70 meters"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Logical Strategy",
+    "topic": "Perimeter Calculation",
     "complexity_score": 2
   },
   {
-    "question": "If you learn that a mystery person is an author mentioned in your English book, what would be a logical follow-up question?",
-    "correct": "'Is this person a poet?'",
+    "question": "Toshi runs 7 rounds along her track, which has a perimeter of 180 meters. What is the total distance she ran?",
+    "correct": "1260 meters",
     "options": [
-      "'Is this person alive?'",
-      "'Is this person a politician?'",
-      "'Is this person a poet?'",
-      "'Is this person an actor?'"
+      "180 meters",
+      "1260 meters",
+      "187 meters",
+      "1100 meters"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Deductive Reasoning",
+    "topic": "Multi-Step Problem Solving",
     "complexity_score": 2
   },
   {
-    "question": "The discussion about Akshay Kumar's movie being in theaters was used as a clue to determine what about him?",
-    "correct": "Whether he is a current and active actor",
+    "question": "A square has a side length of 3 meters. What is its area?",
+    "correct": "9 square meters",
     "options": [
-      "His exact age",
-      "His political views",
-      "Whether he is a current and active actor",
-      "The name of his first movie"
+      "12 meters",
+      "6 square meters",
+      "9 meters",
+      "9 square meters"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Using Context Clues",
+    "topic": "Area of a Square",
     "complexity_score": 2
   },
   {
-    "question": "The mention of 'Hamlet' and the 'Blind boy' poem suggests the class is exploring different forms of what?",
-    "correct": "English Literature",
+    "question": "If one square meter of grass mat costs Rs. 10, what would be the total cost to cover a rectangular ground with an area of 1800 square meters?",
+    "correct": "Rs. 18,000",
     "options": [
-      "Historical Events",
-      "Scientific Theories",
-      "English Literature",
-      "Political Systems"
+      "Rs. 180",
+      "Rs. 1,800",
+      "Rs. 18,000",
+      "Rs. 180,000"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Identifying Themes",
+    "topic": "Cost Calculation",
     "complexity_score": 2
   },
   {
-    "question": "How does knowing the meaning of the word 'hamlet' (a small village) add depth to understanding Shakespeare's play 'Hamlet'?",
-    "correct": "It hints at the small, contained world of the royal court where the drama unfolds.",
+    "question": "A poster has a length of 27 cm and a breadth of 21 cm. What is its approximate area?",
+    "correct": "567 square cm",
     "options": [
-      "It proves the main character was a famous politician.",
-      "It has no connection to the play's themes.",
-      "It hints at the small, contained world of the royal court where the drama unfolds.",
-      "It suggests the play is about building a new city."
+      "48 square cm",
+      "96 square cm",
+      "567 square cm",
+      "28350 square cm"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Literary Analysis",
+    "topic": "Area Calculation",
     "complexity_score": 2
   },
   {
-    "question": "When a player guessed a number, the other player responded, 'Very bad strategy.' This implies that a good strategy involves...",
-    "correct": "Narrowing down the range of possibilities systematically.",
+    "question": "A square has a side length of 10 meters. What is its area?",
+    "correct": "100 square meters",
     "options": [
-      "Guessing random numbers immediately.",
-      "Asking for the answer directly.",
-      "Narrowing down the range of possibilities systematically.",
-      "Only guessing numbers that are dates."
+      "20 square meters",
+      "40 meters",
+      "100 meters",
+      "100 square meters"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Metacognition: Evaluating Strategy",
+    "topic": "Area of a Square",
     "complexity_score": 2
   },
   {
-    "question": "The game of 'Guess the Personality' primarily develops which cognitive skill?",
-    "correct": "Deductive reasoning",
+    "question": "Why did Kavya's initial guess that Akshi ran more than Toshi turn out to be incorrect?",
+    "correct": "Because Toshi ran more rounds on a slightly smaller track.",
     "options": [
-      "Rote memorization",
-      "Creative writing",
-      "Deductive reasoning",
-      "Athletic coordination"
+      "Because Akshi's track was much smaller.",
+      "Because initial guesses in math are always wrong.",
+      "Because calculation showed Akshi ran a shorter total distance.",
+      "Because Toshi ran more rounds on a slightly smaller track."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cognitive Skills",
+    "topic": "Problem Analysis",
     "complexity_score": 2
   },
   {
-    "question": "A player asks, 'Is his name mentioned in any of your books?' What is the player trying to connect?",
-    "correct": "General knowledge with specific academic curriculum",
+    "question": "If you want to lay new tiles on a rectangular kitchen floor, what is the first thing you must calculate?",
+    "correct": "The area of the floor.",
     "options": [
-      "The person's age with their profession",
-      "The person's nationality with their fame",
-      "General knowledge with specific academic curriculum",
-      "The game with a different game"
+      "The perimeter of the floor.",
+      "The length of one wall.",
+      "The area of the floor.",
+      "The number of tiles you have."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cross-Contextual Thinking",
+    "topic": "Real-World Application",
     "complexity_score": 2
   },
   {
-    "question": "Imagine the clues are: 1) The person is in your English book. 2) The person is NOT a poet. 3) The person is a 'he'. Which of the following is the most likely category for the mystery person?",
-    "correct": "The author of a prose chapter or a playwright",
+    "question": "A large rectangle has an area of 2,800 sq meters. A smaller rectangle inside it has an area of 1,800 sq meters. What is the area of the space between them (the 'frame')?",
+    "correct": "1,000 sq meters",
     "options": [
-      "An actress from a movie adaptation",
-      "A female poet from chapter one",
-      "The author of a prose chapter or a playwright",
-      "A politician mentioned in a footnote"
+      "4,600 sq meters",
+      "1,000 sq meters",
+      "2,800 sq meters",
+      "Cannot be determined"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Inference and Synthesis",
+    "topic": "Area of Composite Shapes",
     "complexity_score": 3
   },
   {
-    "question": "A player's question 'Is he young, below 40?' was discarded because the other player didn't know the answer. What does this reveal about the rules of a fair deduction game?",
-    "correct": "Questions must have verifiable 'yes' or 'no' answers known by the answerer.",
+    "question": "The outer track (Akshi's) has an area of 2,800 sq m. The inner track (Toshi's) has an area of 1,800 sq m. If grass seed costs Rs. 10 per sq m, how much would it cost to seed only the green area between the tracks?",
+    "correct": "Rs. 10,000",
     "options": [
-      "Questions about age are not allowed.",
-      "Only five questions are permitted per turn.",
-      "Questions must have verifiable 'yes' or 'no' answers known by the answerer.",
-      "You can only ask about people over 40."
+      "Rs. 28,000",
+      "Rs. 18,000",
+      "Rs. 46,000",
+      "Rs. 10,000"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Analyzing Game Theory & Fairness",
+    "topic": "Multi-Step Cost Calculation",
     "complexity_score": 3
   },
   {
-    "question": "Which question demonstrates the most effective synthesis of previous information: (A) Is he an actor? (B) Is he alive? (C) After learning a movie is in theaters, asking 'Is the person an actor in Jolly LLB 2?'",
-    "correct": "C) After learning a movie is in theaters, asking 'Is the person an actor in Jolly LLB 2?'",
+    "question": "A square's side is doubled from 2 meters to 4 meters. What happens to its area?",
+    "correct": "It becomes four times larger.",
     "options": [
-      "A) Is he an actor?",
-      "B) Is he alive?",
-      "C) After learning a movie is in theaters, asking 'Is the person an actor in Jolly LLB 2?'",
-      "All three are equally effective."
+      "It doubles.",
+      "It stays the same.",
+      "It becomes four times larger.",
+      "It becomes three times larger."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Evaluating Questioning Strategy",
+    "topic": "Proportional Reasoning",
     "complexity_score": 3
   },
   {
-    "question": "The game shifts from guessing a personality to guessing a number. This change in context tests the players' ability to...",
-    "correct": "Adapt their logical strategies to different types of problems.",
+    "question": "Why is 'length x breadth' the formula for a rectangle's area?",
+    "correct": "It represents placing the 'length' line next to itself 'breadth' number of times to fill the space.",
     "options": [
-      "Remember historical dates.",
-      "Recite multiplication tables.",
-      "Adapt their logical strategies to different types of problems.",
-      "Identify famous mathematicians."
+      "Because scientists decided it was the easiest formula.",
+      "Because multiplication is the opposite of addition.",
+      "It represents placing the 'length' line next to itself 'breadth' number of times to fill the space.",
+      "It's the only way to get an answer in 'square' units."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cognitive Flexibility",
+    "topic": "Conceptual Understanding",
     "complexity_score": 3
   },
   {
-    "question": "A player asks about a number: 'Does that number start with 4, 5, 6?'. The answer is 'No'. Then they ask 'Is it 8 or 9?' and the answer is 'No'. What can the player logically conclude?",
-    "correct": "If it's a single digit, it must be 1, 2, 3, or 7.",
+    "question": "A rectangular book cover has an area of 450 sq cm. If its total cost to print is Rs. 450, what is the cost per square centimeter?",
+    "correct": "Rs. 1 per sq cm",
     "options": [
-      "The number must be 10.",
-      "The number must be a two-digit number.",
-      "If it's a single digit, it must be 1, 2, 3, or 7.",
-      "The other player is not following the rules."
+      "Rs. 450 per sq cm",
+      "Rs. 10 per sq cm",
+      "Rs. 1 per sq cm",
+      "It's impossible to calculate."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Process of Elimination",
+    "topic": "Reverse Calculation",
     "complexity_score": 3
   },
   {
-    "question": "Considering the class discussed Shakespeare and played a deduction game, what is a shared core element between the two activities?",
-    "correct": "Interpreting clues to understand a situation or character.",
+    "question": "Toshi's track has a perimeter of 180m. Akshi's has a perimeter of 220m. However, the cost to lay grass on Toshi's field (Rs. 18,000) was MORE than on Akshi's green border (Rs. 10,000). What does this tell us?",
+    "correct": "Perimeter and area are independent; a smaller perimeter can enclose a larger area to be covered.",
     "options": [
-      "Both were written in the 16th century.",
-      "Both are primarily about famous politicians.",
-      "Interpreting clues to understand a situation or character.",
-      "They have no elements in common."
+      "The calculations must be wrong.",
+      "A larger perimeter always means a larger area.",
+      "Perimeter and area are independent; a smaller perimeter can enclose a larger area to be covered.",
+      "The cost of grass was different for each track."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Thematic Synthesis",
+    "topic": "Comparing Perimeter and Area",
     "complexity_score": 3
   }
 ]
