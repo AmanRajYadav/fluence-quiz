@@ -1,282 +1,282 @@
 [
   {
-    "question": "Based on the lesson, which sentence correctly describes an object on a surface?",
-    "correct": "The remote is on the table.",
+    "question": "What is the 'magic number' that the Kaprekar's Constant process always leads to for a suitable four-digit number?",
+    "correct": "6174",
     "options": [
-      "The remote is in the table.",
-      "The remote is at the table.",
-      "The remote is on the table.",
-      "The remote is over the table."
+      "1764",
+      "4761",
+      "6174",
+      "7416"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Prepositions of Place",
+    "topic": "Mathematical Concepts",
     "complexity_score": 1
   },
   {
-    "question": "To describe something positioned in the middle of two other things, which preposition should you use?",
-    "correct": "between",
+    "question": "According to the Collatz Conjecture rule discussed, what is the correct operation to perform on an ODD number?",
+    "correct": "Multiply by 3 and add 1",
     "options": [
-      "among",
-      "across",
-      "beside",
-      "between"
+      "Divide by 2",
+      "Multiply by 2 and subtract 1",
+      "Multiply by 3 and add 1",
+      "Square the number"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Prepositions of Place",
+    "topic": "Mathematical Concepts",
     "complexity_score": 1
   },
   {
-    "question": "If you are moving from one side of the street to the other, you are going ___ the road.",
-    "correct": "across",
+    "question": "In the English test, why was the student's answer '30' marked incorrect for the question 'There are ___ days in a month'?",
+    "correct": "The instructions required the answer to be written as a word, not a number.",
     "options": [
-      "through",
-      "along",
-      "across",
-      "into"
+      "Because some months have 31 days.",
+      "The student made a spelling mistake in the number.",
+      "The instructions required the answer to be written as a word, not a number.",
+      "The number '30' was written illegibly."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Prepositions of Direction",
+    "topic": "English Grammar",
     "complexity_score": 1
   },
   {
-    "question": "The preposition used to show that something is moving towards the inside of an object is:",
-    "correct": "into",
+    "question": "What specific grammar mistake involving adjectives did the student recall making on the test?",
+    "correct": "Writing 'best' instead of 'better'",
     "options": [
-      "in",
-      "to",
-      "into",
-      "on"
+      "Writing 'good' instead of 'well'",
+      "Writing 'better' instead of 'best'",
+      "Writing 'best' instead of 'better'",
+      "Using a double negative"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Prepositions of Direction",
+    "topic": "English Grammar",
     "complexity_score": 1
   },
   {
-    "question": "If you disagree with a new rule, you are ___ the rule.",
-    "correct": "against",
+    "question": "At the very beginning of the dictation passage, what is the character LEO doing?",
+    "correct": "Tracing patterns on a window sill",
     "options": [
-      "in favor of",
-      "with",
-      "against",
-      "besides"
+      "Looking for a blue feather",
+      "Digging in the damp earth",
+      "Tracing patterns on a window sill",
+      "Finding a smooth stone"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Prepositions of Relationship",
+    "topic": "Creative Writing",
     "complexity_score": 1
   },
   {
-    "question": "When you are going up the stairs to the next floor, you are going ___.",
-    "correct": "upstairs",
+    "question": "What is the very first step in the Kaprekar's Constant process, as explained in the class?",
+    "correct": "Take a four-digit number with at least two different digits.",
     "options": [
-      "up",
-      "upon the stairs",
-      "upstairs",
-      "above"
+      "Subtract the smallest digit from the largest.",
+      "Arrange the digits in ascending order.",
+      "Take a four-digit number with at least two different digits.",
+      "Immediately subtract 6174 from the number."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Prepositions of Direction",
+    "topic": "Mathematical Concepts",
     "complexity_score": 1
   },
   {
-    "question": "The teacher explained that an airplane flying high in the sky is ___ your head.",
-    "correct": "over",
+    "question": "If you start the Collatz Conjecture with the even number 10, what will the next number in the sequence be?",
+    "correct": "5",
     "options": [
-      "above",
-      "over",
-      "on",
-      "upon"
+      "31",
+      "5",
+      "20",
+      "11"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Distinguishing Prepositions",
-    "complexity_score": 2
+    "topic": "Mathematical Concepts",
+    "complexity_score": 1
   },
   {
-    "question": "The sentence 'You must submit your project BY Monday' means you should submit it:",
-    "correct": "Before Monday",
+    "question": "What was the tutor's key advice for answering questions about a reading passage correctly?",
+    "correct": "Understand the passage first and then write the answer in your own words.",
     "options": [
-      "On Monday exactly",
-      "Any time on Monday",
-      "Before Monday",
-      "After Monday"
+      "Find the exact sentence in the passage and copy it.",
+      "Understand the passage first and then write the answer in your own words.",
+      "Only read the first and last sentences of the passage.",
+      "Guess the answer based on the question's keywords."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Prepositions of Time",
-    "complexity_score": 2
+    "topic": "Reading Comprehension",
+    "complexity_score": 1
   },
   {
-    "question": "To say 'in addition to Saksham, I have no other sibling,' which preposition is correct?",
-    "correct": "Besides",
+    "question": "If a student applies the Kaprekar's Constant process to the number 3524, what is the first subtraction they must perform?",
+    "correct": "5432 - 2345",
     "options": [
-      "Beside",
-      "Besides",
-      "Apart",
-      "With"
+      "4325 - 2354",
+      "5432 - 2345",
+      "3524 - 2345",
+      "5432 - 4235"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Distinguishing Prepositions",
-    "complexity_score": 2
+    "topic": "Mathematical Concepts",
+    "complexity_score": 1
   },
   {
-    "question": "According to the lesson, which pair of prepositions correctly fills the blanks: 'You are ___ your house, but you are ___ your room.'",
-    "correct": "at, in",
+    "question": "In the dictation, a stone was found 'tucked inside the dark hole.' What does the word 'tucked' imply?",
+    "correct": "It was placed snugly and carefully inside.",
     "options": [
-      "in, at",
-      "on, in",
-      "at, on",
-      "at, in"
+      "It fell in by accident.",
+      "It was placed snugly and carefully inside.",
+      "It was thrown into the hole.",
+      "It was very difficult to see."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Prepositions of Place",
-    "complexity_score": 2
+    "topic": "Creative Writing",
+    "complexity_score": 1
   },
   {
-    "question": "Based on the rule discussed about countries, which sentence is grammatically correct?",
-    "correct": "You are currently in India.",
+    "question": "Why would a teacher prefer a student to write a specific name, like 'Jane', instead of a general pronoun like 'you' when answering a question about a story?",
+    "correct": "To ensure the answer is precise and clearly refers to the correct character.",
     "options": [
-      "You are currently in the India.",
-      "You are currently on India.",
-      "You are currently at India.",
-      "You are currently in India."
+      "Because 'Jane' is a longer word than 'you'.",
+      "To test the student's spelling of the name.",
+      "To make the answer more creative.",
+      "To ensure the answer is precise and clearly refers to the correct character."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar Rules",
-    "complexity_score": 2
+    "topic": "Reading Comprehension",
+    "complexity_score": 1
   },
   {
-    "question": "If you are writing a letter using a pen, you are writing ___ a pen.",
-    "correct": "with",
+    "question": "The tutor modeled how to create a 5-minute video by explaining several math topics back-to-back. What skill was this activity designed to improve?",
+    "correct": "Sustaining a detailed explanation and transitioning between related ideas.",
     "options": [
-      "by",
-      "from",
-      "with",
-      "through"
+      "Memorizing math formulas quickly.",
+      "Sustaining a detailed explanation and transitioning between related ideas.",
+      "Video editing and special effects.",
+      "Calculating Kaprekar's constant faster."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Prepositions of Instrument",
-    "complexity_score": 2
+    "topic": "Metacognition & Learning",
+    "complexity_score": 1
   },
   {
-    "question": "To describe an object that is completely covered and physically touching the underside of something, which preposition is most accurate?",
-    "correct": "underneath",
+    "question": "Being asked to answer a reading comprehension question in your 'own words' primarily tests your ability to do what?",
+    "correct": "Synthesize and rephrase information, showing true understanding.",
     "options": [
-      "below",
-      "under",
-      "beneath",
-      "underneath"
+      "Locate keywords in a text.",
+      "Copy sentences without spelling errors.",
+      "Synthesize and rephrase information, showing true understanding.",
+      "Memorize the entire passage."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Distinguishing Prepositions",
-    "complexity_score": 2
+    "topic": "Reading Comprehension",
+    "complexity_score": 1
   },
   {
-    "question": "Which sentence correctly uses a preposition to show travel via a transportation medium, as discussed in class?",
-    "correct": "Saksham goes to Bangalore by aeroplane.",
+    "question": "Why is a four-digit number where all digits are the same (e.g., 4444) unsuitable for the Kaprekar's Constant process?",
+    "correct": "Because subtracting the number from itself results in zero.",
     "options": [
-      "Saksham goes to Bangalore with aeroplane.",
-      "Saksham goes to Bangalore by aeroplane.",
-      "Saksham goes to Bangalore on aeroplane.",
-      "Saksham goes to Bangalore through aeroplane."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Prepositions of Instrument",
-    "complexity_score": 2
-  },
-  {
-    "question": "The teacher explained that prepositions like 'above' and 'below' are best used for non-physical things like levels or marks. Which example fits this rule?",
-    "correct": "You performed above my expectations.",
-    "options": [
-      "The cat jumped above the wall.",
-      "You performed above my expectations.",
-      "The helicopter is flying above the building.",
-      "Go above the stairs."
+      "Because the number is too large.",
+      "Because the process only works for odd numbers.",
+      "Because subtracting the number from itself results in zero.",
+      "Because it doesn't contain the digit 6, 1, 7, or 4."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Abstract Prepositions",
-    "complexity_score": 3
+    "topic": "Mathematical Concepts",
+    "complexity_score": 1
   },
   {
-    "question": "Which scenario best illustrates the use of the preposition 'among'?",
-    "correct": "A single red flower is hidden among many yellow flowers.",
+    "question": "The student hesitated to review her Social Science answer sheet. The conversation reframed this task as 'detective work.' What is the primary goal of this reframing?",
+    "correct": "To shift the focus from feeling judged to being curious about finding clues for improvement.",
     "options": [
-      "The pencil is among the book and the eraser.",
-      "A single red flower is hidden among many yellow flowers.",
-      "The car is parked among the two houses.",
-      "She walked among the road."
+      "To make the student feel guilty for not looking at her paper.",
+      "To suggest that the teacher made a mistake in grading.",
+      "To shift the focus from feeling judged to being curious about finding clues for improvement.",
+      "To imply that studying is a secret mission."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Distinguishing Prepositions",
-    "complexity_score": 3
+    "topic": "Metacognition & Learning",
+    "complexity_score": 1
   },
   {
-    "question": "The instructor noted a specific rule for speaking in front of people versus non-living things. What is the correct way to say you are speaking on stage to your teachers?",
-    "correct": "I am speaking before my teachers.",
+    "question": "The tutor's advice on answering reading comprehension questions (use your own words) aims to move the student beyond which lower-order thinking skill?",
+    "correct": "Simple recall and identification.",
     "options": [
-      "I am speaking in front of my teachers.",
-      "I am speaking before my teachers.",
-      "I am speaking against my teachers.",
-      "I am speaking to front of my teachers."
+      "Creative writing.",
+      "Critical analysis.",
+      "Simple recall and identification.",
+      "Problem-solving."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammar Rules",
-    "complexity_score": 3
+    "topic": "Reading Comprehension",
+    "complexity_score": 1
   },
   {
-    "question": "'___ fighting so much, the two siblings became friends again.' Which preposition correctly shows this contrast?",
-    "correct": "Despite",
+    "question": "In the dictation story, the line 'a small blue feather unlike any he had ever seen' is included to primarily achieve what effect?",
+    "correct": "To create a sense of mystery and uniqueness, signaling the start of an adventure.",
     "options": [
-      "Instead of",
-      "Despite",
-      "Against",
-      "Without"
+      "To describe the weather.",
+      "To test the spelling of the word 'feather'.",
+      "To create a sense of mystery and uniqueness, signaling the start of an adventure.",
+      "To prove that the main character likes birds."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Prepositions of Logic",
-    "complexity_score": 3
+    "topic": "Creative Writing",
+    "complexity_score": 1
   },
   {
-    "question": "The teacher described a cat jumping from a lower surface and landing on a higher one, like a wall. This action is best described as jumping ___ the wall.",
-    "correct": "upon",
+    "question": "The student's challenge of losing marks for writing '30' instead of 'thirty' highlights an important lesson about academic tests. What is it?",
+    "correct": "That following instructions precisely can be as crucial as knowing the correct information.",
     "options": [
-      "over",
-      "above",
-      "upon",
-      "on"
+      "That math skills are not important in English class.",
+      "That teachers always prefer longer answers.",
+      "That all school rules are arbitrary and should be ignored.",
+      "That following instructions precisely can be as crucial as knowing the correct information."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Prepositions of Direction",
-    "complexity_score": 3
+    "topic": "Metacognition & Learning",
+    "complexity_score": 1
   },
   {
-    "question": "As explained in the lesson, 'beneath' can be used for non-physical things. Which sentence correctly uses it in this abstract way?",
-    "correct": "His rude comment was beneath my dignity.",
+    "question": "When the tutor suggested increasing the writing task from one paragraph to one page, he was applying which core learning principle?",
+    "correct": "Progressive difficulty, or 'raising the bar,' to ensure continuous growth.",
     "options": [
-      "The keys are beneath the mat.",
-      "The submarine traveled beneath the waves.",
-      "His rude comment was beneath my dignity.",
-      "My feet are beneath the table."
+      "Repetition for memorization.",
+      "Learning through play.",
+      "Progressive difficulty, or 'raising the bar,' to ensure continuous growth.",
+      "Rewarding correct answers with points."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Abstract Prepositions",
-    "complexity_score": 3
+    "topic": "Metacognition & Learning",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is a shared characteristic between analyzing an English grammar error and following the steps of a mathematical process like Kaprekar's Constant?",
+    "correct": "Both require careful attention to specific rules and procedures.",
+    "options": [
+      "Both involve creative and imaginative thinking.",
+      "Both are primarily about speed and quick calculation.",
+      "Both require careful attention to specific rules and procedures.",
+      "Both are only useful for passing school exams."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Metacognition & Learning",
+    "complexity_score": 1
   }
 ]
