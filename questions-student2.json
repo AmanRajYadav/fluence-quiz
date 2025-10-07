@@ -1,96 +1,96 @@
 [
   {
-    "question": "What is the correct definition of a shape's perimeter?",
-    "correct": "The total length of its border.",
+    "question": "What is the correct way to calculate the area of a rectangle?",
+    "correct": "Multiply its length by its breadth",
     "options": [
-      "The space inside the shape.",
-      "The length of its longest side.",
-      "The total length of its border.",
-      "The result of multiplying its length and breadth."
+      "Add its length and breadth together",
+      "Add all four of its sides",
+      "Multiply its length by its breadth",
+      "Multiply its length by 2"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Perimeter & Area Definitions",
+    "topic": "Area Formula",
     "complexity_score": 1
   },
   {
-    "question": "How do you calculate the area of a rectangle?",
-    "correct": "Multiply its length by its breadth.",
+    "question": "Perimeter is best described as...",
+    "correct": "The total distance around the outer boundary of a shape.",
     "options": [
-      "Add all four of its sides together.",
-      "Multiply its length by its breadth.",
-      "Add its length and its breadth.",
-      "Multiply the length by 2."
+      "The space inside a shape.",
+      "The length of the longest side.",
+      "The total distance around the outer boundary of a shape.",
+      "The result of multiplying length and breadth."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Area Calculation",
+    "topic": "Perimeter Definition",
     "complexity_score": 1
   },
   {
-    "question": "What does the 'area' of a surface tell you?",
-    "correct": "How much space the surface covers.",
+    "question": "A square carpet has a side length of 3 meters. What is its area?",
+    "correct": "9 square meters",
     "options": [
-      "How long the boundary of the surface is.",
-      "How many corners the surface has.",
-      "How tall the surface is.",
-      "How much space the surface covers."
+      "6 square meters",
+      "12 square meters",
+      "3 square meters",
+      "9 square meters"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Perimeter & Area Definitions",
+    "topic": "Area of a Square",
     "complexity_score": 1
   },
   {
-    "question": "In a rectangle, what is the shorter side typically called?",
-    "correct": "Breadth",
+    "question": "If you have a rectangle with a length of 6 cm and a breadth of 4 cm, what is its area?",
+    "correct": "24 square cm",
     "options": [
-      "Length",
-      "Diagonal",
-      "Breadth",
-      "Perimeter"
+      "10 square cm",
+      "20 square cm",
+      "24 square cm",
+      "12 square cm"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Rectangle Properties",
+    "topic": "Area of a Rectangle",
     "complexity_score": 1
   },
   {
-    "question": "If you want to put a fence around a rectangular garden, what would you need to calculate?",
-    "correct": "The perimeter of the garden.",
+    "question": "To find the total distance of one full round of a rectangular track, what do you need to calculate?",
+    "correct": "The perimeter of the track",
     "options": [
-      "The area of the garden.",
-      "The perimeter of the garden.",
-      "The length of one side.",
-      "The cost of the seeds."
+      "The area of the track",
+      "The length of the track",
+      "The perimeter of the track",
+      "The breadth of the track"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Real-World Application",
+    "topic": "Perimeter Application",
     "complexity_score": 1
   },
   {
-    "question": "How is the perimeter of a rectangle calculated using its length (L) and breadth (B)?",
-    "correct": "L + B + L + B",
+    "question": "If you add the length and the breadth of a rectangle, what have you found?",
+    "correct": "Half the perimeter",
     "options": [
-      "L x B",
-      "L + B",
-      "L + B + L + B",
-      "L x L x B x B"
+      "The total area",
+      "The full perimeter",
+      "The diagonal length",
+      "Half the perimeter"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Perimeter Calculation",
+    "topic": "Perimeter Components",
     "complexity_score": 1
   },
   {
-    "question": "Akshi's rectangular track has a length of 70 meters and a breadth of 40 meters. What is the perimeter of her track?",
+    "question": "A rectangular running track has a length of 70 meters and a breadth of 40 meters. What is the total distance of one complete round?",
     "correct": "220 meters",
     "options": [
       "110 meters",
       "2800 meters",
       "220 meters",
-      "70 meters"
+      "140 meters"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -98,55 +98,13 @@
     "complexity_score": 2
   },
   {
-    "question": "Toshi runs 7 rounds along her track, which has a perimeter of 180 meters. What is the total distance she ran?",
-    "correct": "1260 meters",
+    "question": "A floor is 5 meters long and 4 meters wide. What is the total area of the floor?",
+    "correct": "20 square meters",
     "options": [
-      "180 meters",
-      "1260 meters",
-      "187 meters",
-      "1100 meters"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Multi-Step Problem Solving",
-    "complexity_score": 2
-  },
-  {
-    "question": "A square has a side length of 3 meters. What is its area?",
-    "correct": "9 square meters",
-    "options": [
-      "12 meters",
-      "6 square meters",
-      "9 meters",
-      "9 square meters"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Area of a Square",
-    "complexity_score": 2
-  },
-  {
-    "question": "If one square meter of grass mat costs Rs. 10, what would be the total cost to cover a rectangular ground with an area of 1800 square meters?",
-    "correct": "Rs. 18,000",
-    "options": [
-      "Rs. 180",
-      "Rs. 1,800",
-      "Rs. 18,000",
-      "Rs. 180,000"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Cost Calculation",
-    "complexity_score": 2
-  },
-  {
-    "question": "A poster has a length of 27 cm and a breadth of 21 cm. What is its approximate area?",
-    "correct": "567 square cm",
-    "options": [
-      "48 square cm",
-      "96 square cm",
-      "567 square cm",
-      "28350 square cm"
+      "18 square meters",
+      "9 square meters",
+      "20 square meters",
+      "54 square meters"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -154,129 +112,171 @@
     "complexity_score": 2
   },
   {
-    "question": "A square has a side length of 10 meters. What is its area?",
-    "correct": "100 square meters",
+    "question": "Rakshi runs 5 full rounds of a track that is 220 meters long. What is the total distance she covers?",
+    "correct": "1100 meters",
+    "options": [
+      "225 meters",
+      "1100 meters",
+      "1000 meters",
+      "44 meters"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Multi-round Perimeter",
+    "complexity_score": 2
+  },
+  {
+    "question": "A rectangular piece of paper is 6 cm long and 4 cm wide. If it is cut exactly in half along its width, what are the dimensions of one of the new, smaller rectangles?",
+    "correct": "6 cm by 2 cm",
+    "options": [
+      "3 cm by 4 cm",
+      "6 cm by 2 cm",
+      "3 cm by 2 cm",
+      "6 cm by 4 cm"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Shape Division",
+    "complexity_score": 2
+  },
+  {
+    "question": "A runner on a 220m track completes one full round and then runs an additional 30 meters. What is the total distance covered from the start?",
+    "correct": "250 meters",
+    "options": [
+      "30 meters",
+      "220 meters",
+      "190 meters",
+      "250 meters"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Multi-step Distance",
+    "complexity_score": 2
+  },
+  {
+    "question": "Toshi's track is 180m per round. To run a total distance of 250m, how much further does she need to run after completing the first full round?",
+    "correct": "70 meters",
+    "options": [
+      "180 meters",
+      "250 meters",
+      "70 meters",
+      "100 meters"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Distance Calculation",
+    "complexity_score": 2
+  },
+  {
+    "question": "If a rectangle with an area of 24 square cm is cut into two perfectly identical pieces, what is the area of each piece?",
+    "correct": "12 square cm",
+    "options": [
+      "24 square cm",
+      "6 square cm",
+      "12 square cm",
+      "The area cannot be determined"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Area Division",
+    "complexity_score": 2
+  },
+  {
+    "question": "A runner has completed 4 full rounds of a 220m track. What is the total distance they have covered?",
+    "correct": "880 meters",
+    "options": [
+      "224 meters",
+      "1000 meters",
+      "880 meters",
+      "800 meters"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Multiplication Application",
+    "complexity_score": 2
+  },
+  {
+    "question": "A rectangular floor is 5m by 4m. A square carpet with 3m sides is laid on it. What is the area of the floor that is NOT carpeted?",
+    "correct": "11 square meters",
     "options": [
       "20 square meters",
-      "40 meters",
-      "100 meters",
-      "100 square meters"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Area of a Square",
-    "complexity_score": 2
-  },
-  {
-    "question": "Why did Kavya's initial guess that Akshi ran more than Toshi turn out to be incorrect?",
-    "correct": "Because Toshi ran more rounds on a slightly smaller track.",
-    "options": [
-      "Because Akshi's track was much smaller.",
-      "Because initial guesses in math are always wrong.",
-      "Because calculation showed Akshi ran a shorter total distance.",
-      "Because Toshi ran more rounds on a slightly smaller track."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Problem Analysis",
-    "complexity_score": 2
-  },
-  {
-    "question": "If you want to lay new tiles on a rectangular kitchen floor, what is the first thing you must calculate?",
-    "correct": "The area of the floor.",
-    "options": [
-      "The perimeter of the floor.",
-      "The length of one wall.",
-      "The area of the floor.",
-      "The number of tiles you have."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Real-World Application",
-    "complexity_score": 2
-  },
-  {
-    "question": "A large rectangle has an area of 2,800 sq meters. A smaller rectangle inside it has an area of 1,800 sq meters. What is the area of the space between them (the 'frame')?",
-    "correct": "1,000 sq meters",
-    "options": [
-      "4,600 sq meters",
-      "1,000 sq meters",
-      "2,800 sq meters",
-      "Cannot be determined"
+      "9 square meters",
+      "29 square meters",
+      "11 square meters"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Area of Composite Shapes",
+    "topic": "Area Subtraction",
     "complexity_score": 3
   },
   {
-    "question": "The outer track (Akshi's) has an area of 2,800 sq m. The inner track (Toshi's) has an area of 1,800 sq m. If grass seed costs Rs. 10 per sq m, how much would it cost to seed only the green area between the tracks?",
-    "correct": "Rs. 10,000",
+    "question": "A runner has covered 880m on a 220m track (sides 70m and 40m). To reach exactly 1000m, they need to run 120m more. Starting from the start/finish line, where will they be after running that extra 120m?",
+    "correct": "10m past the first corner, along the 40m side",
     "options": [
-      "Rs. 28,000",
-      "Rs. 18,000",
-      "Rs. 46,000",
-      "Rs. 10,000"
+      "Exactly at the halfway point of the track",
+      "At the starting point of the second 70m side",
+      "10m past the first corner, along the 40m side",
+      "Exactly at the second corner"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Multi-Step Cost Calculation",
+    "topic": "Spatial Reasoning",
     "complexity_score": 3
   },
   {
-    "question": "A square's side is doubled from 2 meters to 4 meters. What happens to its area?",
-    "correct": "It becomes four times larger.",
+    "question": "A 6cm by 4cm rectangle is cut into two 6cm by 2cm pieces. One piece is placed directly on top of the other, so the new shape is a 6cm by 2cm rectangle. What is the area of this new shape?",
+    "correct": "The question is misleading; the total area remains 24 sq cm, but the visible shape's area is 12 sq cm.",
     "options": [
-      "It doubles.",
-      "It stays the same.",
-      "It becomes four times larger.",
-      "It becomes three times larger."
+      "28 square cm",
+      "20 square cm",
+      "The question is misleading; the total area remains 24 sq cm, but the visible shape's area is 12 sq cm.",
+      "16 square cm"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Proportional Reasoning",
+    "topic": "Conceptual Area",
     "complexity_score": 3
   },
   {
-    "question": "Why is 'length x breadth' the formula for a rectangle's area?",
-    "correct": "It represents placing the 'length' line next to itself 'breadth' number of times to fill the space.",
+    "question": "A rectangular floor has an area of 20 sq. m. If you lay a square carpet that leaves exactly 11 sq. m of floor uncarpeted, what must be the side length of the square carpet?",
+    "correct": "3 meters",
     "options": [
-      "Because scientists decided it was the easiest formula.",
-      "Because multiplication is the opposite of addition.",
-      "It represents placing the 'length' line next to itself 'breadth' number of times to fill the space.",
-      "It's the only way to get an answer in 'square' units."
+      "9 meters",
+      "11 meters",
+      "4 meters",
+      "3 meters"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Conceptual Understanding",
+    "topic": "Reverse Area Calculation",
     "complexity_score": 3
   },
   {
-    "question": "A rectangular book cover has an area of 450 sq cm. If its total cost to print is Rs. 450, what is the cost per square centimeter?",
-    "correct": "Rs. 1 per sq cm",
+    "question": "A 6cm by 4cm rectangle is cut into two 6cm by 2cm pieces. These pieces are then joined along their 2cm sides to form a new, long rectangle. What is the perimeter of this new rectangle?",
+    "correct": "28 cm",
     "options": [
-      "Rs. 450 per sq cm",
-      "Rs. 10 per sq cm",
-      "Rs. 1 per sq cm",
-      "It's impossible to calculate."
+      "20 cm",
+      "24 cm",
+      "32 cm",
+      "28 cm"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Reverse Calculation",
+    "topic": "Perimeter of Composite Shapes",
     "complexity_score": 3
   },
   {
-    "question": "Toshi's track has a perimeter of 180m. Akshi's has a perimeter of 220m. However, the cost to lay grass on Toshi's field (Rs. 18,000) was MORE than on Akshi's green border (Rs. 10,000). What does this tell us?",
-    "correct": "Perimeter and area are independent; a smaller perimeter can enclose a larger area to be covered.",
+    "question": "If you cut a rectangle in half and rearrange the pieces to make a new shape without any overlap, what is guaranteed to stay the same?",
+    "correct": "The total area",
     "options": [
-      "The calculations must be wrong.",
-      "A larger perimeter always means a larger area.",
-      "Perimeter and area are independent; a smaller perimeter can enclose a larger area to be covered.",
-      "The cost of grass was different for each track."
+      "The perimeter",
+      "The length of the longest side",
+      "The total area",
+      "The number of corners"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Comparing Perimeter and Area",
+    "topic": "Conservation of Area",
     "complexity_score": 3
   }
 ]
