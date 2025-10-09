@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the correct way to calculate the area of a rectangle?",
-    "correct": "Multiply its length by its breadth",
+    "question": "What is the correct formula for the area of a rectangle?",
+    "correct": "Length × Breadth",
     "options": [
-      "Add its length and breadth together",
-      "Add all four of its sides",
-      "Multiply its length by its breadth",
-      "Multiply its length by 2"
+      "Length + Breadth",
+      "2 × (Length + Breadth)",
+      "Length × Breadth",
+      "Side × Side × Side"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Area Formula",
+    "topic": "Area of Rectangles",
     "complexity_score": 1
   },
   {
-    "question": "Perimeter is best described as...",
-    "correct": "The total distance around the outer boundary of a shape.",
+    "question": "In a triangle, what do we call the straight-down distance from the top vertex to the base?",
+    "correct": "Height",
     "options": [
-      "The space inside a shape.",
-      "The length of the longest side.",
-      "The total distance around the outer boundary of a shape.",
-      "The result of multiplying length and breadth."
+      "Slant Height",
+      "Breadth",
+      "Height",
+      "Diagonal"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Perimeter Definition",
+    "topic": "Properties of Triangles",
     "complexity_score": 1
   },
   {
-    "question": "A square carpet has a side length of 3 meters. What is its area?",
-    "correct": "9 square meters",
+    "question": "According to the lesson, if you cut a rectangle along its diagonal, what do you get?",
+    "correct": "Two triangles of equal area",
     "options": [
-      "6 square meters",
-      "12 square meters",
-      "3 square meters",
-      "9 square meters"
+      "Two smaller rectangles",
+      "Two triangles of different sizes",
+      "A square and a triangle",
+      "Two triangles of equal area"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Area of a Square",
+    "topic": "Area of Triangles",
     "complexity_score": 1
   },
   {
-    "question": "If you have a rectangle with a length of 6 cm and a breadth of 4 cm, what is its area?",
-    "correct": "24 square cm",
+    "question": "What is the correct plural form of the word 'woman'?",
+    "correct": "women",
     "options": [
-      "10 square cm",
-      "20 square cm",
-      "24 square cm",
-      "12 square cm"
+      "womans",
+      "women",
+      "woman's",
+      "womens"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Area of a Rectangle",
+    "topic": "English Grammar",
     "complexity_score": 1
   },
   {
-    "question": "To find the total distance of one full round of a rectangular track, what do you need to calculate?",
-    "correct": "The perimeter of the track",
+    "question": "The formula for the area of a square is 'side × side'. This is the same as a rectangle's formula because...",
+    "correct": "in a square, the length and breadth are equal.",
     "options": [
-      "The area of the track",
-      "The length of the track",
-      "The perimeter of the track",
-      "The breadth of the track"
+      "a square has more sides than a rectangle.",
+      "a square is a type of circle.",
+      "in a square, the length and breadth are equal.",
+      "the formulas are completely different."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Perimeter Application",
+    "topic": "Area of Squares and Rectangles",
     "complexity_score": 1
   },
   {
-    "question": "If you add the length and the breadth of a rectangle, what have you found?",
-    "correct": "Half the perimeter",
+    "question": "What is the correct past tense of the verb 'cut'?",
+    "correct": "cut",
     "options": [
-      "The total area",
-      "The full perimeter",
-      "The diagonal length",
-      "Half the perimeter"
+      "cutted",
+      "cutting",
+      "cuts",
+      "cut"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Perimeter Components",
+    "topic": "English Grammar",
     "complexity_score": 1
   },
   {
-    "question": "A rectangular running track has a length of 70 meters and a breadth of 40 meters. What is the total distance of one complete round?",
-    "correct": "220 meters",
+    "question": "Why do we use squares instead of circles to measure the area of a surface like a floor?",
+    "correct": "Squares can pack together tightly with no gaps, while circles leave gaps.",
     "options": [
-      "110 meters",
-      "2800 meters",
-      "220 meters",
-      "140 meters"
+      "Circles do not have a boundary or an edge.",
+      "Squares have more corners than circles.",
+      "Squares can pack together tightly with no gaps, while circles leave gaps.",
+      "It is easier to calculate the perimeter of a square."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Perimeter Calculation",
+    "topic": "Concept of Area",
     "complexity_score": 2
   },
   {
-    "question": "A floor is 5 meters long and 4 meters wide. What is the total area of the floor?",
-    "correct": "20 square meters",
+    "question": "A rectangle has a length of 10 cm and a breadth of 8 cm. If you cut it diagonally, what is the area of ONE of the resulting triangles?",
+    "correct": "40 square cm",
     "options": [
-      "18 square meters",
-      "9 square meters",
-      "20 square meters",
-      "54 square meters"
+      "80 square cm",
+      "18 square cm",
+      "40 square cm",
+      "20 square cm"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Area Calculation",
+    "topic": "Area of Triangles",
     "complexity_score": 2
   },
   {
-    "question": "Rakshi runs 5 full rounds of a track that is 220 meters long. What is the total distance she covers?",
-    "correct": "1100 meters",
+    "question": "The teacher used an analogy of getting salt back from salty water. How did this relate to finding the area of a triangle?",
+    "correct": "It showed that by 'going back' and turning the triangle into a familiar rectangle, we could solve the problem.",
     "options": [
-      "225 meters",
-      "1100 meters",
-      "1000 meters",
-      "44 meters"
+      "It meant that math problems are like dissolving things in water.",
+      "It was a hint to use the evaporation formula on the triangle.",
+      "It showed that by 'going back' and turning the triangle into a familiar rectangle, we could solve the problem.",
+      "It was a reminder that you need salt to measure area."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Multi-round Perimeter",
+    "topic": "Problem-Solving Strategies",
     "complexity_score": 2
   },
   {
-    "question": "A rectangular piece of paper is 6 cm long and 4 cm wide. If it is cut exactly in half along its width, what are the dimensions of one of the new, smaller rectangles?",
-    "correct": "6 cm by 2 cm",
+    "question": "A triangle has a base of 20 units and a height of 5 units. What is its area?",
+    "correct": "50 square units",
     "options": [
-      "3 cm by 4 cm",
-      "6 cm by 2 cm",
-      "3 cm by 2 cm",
-      "6 cm by 4 cm"
+      "100 square units",
+      "25 square units",
+      "50 square units",
+      "200 square units"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Shape Division",
+    "topic": "Calculating Area",
     "complexity_score": 2
   },
   {
-    "question": "A runner on a 220m track completes one full round and then runs an additional 30 meters. What is the total distance covered from the start?",
-    "correct": "250 meters",
+    "question": "In the lesson, two triangles (one blue, one red) looked different but had the same base and height. What was true about their areas?",
+    "correct": "Their areas were exactly the same.",
     "options": [
-      "30 meters",
-      "220 meters",
-      "190 meters",
-      "250 meters"
+      "The red triangle had a larger area.",
+      "The blue triangle had a larger area.",
+      "Their areas were completely different.",
+      "Their areas were exactly the same."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Multi-step Distance",
+    "topic": "Properties of Triangles",
     "complexity_score": 2
   },
   {
-    "question": "Toshi's track is 180m per round. To run a total distance of 250m, how much further does she need to run after completing the first full round?",
-    "correct": "70 meters",
+    "question": "If a student suggests finding the area of a triangle by multiplying its three side lengths together, what concept are they likely confusing with area?",
+    "correct": "Perimeter",
     "options": [
-      "180 meters",
-      "250 meters",
-      "70 meters",
-      "100 meters"
+      "Volume",
+      "Height",
+      "Perimeter",
+      "Diagonal"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Distance Calculation",
+    "topic": "Area vs. Perimeter",
     "complexity_score": 2
   },
   {
-    "question": "If a rectangle with an area of 24 square cm is cut into two perfectly identical pieces, what is the area of each piece?",
-    "correct": "12 square cm",
+    "question": "A triangle is drawn inside a rectangle. Its base is the same as the rectangle's length (5 units), and its top vertex touches the opposite side, making its height equal to the rectangle's breadth (4 units). What is the area of the triangle?",
+    "correct": "10 square units",
     "options": [
-      "24 square cm",
-      "6 square cm",
-      "12 square cm",
-      "The area cannot be determined"
+      "20 square units",
+      "10 square units",
+      "9 square units",
+      "18 square units"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Area Division",
+    "topic": "Area of Triangles",
     "complexity_score": 2
   },
   {
-    "question": "A runner has completed 4 full rounds of a 220m track. What is the total distance they have covered?",
-    "correct": "880 meters",
+    "question": "The formula for the sum of the first 'n' numbers is n × (n+1) / 2. Based on the pattern discovered in class, what is the sum of numbers from 1 to 10?",
+    "correct": "55",
     "options": [
-      "224 meters",
-      "1000 meters",
-      "880 meters",
-      "800 meters"
+      "50",
+      "100",
+      "55",
+      "60"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Multiplication Application",
+    "topic": "Number Patterns",
     "complexity_score": 2
   },
   {
-    "question": "A rectangular floor is 5m by 4m. A square carpet with 3m sides is laid on it. What is the area of the floor that is NOT carpeted?",
-    "correct": "11 square meters",
+    "question": "The main discovery of the lesson was that the area of a triangle is ½ × base × height because a triangle is essentially...",
+    "correct": "half of a rectangle with the same base and height.",
     "options": [
-      "20 square meters",
-      "9 square meters",
-      "29 square meters",
-      "11 square meters"
+      "a square that has been folded.",
+      "a shape that cannot be measured accurately.",
+      "half of a rectangle with the same base and height.",
+      "the same as its perimeter."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Area Subtraction",
+    "topic": "Conceptual Understanding of Area",
     "complexity_score": 3
   },
   {
-    "question": "A runner has covered 880m on a 220m track (sides 70m and 40m). To reach exactly 1000m, they need to run 120m more. Starting from the start/finish line, where will they be after running that extra 120m?",
-    "correct": "10m past the first corner, along the 40m side",
+    "question": "Imagine a triangle with a base of 6 cm. If you keep the base the same but double its height from 4 cm to 8 cm, what happens to its area?",
+    "correct": "The area doubles.",
     "options": [
-      "Exactly at the halfway point of the track",
-      "At the starting point of the second 70m side",
-      "10m past the first corner, along the 40m side",
-      "Exactly at the second corner"
+      "The area stays the same.",
+      "The area is cut in half.",
+      "The area doubles.",
+      "The area quadruples (becomes 4 times bigger)."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Spatial Reasoning",
+    "topic": "Analyzing Geometric Relationships",
     "complexity_score": 3
   },
   {
-    "question": "A 6cm by 4cm rectangle is cut into two 6cm by 2cm pieces. One piece is placed directly on top of the other, so the new shape is a 6cm by 2cm rectangle. What is the area of this new shape?",
-    "correct": "The question is misleading; the total area remains 24 sq cm, but the visible shape's area is 12 sq cm.",
+    "question": "Which sentence is grammatically correct based on the rules discussed in class?",
+    "correct": "She protects me from harm.",
     "options": [
-      "28 square cm",
-      "20 square cm",
-      "The question is misleading; the total area remains 24 sq cm, but the visible shape's area is 12 sq cm.",
-      "16 square cm"
+      "She protect me from harm.",
+      "I protects her from harm.",
+      "She protects me from harm.",
+      "They protects me from harm."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Conceptual Area",
+    "topic": "English Grammar (Subject-Verb Agreement)",
     "complexity_score": 3
   },
   {
-    "question": "A rectangular floor has an area of 20 sq. m. If you lay a square carpet that leaves exactly 11 sq. m of floor uncarpeted, what must be the side length of the square carpet?",
-    "correct": "3 meters",
+    "question": "A complex shape is made of a square (side 10m) attached to a triangle (base 10m, height 6m). The triangle's base is one of the square's sides. What is the total area of the shape?",
+    "correct": "130 square m",
     "options": [
-      "9 meters",
-      "11 meters",
-      "4 meters",
-      "3 meters"
+      "160 square m",
+      "100 square m",
+      "130 square m",
+      "30 square m"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Reverse Area Calculation",
+    "topic": "Composite Shapes",
     "complexity_score": 3
   },
   {
-    "question": "A 6cm by 4cm rectangle is cut into two 6cm by 2cm pieces. These pieces are then joined along their 2cm sides to form a new, long rectangle. What is the perimeter of this new rectangle?",
-    "correct": "28 cm",
+    "question": "If two different triangles have the exact same area, what MUST be true about them?",
+    "correct": "The product of their base and height must be the same.",
     "options": [
-      "20 cm",
-      "24 cm",
-      "32 cm",
-      "28 cm"
+      "They must have the same perimeter.",
+      "They must be identical in shape and size (congruent).",
+      "The product of their base and height must be the same.",
+      "They must both be right-angled triangles."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Perimeter of Composite Shapes",
+    "topic": "Conceptual Understanding of Area",
     "complexity_score": 3
   },
   {
-    "question": "If you cut a rectangle in half and rearrange the pieces to make a new shape without any overlap, what is guaranteed to stay the same?",
-    "correct": "The total area",
+    "question": "The teacher stated that visualizing area in a rectangle is like 'placing the breadth length times'. Why can't this same visualization be directly applied to a triangle by multiplying two sides?",
+    "correct": "Because the sides are not at right angles, so multiplying them would create a shape that goes outside the triangle's boundaries.",
     "options": [
-      "The perimeter",
-      "The length of the longest side",
-      "The total area",
-      "The number of corners"
+      "Because triangles have three sides, not two.",
+      "Because the sides are not at right angles, so multiplying them would create a shape that goes outside the triangle's boundaries.",
+      "Because a triangle's area can only be found by adding its sides.",
+      "Because triangles are always smaller than rectangles."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Conservation of Area",
+    "topic": "Visualizing Area",
     "complexity_score": 3
   }
 ]
