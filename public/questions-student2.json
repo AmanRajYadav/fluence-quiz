@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the correct formula for the area of a rectangle?",
-    "correct": "Length × Breadth",
+    "question": "What is the correct formula for calculating the area of a triangle?",
+    "correct": "Half multiplied by base multiplied by height (½ x b x h)",
     "options": [
-      "Length + Breadth",
-      "2 × (Length + Breadth)",
-      "Length × Breadth",
-      "Side × Side × Side"
+      "Base multiplied by height",
+      "Half multiplied by base multiplied by height (½ x b x h)",
+      "Just the length of the base",
+      "Length plus width"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Area of Rectangles",
+    "topic": "Area of a Triangle",
     "complexity_score": 1
   },
   {
-    "question": "In a triangle, what do we call the straight-down distance from the top vertex to the base?",
-    "correct": "Height",
+    "question": "According to the lesson, what type of food are carbohydrates, like rice and potatoes, classified as?",
+    "correct": "Energy-giving food",
     "options": [
-      "Slant Height",
-      "Breadth",
-      "Height",
-      "Diagonal"
+      "Body-building food",
+      "Protective food",
+      "Energy-giving food",
+      "Flavor-enhancing food"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Properties of Triangles",
+    "topic": "Types of Food",
     "complexity_score": 1
   },
   {
-    "question": "According to the lesson, if you cut a rectangle along its diagonal, what do you get?",
-    "correct": "Two triangles of equal area",
+    "question": "What are the three main types of carbohydrates mentioned in the class?",
+    "correct": "Sugars, cellulose, and starch",
     "options": [
-      "Two smaller rectangles",
-      "Two triangles of different sizes",
-      "A square and a triangle",
-      "Two triangles of equal area"
+      "Glucose, fats, and proteins",
+      "Sugars, cellulose, and starch",
+      "Vitamins, minerals, and water",
+      "Carbon, hydrogen, and oxygen"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Area of Triangles",
+    "topic": "Carbohydrates",
     "complexity_score": 1
   },
   {
-    "question": "What is the correct plural form of the word 'woman'?",
-    "correct": "women",
+    "question": "Which nutrient is primarily responsible for building and repairing body cells?",
+    "correct": "Proteins",
     "options": [
-      "womans",
-      "women",
-      "woman's",
-      "womens"
+      "Carbohydrates",
+      "Fats",
+      "Vitamins",
+      "Proteins"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "English Grammar",
+    "topic": "Proteins",
     "complexity_score": 1
   },
   {
-    "question": "The formula for the area of a square is 'side × side'. This is the same as a rectangle's formula because...",
-    "correct": "in a square, the length and breadth are equal.",
+    "question": "What chemical elements make up carbohydrates?",
+    "correct": "Carbon, Hydrogen, and Oxygen",
     "options": [
-      "a square has more sides than a rectangle.",
-      "a square is a type of circle.",
-      "in a square, the length and breadth are equal.",
-      "the formulas are completely different."
+      "Carbon, Hydrogen, Oxygen, and Nitrogen",
+      "Carbon, Hydrogen, and Oxygen",
+      "Only Carbon and Hydrogen",
+      "Only Oxygen and Water"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Area of Squares and Rectangles",
+    "topic": "Carbohydrates",
     "complexity_score": 1
   },
   {
-    "question": "What is the correct past tense of the verb 'cut'?",
-    "correct": "cut",
+    "question": "What is the simplest form of carbohydrate that the body can break down very quickly for energy?",
+    "correct": "Glucose",
     "options": [
-      "cutted",
-      "cutting",
-      "cuts",
-      "cut"
+      "Cellulose",
+      "Starch",
+      "Protein",
+      "Glucose"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "English Grammar",
+    "topic": "Carbohydrates",
     "complexity_score": 1
   },
   {
-    "question": "Why do we use squares instead of circles to measure the area of a surface like a floor?",
-    "correct": "Squares can pack together tightly with no gaps, while circles leave gaps.",
+    "question": "A student is asked to find the area of an L-shaped polygon on a grid. What is the most effective first step they should take?",
+    "correct": "Break the L-shape into two separate rectangles.",
     "options": [
-      "Circles do not have a boundary or an edge.",
-      "Squares have more corners than circles.",
-      "Squares can pack together tightly with no gaps, while circles leave gaps.",
-      "It is easier to calculate the perimeter of a square."
+      "Measure the perimeter of the L-shape.",
+      "Count all the squares along the outside edge.",
+      "Try to find a single formula for the area of an L-shape.",
+      "Break the L-shape into two separate rectangles."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Concept of Area",
+    "topic": "Area of Complex Shapes",
     "complexity_score": 2
   },
   {
-    "question": "A rectangle has a length of 10 cm and a breadth of 8 cm. If you cut it diagonally, what is the area of ONE of the resulting triangles?",
-    "correct": "40 square cm",
+    "question": "Why is glucose often given to athletes or patients who have fainted?",
+    "correct": "Because it's the simplest carbohydrate and provides energy almost immediately.",
     "options": [
-      "80 square cm",
-      "18 square cm",
-      "40 square cm",
-      "20 square cm"
+      "Because it helps build muscles faster than protein.",
+      "Because it is the only nutrient that contains oxygen.",
+      "Because it's the simplest carbohydrate and provides energy almost immediately.",
+      "Because it has a sweet taste that makes them feel better."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Area of Triangles",
+    "topic": "Carbohydrates in Action",
     "complexity_score": 2
   },
   {
-    "question": "The teacher used an analogy of getting salt back from salty water. How did this relate to finding the area of a triangle?",
-    "correct": "It showed that by 'going back' and turning the triangle into a familiar rectangle, we could solve the problem.",
+    "question": "The teacher mentioned that proteins are made of Carbon, Hydrogen, Oxygen, and Nitrogen (CHON). How does this differ from the composition of carbohydrates?",
+    "correct": "Proteins contain Nitrogen, while carbohydrates do not.",
     "options": [
-      "It meant that math problems are like dissolving things in water.",
-      "It was a hint to use the evaporation formula on the triangle.",
-      "It showed that by 'going back' and turning the triangle into a familiar rectangle, we could solve the problem.",
-      "It was a reminder that you need salt to measure area."
+      "Carbohydrates contain Oxygen, while proteins do not.",
+      "Proteins contain Nitrogen, while carbohydrates do not.",
+      "There is no difference in their chemical composition.",
+      "Proteins are simpler compounds than carbohydrates."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Problem-Solving Strategies",
+    "topic": "Nutrient Composition",
     "complexity_score": 2
   },
   {
-    "question": "A triangle has a base of 20 units and a height of 5 units. What is its area?",
-    "correct": "50 square units",
+    "question": "If a person's diet consists only of rice and sugar, what major nutrient group would they be missing for cell repair and growth?",
+    "correct": "Proteins",
     "options": [
-      "100 square units",
-      "25 square units",
-      "50 square units",
-      "200 square units"
+      "Fats",
+      "Carbohydrates",
+      "Proteins",
+      "Water"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Calculating Area",
+    "topic": "Balanced Diet",
     "complexity_score": 2
   },
   {
-    "question": "In the lesson, two triangles (one blue, one red) looked different but had the same base and height. What was true about their areas?",
-    "correct": "Their areas were exactly the same.",
+    "question": "The lesson explained that fats provide flavor and are stored under the skin. What is another crucial function of fats mentioned?",
+    "correct": "Cushioning delicate organs and preventing heat loss",
     "options": [
-      "The red triangle had a larger area.",
-      "The blue triangle had a larger area.",
-      "Their areas were completely different.",
-      "Their areas were exactly the same."
+      "Quickly converting into glucose for immediate energy",
+      "Building new cells to replace old ones",
+      "Providing fiber for digestion",
+      "Cushioning delicate organs and preventing heat loss"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Properties of Triangles",
+    "topic": "Functions of Fats",
     "complexity_score": 2
   },
   {
-    "question": "If a student suggests finding the area of a triangle by multiplying its three side lengths together, what concept are they likely confusing with area?",
-    "correct": "Perimeter",
+    "question": "The transcript mentions 'Saturated' and 'Unsaturated' fats. Where are unsaturated fats USUALLY derived from?",
+    "correct": "Plants",
     "options": [
-      "Volume",
-      "Height",
-      "Perimeter",
-      "Diagonal"
+      "Animals",
+      "Plants",
+      "Dairy products only",
+      "Artificial sources"
     ],
     "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Types of Fats",
+    "complexity_score": 2
+  },
+  {
+    "question": "A student correctly calculates the area of a triangle with a base of 4 units and a height of 2 units. What is the correct area?",
+    "correct": "4 square units",
+    "options": [
+      "8 square units",
+      "6 square units",
+      "4 square units",
+      "2 square units"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Applying Area Formula",
+    "complexity_score": 2
+  },
+  {
+    "question": "Based on the discussion, why is it important to eat both rice (a cereal) and pulses (like dal)?",
+    "correct": "To combine different sources to get a complete protein.",
+    "options": [
+      "Because one provides sugar and the other provides starch.",
+      "To get both carbohydrates and fats in one meal.",
+      "Because pulses help the body digest rice more easily.",
+      "To combine different sources to get a complete protein."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Proteins and Diet",
+    "complexity_score": 2
+  },
+  {
+    "question": "The summary at the end of the math section stated that two figures can have the 'same perimeter with different areas'. What does this imply?",
+    "correct": "The amount of space a shape covers is not solely determined by the length of its boundary.",
+    "options": [
+      "If the perimeter is the same, the area must also be the same.",
+      "Area and perimeter are two words for the same measurement.",
+      "The amount of space a shape covers is not solely determined by the length of its boundary.",
+      "Calculating area is always more difficult than calculating perimeter."
+    ],
+    "difficulty": "hard",
     "questionType": "mcq",
     "topic": "Area vs. Perimeter",
-    "complexity_score": 2
-  },
-  {
-    "question": "A triangle is drawn inside a rectangle. Its base is the same as the rectangle's length (5 units), and its top vertex touches the opposite side, making its height equal to the rectangle's breadth (4 units). What is the area of the triangle?",
-    "correct": "10 square units",
-    "options": [
-      "20 square units",
-      "10 square units",
-      "9 square units",
-      "18 square units"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Area of Triangles",
-    "complexity_score": 2
-  },
-  {
-    "question": "The formula for the sum of the first 'n' numbers is n × (n+1) / 2. Based on the pattern discovered in class, what is the sum of numbers from 1 to 10?",
-    "correct": "55",
-    "options": [
-      "50",
-      "100",
-      "55",
-      "60"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Number Patterns",
-    "complexity_score": 2
-  },
-  {
-    "question": "The main discovery of the lesson was that the area of a triangle is ½ × base × height because a triangle is essentially...",
-    "correct": "half of a rectangle with the same base and height.",
-    "options": [
-      "a square that has been folded.",
-      "a shape that cannot be measured accurately.",
-      "half of a rectangle with the same base and height.",
-      "the same as its perimeter."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Conceptual Understanding of Area",
     "complexity_score": 3
   },
   {
-    "question": "Imagine a triangle with a base of 6 cm. If you keep the base the same but double its height from 4 cm to 8 cm, what happens to its area?",
-    "correct": "The area doubles.",
+    "question": "The teacher explained that when the body runs out of carbohydrates, it starts using fats for energy. What is a logical consequence of this process?",
+    "correct": "Fasting or reduced carbohydrate intake can lead to weight loss as fat stores are used.",
     "options": [
-      "The area stays the same.",
-      "The area is cut in half.",
-      "The area doubles.",
-      "The area quadruples (becomes 4 times bigger)."
+      "The body immediately starts breaking down muscles for energy.",
+      "A person feels more energetic because fats provide more energy.",
+      "The body stops needing energy altogether.",
+      "Fasting or reduced carbohydrate intake can lead to weight loss as fat stores are used."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Analyzing Geometric Relationships",
+    "topic": "Energy Sources",
     "complexity_score": 3
   },
   {
-    "question": "Which sentence is grammatically correct based on the rules discussed in class?",
-    "correct": "She protects me from harm.",
+    "question": "Why is eating a cheeseburger from a fast-food chain (high in 'bad fats') different from eating nuts (high in 'good fats'), even though both contain fats?",
+    "correct": "The quality and type of fat have different effects on the body's health, even if both provide energy.",
     "options": [
-      "She protect me from harm.",
-      "I protects her from harm.",
-      "She protects me from harm.",
-      "They protects me from harm."
+      "There is no real difference; all fats are equally unhealthy.",
+      "The fat from nuts provides carbohydrates, while the burger fat does not.",
+      "The quality and type of fat have different effects on the body's health, even if both provide energy.",
+      "The fat in a burger is an animal source, which is always better than a plant source."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "English Grammar (Subject-Verb Agreement)",
+    "topic": "Quality of Nutrients",
     "complexity_score": 3
   },
   {
-    "question": "A complex shape is made of a square (side 10m) attached to a triangle (base 10m, height 6m). The triangle's base is one of the square's sides. What is the total area of the shape?",
-    "correct": "130 square m",
+    "question": "The transcript mentions refined sugar 'lacks proteins, vitamins and minerals'. What does this suggest about its role in a healthy diet?",
+    "correct": "It provides 'empty' energy without the other essential nutrients needed for body maintenance and growth.",
     "options": [
-      "160 square m",
-      "100 square m",
-      "130 square m",
-      "30 square m"
+      "It is the best source of energy because it is pure.",
+      "It helps in the absorption of vitamins and minerals from other foods.",
+      "It should be the main component of a balanced diet.",
+      "It provides 'empty' energy without the other essential nutrients needed for body maintenance and growth."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Composite Shapes",
+    "topic": "Nutrient Density",
     "complexity_score": 3
   },
   {
-    "question": "If two different triangles have the exact same area, what MUST be true about them?",
-    "correct": "The product of their base and height must be the same.",
+    "question": "During digestion, both sugars and starch are converted into glucose. Why is this conversion step necessary?",
+    "correct": "Because glucose is a simple, soluble substance that can be easily absorbed by the blood and transported to cells.",
     "options": [
-      "They must have the same perimeter.",
-      "They must be identical in shape and size (congruent).",
-      "The product of their base and height must be the same.",
-      "They must both be right-angled triangles."
+      "Because starch and sugar are too large to fit in the stomach otherwise.",
+      "To remove the sweet taste from the food before it enters the blood.",
+      "Because glucose is a simple, soluble substance that can be easily absorbed by the blood and transported to cells.",
+      "This conversion process actually destroys the energy in the food."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Conceptual Understanding of Area",
+    "topic": "Digestion Process",
     "complexity_score": 3
   },
   {
-    "question": "The teacher stated that visualizing area in a rectangle is like 'placing the breadth length times'. Why can't this same visualization be directly applied to a triangle by multiplying two sides?",
-    "correct": "Because the sides are not at right angles, so multiplying them would create a shape that goes outside the triangle's boundaries.",
+    "question": "Considering the roles of all nutrients discussed, why would a diet of ONLY body-building foods (like paneer and eggs) be unhealthy in the long run?",
+    "correct": "It would lack the primary and cheapest source of energy (carbohydrates) and protective elements (vitamins/minerals).",
     "options": [
-      "Because triangles have three sides, not two.",
-      "Because the sides are not at right angles, so multiplying them would create a shape that goes outside the triangle's boundaries.",
-      "Because a triangle's area can only be found by adding its sides.",
-      "Because triangles are always smaller than rectangles."
+      "It would not be unhealthy; it's the best possible diet.",
+      "It would cause the body to have too many cells.",
+      "It would lack the primary and cheapest source of energy (carbohydrates) and protective elements (vitamins/minerals).",
+      "It would lead to a deficiency in fats, which are not important."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Visualizing Area",
+    "topic": "Balanced Diet Analysis",
     "complexity_score": 3
   }
 ]
