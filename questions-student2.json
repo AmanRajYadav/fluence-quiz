@@ -1,54 +1,12 @@
 [
   {
-    "question": "What is the correct formula for calculating the area of a triangle?",
-    "correct": "Half multiplied by base multiplied by height (½ x b x h)",
+    "question": "What is the primary function of foods classified as 'body-building' nutrients?",
+    "correct": "To help with the growth and repair of body cells",
     "options": [
-      "Base multiplied by height",
-      "Half multiplied by base multiplied by height (½ x b x h)",
-      "Just the length of the base",
-      "Length plus width"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Area of a Triangle",
-    "complexity_score": 1
-  },
-  {
-    "question": "According to the lesson, what type of food are carbohydrates, like rice and potatoes, classified as?",
-    "correct": "Energy-giving food",
-    "options": [
-      "Body-building food",
-      "Protective food",
-      "Energy-giving food",
-      "Flavor-enhancing food"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Types of Food",
-    "complexity_score": 1
-  },
-  {
-    "question": "What are the three main types of carbohydrates mentioned in the class?",
-    "correct": "Sugars, cellulose, and starch",
-    "options": [
-      "Glucose, fats, and proteins",
-      "Sugars, cellulose, and starch",
-      "Vitamins, minerals, and water",
-      "Carbon, hydrogen, and oxygen"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Carbohydrates",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which nutrient is primarily responsible for building and repairing body cells?",
-    "correct": "Proteins",
-    "options": [
-      "Carbohydrates",
-      "Fats",
-      "Vitamins",
-      "Proteins"
+      "To provide immediate energy for activities",
+      "To protect the body from cold weather",
+      "To help with the growth and repair of body cells",
+      "To add flavor and taste to meals"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -56,119 +14,119 @@
     "complexity_score": 1
   },
   {
-    "question": "What chemical elements make up carbohydrates?",
-    "correct": "Carbon, Hydrogen, and Oxygen",
+    "question": "Which nutrient was described as the main and often the cheapest source of energy for our bodies?",
+    "correct": "Carbohydrates",
     "options": [
-      "Carbon, Hydrogen, Oxygen, and Nitrogen",
-      "Carbon, Hydrogen, and Oxygen",
-      "Only Carbon and Hydrogen",
-      "Only Oxygen and Water"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Carbohydrates",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the simplest form of carbohydrate that the body can break down very quickly for energy?",
-    "correct": "Glucose",
-    "options": [
-      "Cellulose",
-      "Starch",
-      "Protein",
-      "Glucose"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Carbohydrates",
-    "complexity_score": 1
-  },
-  {
-    "question": "A student is asked to find the area of an L-shaped polygon on a grid. What is the most effective first step they should take?",
-    "correct": "Break the L-shape into two separate rectangles.",
-    "options": [
-      "Measure the perimeter of the L-shape.",
-      "Count all the squares along the outside edge.",
-      "Try to find a single formula for the area of an L-shape.",
-      "Break the L-shape into two separate rectangles."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Area of Complex Shapes",
-    "complexity_score": 2
-  },
-  {
-    "question": "Why is glucose often given to athletes or patients who have fainted?",
-    "correct": "Because it's the simplest carbohydrate and provides energy almost immediately.",
-    "options": [
-      "Because it helps build muscles faster than protein.",
-      "Because it is the only nutrient that contains oxygen.",
-      "Because it's the simplest carbohydrate and provides energy almost immediately.",
-      "Because it has a sweet taste that makes them feel better."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Carbohydrates in Action",
-    "complexity_score": 2
-  },
-  {
-    "question": "The teacher mentioned that proteins are made of Carbon, Hydrogen, Oxygen, and Nitrogen (CHON). How does this differ from the composition of carbohydrates?",
-    "correct": "Proteins contain Nitrogen, while carbohydrates do not.",
-    "options": [
-      "Carbohydrates contain Oxygen, while proteins do not.",
-      "Proteins contain Nitrogen, while carbohydrates do not.",
-      "There is no difference in their chemical composition.",
-      "Proteins are simpler compounds than carbohydrates."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Nutrient Composition",
-    "complexity_score": 2
-  },
-  {
-    "question": "If a person's diet consists only of rice and sugar, what major nutrient group would they be missing for cell repair and growth?",
-    "correct": "Proteins",
-    "options": [
-      "Fats",
-      "Carbohydrates",
       "Proteins",
-      "Water"
+      "Vitamins",
+      "Carbohydrates",
+      "Fats"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Balanced Diet",
-    "complexity_score": 2
+    "topic": "Carbohydrates",
+    "complexity_score": 1
   },
   {
-    "question": "The lesson explained that fats provide flavor and are stored under the skin. What is another crucial function of fats mentioned?",
-    "correct": "Cushioning delicate organs and preventing heat loss",
+    "question": "What is the correct formula for finding the area of a triangle, as discussed in the class?",
+    "correct": "Half multiplied by base multiplied by height (1/2 x b x h)",
     "options": [
-      "Quickly converting into glucose for immediate energy",
-      "Building new cells to replace old ones",
-      "Providing fiber for digestion",
-      "Cushioning delicate organs and preventing heat loss"
+      "Base multiplied by height",
+      "Length multiplied by width",
+      "Half multiplied by base multiplied by height (1/2 x b x h)",
+      "Four times the length of the base"
     ],
-    "difficulty": "medium",
+    "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Functions of Fats",
-    "complexity_score": 2
+    "topic": "Area of Shapes",
+    "complexity_score": 1
   },
   {
-    "question": "The transcript mentions 'Saturated' and 'Unsaturated' fats. Where are unsaturated fats USUALLY derived from?",
-    "correct": "Plants",
+    "question": "What is the general term for the components in food that provide nourishment essential for the body's growth and maintenance?",
+    "correct": "Nutrients",
     "options": [
-      "Animals",
-      "Plants",
-      "Dairy products only",
-      "Artificial sources"
+      "Calories",
+      "Flavors",
+      "Ingredients",
+      "Nutrients"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Nutrition Basics",
+    "complexity_score": 1
+  },
+  {
+    "question": "According to the lesson, from which two main sources can our bodies obtain proteins?",
+    "correct": "Plants (e.g., pulses, soybean) and Animals (e.g., egg, meat)",
+    "options": [
+      "Only from dairy products",
+      "Only from vegetables",
+      "From water and sunlight",
+      "Plants (e.g., pulses, soybean) and Animals (e.g., egg, meat)"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Sources of Protein",
+    "complexity_score": 1
+  },
+  {
+    "question": "Consuming too much fat, leading to excessive deposition in the body, can result in which health condition?",
+    "correct": "Obesity",
+    "options": [
+      "Diabetes",
+      "Obesity",
+      "Dehydration",
+      "Anemia"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Fats and Health",
+    "complexity_score": 1
+  },
+  {
+    "question": "When faced with an irregular shape on a grid, what was the first step taught to find its total area?",
+    "correct": "Break the irregular shape down into simpler shapes like triangles and rectangles",
+    "options": [
+      "Count all the squares along the outer edge",
+      "Break the irregular shape down into simpler shapes like triangles and rectangles",
+      "Measure the longest side with a scale",
+      "Estimate the area by guessing"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Types of Fats",
+    "topic": "Area of Shapes",
     "complexity_score": 2
   },
   {
-    "question": "A student correctly calculates the area of a triangle with a base of 4 units and a height of 2 units. What is the correct area?",
+    "question": "Why is glucose particularly effective for patients or athletes who need a quick supply of energy?",
+    "correct": "It is the simplest carbohydrate and is broken down very quickly by the body",
+    "options": [
+      "It contains more vitamins than other sugars",
+      "It is the simplest carbohydrate and is broken down very quickly by the body",
+      "It has a very sweet taste that boosts morale",
+      "It helps build muscles faster than proteins"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Carbohydrates",
+    "complexity_score": 2
+  },
+  {
+    "question": "The tutor explained that combining pulses (dal) with rice creates a 'complete protein'. What is the scientific reason for this?",
+    "correct": "The rice and pulses each contain different essential components of protein that, when combined, provide a full set.",
+    "options": [
+      "The combination tastes better, so you eat more protein.",
+      "The rice and pulses each contain different essential components of protein that, when combined, provide a full set.",
+      "Cooking them together releases more vitamins.",
+      "This combination only provides carbohydrates."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Proteins",
+    "complexity_score": 2
+  },
+  {
+    "question": "If a triangle on a grid has a base of 4 units and a height of 2 units, what is its area?",
     "correct": "4 square units",
     "options": [
       "8 square units",
@@ -178,31 +136,101 @@
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Applying Area Formula",
+    "topic": "Area Calculation",
     "complexity_score": 2
   },
   {
-    "question": "Based on the discussion, why is it important to eat both rice (a cereal) and pulses (like dal)?",
-    "correct": "To combine different sources to get a complete protein.",
+    "question": "What are the three chemical elements that carbohydrates are composed of?",
+    "correct": "Carbon, Hydrogen, and Oxygen",
     "options": [
-      "Because one provides sugar and the other provides starch.",
-      "To get both carbohydrates and fats in one meal.",
-      "Because pulses help the body digest rice more easily.",
-      "To combine different sources to get a complete protein."
+      "Carbon, Nitrogen, and Oxygen",
+      "Hydrogen, Oxygen, and Nitrogen",
+      "Carbon, Hydrogen, and Oxygen",
+      "Carbon, Water, and Air"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Proteins and Diet",
+    "topic": "Chemical Composition",
     "complexity_score": 2
   },
   {
-    "question": "The summary at the end of the math section stated that two figures can have the 'same perimeter with different areas'. What does this imply?",
-    "correct": "The amount of space a shape covers is not solely determined by the length of its boundary.",
+    "question": "Besides providing energy, what is another important function of the fat stored under our skin?",
+    "correct": "It cushions delicate organs and protects them from injury",
     "options": [
-      "If the perimeter is the same, the area must also be the same.",
-      "Area and perimeter are two words for the same measurement.",
-      "The amount of space a shape covers is not solely determined by the length of its boundary.",
-      "Calculating area is always more difficult than calculating perimeter."
+      "It helps our body absorb water",
+      "It makes our bones stronger",
+      "It is the main source of vitamins",
+      "It cushions delicate organs and protects them from injury"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Functions of Fat",
+    "complexity_score": 2
+  },
+  {
+    "question": "A student measures the base of a triangle as '4 units' and incorrectly states the area is '4 square units'. What is the fundamental error in their reasoning?",
+    "correct": "They confused a one-dimensional measurement (length) with a two-dimensional measurement (area), which also requires height.",
+    "options": [
+      "They should have used a scale to be more accurate.",
+      "They forgot to add the lengths of all three sides.",
+      "They confused a one-dimensional measurement (length) with a two-dimensional measurement (area), which also requires height.",
+      "Triangles cannot be measured on a grid."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Area Concepts",
+    "complexity_score": 2
+  },
+  {
+    "question": "Proteins are complex compounds made of four main chemical elements. What are they?",
+    "correct": "Carbon, Hydrogen, Oxygen, and Nitrogen",
+    "options": [
+      "Carbon, Hydrogen, Oxygen, and Nitrogen",
+      "Carbohydrates, Hydrogen, Oxygen, and Nitrogen",
+      "Carbon, Helium, Oxygen, and Nitrogen",
+      "Carbon, Hydrogen, Oregano, and Neon"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Chemical Composition",
+    "complexity_score": 2
+  },
+  {
+    "question": "If your body completely runs out of its primary energy source (carbohydrates), which nutrient does it begin to break down from its reserves for energy?",
+    "correct": "Fats",
+    "options": [
+      "Proteins",
+      "Vitamins",
+      "Fats",
+      "Minerals"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Energy Metabolism",
+    "complexity_score": 3
+  },
+  {
+    "question": "Based on the discussion, why might a very tasty street food, like momos with paneer, often be less nutritious than a home-cooked meal?",
+    "correct": "The paneer may be artificial ('analogous') and the delicious taste often comes from high amounts of unhealthy fats.",
+    "options": [
+      "Street food is always made from old ingredients.",
+      "The paneer may be artificial ('analogous') and the delicious taste often comes from high amounts of unhealthy fats.",
+      "Home-cooked meals do not contain any fats.",
+      "Street food vendors don't add enough salt."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Nutrition Application",
+    "complexity_score": 3
+  },
+  {
+    "question": "You have two different shapes with the exact same perimeter. Based on the summary read in class, is it guaranteed that they will also have the same area?",
+    "correct": "No, it's possible for them to have the same perimeter but different areas.",
+    "options": [
+      "Yes, if the perimeters are the same, the areas must be identical.",
+      "No, it's possible for them to have the same perimeter but different areas.",
+      "It depends on whether the shapes are triangles or rectangles.",
+      "Yes, but only if they are both made of straight lines."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
@@ -210,73 +238,45 @@
     "complexity_score": 3
   },
   {
-    "question": "The teacher explained that when the body runs out of carbohydrates, it starts using fats for energy. What is a logical consequence of this process?",
-    "correct": "Fasting or reduced carbohydrate intake can lead to weight loss as fat stores are used.",
+    "question": "Comparing refined sugar to a potato, both are rich in carbohydrates. Why is the potato a nutritionally superior choice?",
+    "correct": "Because refined sugar is a pure carbohydrate that lacks other nutrients like proteins, vitamins, and minerals, which a potato has.",
     "options": [
-      "The body immediately starts breaking down muscles for energy.",
-      "A person feels more energetic because fats provide more energy.",
-      "The body stops needing energy altogether.",
-      "Fasting or reduced carbohydrate intake can lead to weight loss as fat stores are used."
+      "Because potatoes have more calories than sugar.",
+      "Because refined sugar is a pure carbohydrate that lacks other nutrients like proteins, vitamins, and minerals, which a potato has.",
+      "Because potatoes are easier to digest.",
+      "Because sugar is not a plant source."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Energy Sources",
+    "topic": "Carbohydrate Quality",
     "complexity_score": 3
   },
   {
-    "question": "Why is eating a cheeseburger from a fast-food chain (high in 'bad fats') different from eating nuts (high in 'good fats'), even though both contain fats?",
-    "correct": "The quality and type of fat have different effects on the body's health, even if both provide energy.",
+    "question": "Saturated fats and unsaturated fats were mentioned as two types of fats. What is the general rule discussed for their sources?",
+    "correct": "Saturated fats are usually from animal sources, while unsaturated fats are usually from plant sources.",
     "options": [
-      "There is no real difference; all fats are equally unhealthy.",
-      "The fat from nuts provides carbohydrates, while the burger fat does not.",
-      "The quality and type of fat have different effects on the body's health, even if both provide energy.",
-      "The fat in a burger is an animal source, which is always better than a plant source."
+      "Saturated fats are liquids, and unsaturated fats are solids.",
+      "Saturated fats come from fruits, and unsaturated fats come from vegetables.",
+      "Saturated fats are usually from animal sources, while unsaturated fats are usually from plant sources.",
+      "Both types of fat come from the same sources."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Quality of Nutrients",
+    "topic": "Types of Fat",
     "complexity_score": 3
   },
   {
-    "question": "The transcript mentions refined sugar 'lacks proteins, vitamins and minerals'. What does this suggest about its role in a healthy diet?",
-    "correct": "It provides 'empty' energy without the other essential nutrients needed for body maintenance and growth.",
+    "question": "The lesson states proteins are needed to make new cells because old cells die. What does this imply about the human body over several years?",
+    "correct": "The body is constantly rebuilding and replacing itself at a cellular level.",
     "options": [
-      "It is the best source of energy because it is pure.",
-      "It helps in the absorption of vitamins and minerals from other foods.",
-      "It should be the main component of a balanced diet.",
-      "It provides 'empty' energy without the other essential nutrients needed for body maintenance and growth."
+      "The body stops growing after a certain age.",
+      "The body is constantly rebuilding and replacing itself at a cellular level.",
+      "The number of cells in the body remains fixed from birth.",
+      "Only skin cells are replaced; internal cells are permanent."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Nutrient Density",
-    "complexity_score": 3
-  },
-  {
-    "question": "During digestion, both sugars and starch are converted into glucose. Why is this conversion step necessary?",
-    "correct": "Because glucose is a simple, soluble substance that can be easily absorbed by the blood and transported to cells.",
-    "options": [
-      "Because starch and sugar are too large to fit in the stomach otherwise.",
-      "To remove the sweet taste from the food before it enters the blood.",
-      "Because glucose is a simple, soluble substance that can be easily absorbed by the blood and transported to cells.",
-      "This conversion process actually destroys the energy in the food."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Digestion Process",
-    "complexity_score": 3
-  },
-  {
-    "question": "Considering the roles of all nutrients discussed, why would a diet of ONLY body-building foods (like paneer and eggs) be unhealthy in the long run?",
-    "correct": "It would lack the primary and cheapest source of energy (carbohydrates) and protective elements (vitamins/minerals).",
-    "options": [
-      "It would not be unhealthy; it's the best possible diet.",
-      "It would cause the body to have too many cells.",
-      "It would lack the primary and cheapest source of energy (carbohydrates) and protective elements (vitamins/minerals).",
-      "It would lead to a deficiency in fats, which are not important."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Balanced Diet Analysis",
+    "topic": "Cellular Biology",
     "complexity_score": 3
   }
 ]
