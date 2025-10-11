@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the primary function of foods classified as 'body-building' nutrients?",
-    "correct": "To help with the growth and repair of body cells",
-    "options": [
-      "To provide immediate energy for activities",
-      "To protect the body from cold weather",
-      "To help with the growth and repair of body cells",
-      "To add flavor and taste to meals"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Proteins",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which nutrient was described as the main and often the cheapest source of energy for our bodies?",
-    "correct": "Carbohydrates",
-    "options": [
-      "Proteins",
-      "Vitamins",
-      "Carbohydrates",
-      "Fats"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Carbohydrates",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the correct formula for finding the area of a triangle, as discussed in the class?",
-    "correct": "Half multiplied by base multiplied by height (1/2 x b x h)",
-    "options": [
-      "Base multiplied by height",
-      "Length multiplied by width",
-      "Half multiplied by base multiplied by height (1/2 x b x h)",
-      "Four times the length of the base"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Area of Shapes",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the general term for the components in food that provide nourishment essential for the body's growth and maintenance?",
-    "correct": "Nutrients",
-    "options": [
-      "Calories",
-      "Flavors",
-      "Ingredients",
-      "Nutrients"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Nutrition Basics",
-    "complexity_score": 1
-  },
-  {
-    "question": "According to the lesson, from which two main sources can our bodies obtain proteins?",
-    "correct": "Plants (e.g., pulses, soybean) and Animals (e.g., egg, meat)",
-    "options": [
-      "Only from dairy products",
-      "Only from vegetables",
-      "From water and sunlight",
-      "Plants (e.g., pulses, soybean) and Animals (e.g., egg, meat)"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Sources of Protein",
-    "complexity_score": 1
-  },
-  {
-    "question": "Consuming too much fat, leading to excessive deposition in the body, can result in which health condition?",
-    "correct": "Obesity",
-    "options": [
-      "Diabetes",
-      "Obesity",
-      "Dehydration",
-      "Anemia"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Fats and Health",
-    "complexity_score": 1
-  },
-  {
-    "question": "When faced with an irregular shape on a grid, what was the first step taught to find its total area?",
-    "correct": "Break the irregular shape down into simpler shapes like triangles and rectangles",
-    "options": [
-      "Count all the squares along the outer edge",
-      "Break the irregular shape down into simpler shapes like triangles and rectangles",
-      "Measure the longest side with a scale",
-      "Estimate the area by guessing"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Area of Shapes",
-    "complexity_score": 2
-  },
-  {
-    "question": "Why is glucose particularly effective for patients or athletes who need a quick supply of energy?",
-    "correct": "It is the simplest carbohydrate and is broken down very quickly by the body",
-    "options": [
-      "It contains more vitamins than other sugars",
-      "It is the simplest carbohydrate and is broken down very quickly by the body",
-      "It has a very sweet taste that boosts morale",
-      "It helps build muscles faster than proteins"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Carbohydrates",
-    "complexity_score": 2
-  },
-  {
-    "question": "The tutor explained that combining pulses (dal) with rice creates a 'complete protein'. What is the scientific reason for this?",
-    "correct": "The rice and pulses each contain different essential components of protein that, when combined, provide a full set.",
-    "options": [
-      "The combination tastes better, so you eat more protein.",
-      "The rice and pulses each contain different essential components of protein that, when combined, provide a full set.",
-      "Cooking them together releases more vitamins.",
-      "This combination only provides carbohydrates."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Proteins",
-    "complexity_score": 2
-  },
-  {
-    "question": "If a triangle on a grid has a base of 4 units and a height of 2 units, what is its area?",
-    "correct": "4 square units",
-    "options": [
-      "8 square units",
-      "6 square units",
-      "4 square units",
-      "2 square units"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Area Calculation",
-    "complexity_score": 2
-  },
-  {
-    "question": "What are the three chemical elements that carbohydrates are composed of?",
-    "correct": "Carbon, Hydrogen, and Oxygen",
-    "options": [
-      "Carbon, Nitrogen, and Oxygen",
-      "Hydrogen, Oxygen, and Nitrogen",
-      "Carbon, Hydrogen, and Oxygen",
-      "Carbon, Water, and Air"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Chemical Composition",
-    "complexity_score": 2
-  },
-  {
-    "question": "Besides providing energy, what is another important function of the fat stored under our skin?",
-    "correct": "It cushions delicate organs and protects them from injury",
-    "options": [
-      "It helps our body absorb water",
-      "It makes our bones stronger",
-      "It is the main source of vitamins",
-      "It cushions delicate organs and protects them from injury"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Functions of Fat",
-    "complexity_score": 2
-  },
-  {
-    "question": "A student measures the base of a triangle as '4 units' and incorrectly states the area is '4 square units'. What is the fundamental error in their reasoning?",
-    "correct": "They confused a one-dimensional measurement (length) with a two-dimensional measurement (area), which also requires height.",
-    "options": [
-      "They should have used a scale to be more accurate.",
-      "They forgot to add the lengths of all three sides.",
-      "They confused a one-dimensional measurement (length) with a two-dimensional measurement (area), which also requires height.",
-      "Triangles cannot be measured on a grid."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Area Concepts",
-    "complexity_score": 2
-  },
-  {
-    "question": "Proteins are complex compounds made of four main chemical elements. What are they?",
+    "question": "Which of the following elements are the fundamental components of proteins?",
     "correct": "Carbon, Hydrogen, Oxygen, and Nitrogen",
     "options": [
+      "Carbon, Oxygen, and Sodium",
+      "Hydrogen, Oxygen, and Calcium",
       "Carbon, Hydrogen, Oxygen, and Nitrogen",
-      "Carbohydrates, Hydrogen, Oxygen, and Nitrogen",
-      "Carbon, Helium, Oxygen, and Nitrogen",
-      "Carbon, Hydrogen, Oregano, and Neon"
+      "Oxygen, Nitrogen, and Iron"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Macronutrients",
+    "complexity_score": 1
+  },
+  {
+    "question": "According to the lesson, carbohydrates are compounds made of which elements?",
+    "correct": "Carbon, Hydrogen, and Oxygen",
+    "options": [
+      "Carbon, Hydrogen, and Nitrogen",
+      "Oxygen, Nitrogen, and Phosphorus",
+      "Carbon, Hydrogen, and Oxygen",
+      "Carbon and Oxygen only"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Macronutrients",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which of the following statements about vitamins is true?",
+    "correct": "They are needed in very small quantities.",
+    "options": [
+      "They are the body's main source of energy.",
+      "They are needed in very large quantities.",
+      "They are indigestible materials.",
+      "They are needed in very small quantities."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Vitamins",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which two vitamins are classified as water-soluble?",
+    "correct": "Vitamins B and C",
+    "options": [
+      "Vitamins A and D",
+      "Vitamins B and C",
+      "Vitamins E and K",
+      "Vitamins C and D"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Vitamins",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the primary role of roughage in our diet?",
+    "correct": "To add bulk to food and prevent constipation",
+    "options": [
+      "To provide energy for the body",
+      "To repair damaged cells and tissues",
+      "To add bulk to food and prevent constipation",
+      "To fight against diseases"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Roughage",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the term for the fibrous, indigestible material present in plant-based foods?",
+    "correct": "Roughage",
+    "options": [
+      "Protein",
+      "Fat",
+      "Mineral",
+      "Roughage"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Roughage",
+    "complexity_score": 1
+  },
+  {
+    "question": "The transcript states that vitamins play a 'vital role in many chemical reactions'. Which bodily process was given as an example of these reactions?",
+    "correct": "Digestion",
+    "options": [
+      "Breathing",
+      "Blood circulation",
+      "Thinking",
+      "Digestion"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Chemical Composition",
+    "topic": "Vitamins",
     "complexity_score": 2
   },
   {
-    "question": "If your body completely runs out of its primary energy source (carbohydrates), which nutrient does it begin to break down from its reserves for energy?",
-    "correct": "Fats",
+    "question": "Based on the discussion, why must water-soluble vitamins be supplied regularly through food?",
+    "correct": "Because they are not stored in the body and excess is removed.",
     "options": [
-      "Proteins",
-      "Vitamins",
-      "Fats",
-      "Minerals"
+      "Because they provide the body with energy.",
+      "Because they are stored in body fat for a long time.",
+      "Because they are difficult for the body to absorb.",
+      "Because they are not stored in the body and excess is removed."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Vitamins",
+    "complexity_score": 2
+  },
+  {
+    "question": "A person eats a large meal rich in Vitamins B and C. What will the body most likely do with the excess amount of these vitamins?",
+    "correct": "Excrete them as they are water-soluble",
+    "options": [
+      "Store them in body fat for later use",
+      "Convert them into energy immediately",
+      "Excrete them as they are water-soluble",
+      "Use them to build muscle tissue"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Vitamins",
+    "complexity_score": 2
+  },
+  {
+    "question": "The statement 'Fats give us more energy than carbohydrates' was confirmed as true. This implies that for the same amount (e.g., one gram), fats provide more of what?",
+    "correct": "Energy",
+    "options": [
+      "Growth and repair materials",
+      "Disease protection",
+      "Energy",
+      "Indigestible fiber"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Macronutrients",
+    "complexity_score": 2
+  },
+  {
+    "question": "Water is described as an important constituent of blood and other body fluids. What essential function does this role support?",
+    "correct": "Transporting nutrients to all parts of the body",
+    "options": [
+      "Providing the body with calories for energy",
+      "Storing energy in fat cells",
+      "Transporting nutrients to all parts of the body",
+      "Building strong bones and teeth"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Water",
+    "complexity_score": 2
+  },
+  {
+    "question": "If a person is experiencing dehydration, it means the amount of water in their body has dropped below the level needed for...",
+    "correct": "Normal functioning",
+    "options": [
+      "Fat storage",
+      "Muscle growth only",
+      "Normal functioning",
+      "Digesting carbohydrates"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Water",
+    "complexity_score": 2
+  },
+  {
+    "question": "The transcript mentions that minerals are needed for 'coagulation of blood'. What problem would a deficiency in these specific minerals cause after an injury?",
+    "correct": "The wound would not stop bleeding easily",
+    "options": [
+      "The person would feel very tired",
+      "The bones would become weak",
+      "The wound would not stop bleeding easily",
+      "The person's vision would be impaired"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Minerals",
+    "complexity_score": 2
+  },
+  {
+    "question": "A balanced diet for a normal person should contain roughly 60% carbohydrates, 25% proteins, and 15% fats. A construction worker would likely need to adjust this balance by increasing which two components for energy?",
+    "correct": "Carbohydrates and Fats",
+    "options": [
+      "Proteins and Vitamins",
+      "Carbohydrates and Fats",
+      "Vitamins and Minerals",
+      "Proteins and Water"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Balanced Diet",
+    "complexity_score": 2
+  },
+  {
+    "question": "The transcript implies a key difference between elements and compounds. Based on the discussion, which of the following is the best description of protein?",
+    "correct": "A compound made of simpler elements like Carbon and Nitrogen",
+    "options": [
+      "A basic element like Oxygen",
+      "A compound made of simpler elements like Carbon and Nitrogen",
+      "A type of gas, just like Carbon Dioxide",
+      "A mixture of different gases"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Energy Metabolism",
+    "topic": "Macronutrients",
     "complexity_score": 3
   },
   {
-    "question": "Based on the discussion, why might a very tasty street food, like momos with paneer, often be less nutritious than a home-cooked meal?",
-    "correct": "The paneer may be artificial ('analogous') and the delicious taste often comes from high amounts of unhealthy fats.",
+    "question": "The lesson explains that both proteins and vitamins help the body fight diseases. What is the most likely difference in their roles based on the information given?",
+    "correct": "Proteins are building blocks for the immune system, while vitamins assist in the chemical reactions of immunity.",
     "options": [
-      "Street food is always made from old ingredients.",
-      "The paneer may be artificial ('analogous') and the delicious taste often comes from high amounts of unhealthy fats.",
-      "Home-cooked meals do not contain any fats.",
-      "Street food vendors don't add enough salt."
+      "Vitamins provide energy to fight disease, while proteins do not.",
+      "There is no difference; they perform the exact same function.",
+      "Proteins are building blocks for the immune system, while vitamins assist in the chemical reactions of immunity.",
+      "Proteins are only for building muscle, not for fighting disease."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Nutrition Application",
+    "topic": "Nutrient Functions",
     "complexity_score": 3
   },
   {
-    "question": "You have two different shapes with the exact same perimeter. Based on the summary read in class, is it guaranteed that they will also have the same area?",
-    "correct": "No, it's possible for them to have the same perimeter but different areas.",
+    "question": "Roughage is made of cellulose, which is indigestible. Why is it still considered an essential part of our diet?",
+    "correct": "It facilitates the movement and elimination of waste, even without providing nutrients.",
     "options": [
-      "Yes, if the perimeters are the same, the areas must be identical.",
-      "No, it's possible for them to have the same perimeter but different areas.",
-      "It depends on whether the shapes are triangles or rectangles.",
-      "Yes, but only if they are both made of straight lines."
+      "Because it is a major source of energy for the body.",
+      "Because it eventually breaks down into vitamins and minerals.",
+      "It is not essential and should be avoided.",
+      "It facilitates the movement and elimination of waste, even without providing nutrients."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Area vs. Perimeter",
+    "topic": "Roughage",
     "complexity_score": 3
   },
   {
-    "question": "Comparing refined sugar to a potato, both are rich in carbohydrates. Why is the potato a nutritionally superior choice?",
-    "correct": "Because refined sugar is a pure carbohydrate that lacks other nutrients like proteins, vitamins, and minerals, which a potato has.",
+    "question": "The lesson warns against taking off thick peels and repeated washing of cut vegetables. This practice primarily leads to the loss of which type of nutrients?",
+    "correct": "Water-soluble vitamins and minerals",
     "options": [
-      "Because potatoes have more calories than sugar.",
-      "Because refined sugar is a pure carbohydrate that lacks other nutrients like proteins, vitamins, and minerals, which a potato has.",
-      "Because potatoes are easier to digest.",
-      "Because sugar is not a plant source."
+      "Fat-soluble vitamins, because they dissolve in water",
+      "Proteins, as they are found mainly in the peel",
+      "Carbohydrates, as they are washed away easily",
+      "Water-soluble vitamins and minerals"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Carbohydrate Quality",
+    "topic": "Food Preparation",
     "complexity_score": 3
   },
   {
-    "question": "Saturated fats and unsaturated fats were mentioned as two types of fats. What is the general rule discussed for their sources?",
-    "correct": "Saturated fats are usually from animal sources, while unsaturated fats are usually from plant sources.",
+    "question": "Imagine two people. Person A takes a massive dose of Vitamin A once a month. Person B eats a small portion of carrots (rich in Vitamin A) every day. Why is Person A's strategy potentially less effective or even risky over time?",
+    "correct": "While Vitamin A is stored, the body needs a consistent, manageable supply, not an extreme overdose followed by nothing.",
     "options": [
-      "Saturated fats are liquids, and unsaturated fats are solids.",
-      "Saturated fats come from fruits, and unsaturated fats come from vegetables.",
-      "Saturated fats are usually from animal sources, while unsaturated fats are usually from plant sources.",
-      "Both types of fat come from the same sources."
+      "It is not risky; Person A's strategy is better because Vitamin A is fat-soluble and stored.",
+      "Person A's body will excrete all the Vitamin A immediately because it's too much.",
+      "While Vitamin A is stored, the body needs a consistent, manageable supply, not an extreme overdose followed by nothing.",
+      "Carrots do not contain Vitamin A."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Types of Fat",
+    "topic": "Vitamins",
     "complexity_score": 3
   },
   {
-    "question": "The lesson states proteins are needed to make new cells because old cells die. What does this imply about the human body over several years?",
-    "correct": "The body is constantly rebuilding and replacing itself at a cellular level.",
+    "question": "Considering all the nutrients discussed, which of the following meals offers the most balanced combination of energy-giving nutrients, bodybuilding nutrients, and protective nutrients?",
+    "correct": "Dal (protein/minerals), Rice (carbohydrates), a green leafy vegetable salad (vitamins/roughage), and a glass of milk (protein/fats/calcium).",
     "options": [
-      "The body stops growing after a certain age.",
-      "The body is constantly rebuilding and replacing itself at a cellular level.",
-      "The number of cells in the body remains fixed from birth.",
-      "Only skin cells are replaced; internal cells are permanent."
+      "A large bowl of only rice for maximum energy.",
+      "A plate of fried foods for high fat and energy content.",
+      "Only fruits, because they contain vitamins.",
+      "Dal (protein/minerals), Rice (carbohydrates), a green leafy vegetable salad (vitamins/roughage), and a glass of milk (protein/fats/calcium)."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cellular Biology",
+    "topic": "Balanced Diet",
     "complexity_score": 3
   }
 ]
