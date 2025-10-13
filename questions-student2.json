@@ -1,180 +1,138 @@
 [
   {
-    "question": "According to the mnemonic discussed, which four elements are proteins primarily compounds of?",
-    "correct": "Nitrogen, Oxygen, Carbon, Hydrogen",
+    "question": "What are the two nutrients primarily described as 'energy-giving' foods?",
+    "correct": "Carbohydrates and Fats",
     "options": [
-      "Nitrogen, Oxygen, Carbon Dioxide, Helium",
-      "Sodium, Oxygen, Chlorine, Hydrogen",
-      "Nitrogen, Oxygen, Carbon, Hydrogen",
-      "Nitrogen, Iron, Calcium, Hydrogen"
+      "Proteins and Vitamins",
+      "Vitamins and Minerals",
+      "Carbohydrates and Fats",
+      "Water and Roughage"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Proteins",
+    "topic": "Nutrient Functions",
     "complexity_score": 1
   },
   {
-    "question": "Which of the following statements about carbohydrates and fats is true?",
-    "correct": "Both provide energy, but fats provide more energy than carbohydrates.",
+    "question": "A deficiency of which vitamin leads to a disease called Scurvy, characterized by bleeding gums and loose teeth?",
+    "correct": "Vitamin C",
     "options": [
-      "Only carbohydrates provide energy to the body.",
-      "Carbohydrates provide more energy than fats.",
-      "Both provide energy, but fats provide more energy than carbohydrates.",
-      "Neither carbohydrates nor fats provide energy."
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin B1",
+      "Vitamin C"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Carbohydrates & Fats",
+    "topic": "Deficiency Diseases",
     "complexity_score": 1
   },
   {
-    "question": "Vitamins are needed by the body in very ______ quantities.",
-    "correct": "small",
-    "options": [
-      "large",
-      "small",
-      "medium",
-      "continuously increasing"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Vitamins",
-    "complexity_score": 1
-  },
-  {
-    "question": "Which of these are the two main classes of vitamins discussed?",
-    "correct": "Water-soluble and Fat-soluble",
-    "options": [
-      "Energy-providing and Protective",
-      "Liquid and Solid",
-      "Water-soluble and Fat-soluble",
-      "Macro-vitamins and Micro-vitamins"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Vitamins",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is the primary function of roughage in our diet?",
-    "correct": "To help prevent constipation and ensure proper bowel movement.",
-    "options": [
-      "To provide a large amount of energy.",
-      "To build strong muscles and bones.",
-      "To help prevent constipation and ensure proper bowel movement.",
-      "To fight diseases and infections."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Roughage",
-    "complexity_score": 1
-  },
-  {
-    "question": "What percentage of the human body, by weight, is made up of water?",
-    "correct": "About 70% (or two-thirds)",
-    "options": [
-      "About 25%",
-      "About 50%",
-      "About 70% (or two-thirds)",
-      "About 90%"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Water",
-    "complexity_score": 1
-  },
-  {
-    "question": "A person is advised they must consume certain vitamins daily because their body does not store them. Which vitamins are they most likely being told to consume?",
-    "correct": "Vitamins B and C",
-    "options": [
-      "Vitamins A and D",
-      "Vitamins E and K",
-      "Vitamins B and C",
-      "All vitamins are stored in the body"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Vitamins",
-    "complexity_score": 2
-  },
-  {
-    "question": "Vitamins play a vital role in many chemical reactions taking place in our body. Which example was used to illustrate this function?",
-    "correct": "Digestion",
-    "options": [
-      "Breathing",
-      "Thinking",
-      "Digestion",
-      "Sleeping"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Vitamins",
-    "complexity_score": 2
-  },
-  {
-    "question": "A statement says, 'We need protein for the growth and repair of our hair.' Based on the discussion, is this statement true or false, and why?",
-    "correct": "True, because hair is part of the body which needs protein for growth and repair.",
-    "options": [
-      "False, because protein is only for muscles and organs.",
-      "True, because hair is part of the body which needs protein for growth and repair.",
-      "False, because only Vitamin E helps with hair growth.",
-      "True, but it is a misleading statement because protein's main job is energy."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Proteins",
-    "complexity_score": 2
-  },
-  {
-    "question": "Why is it incorrect to say 'Protein is a compound of Carbon Dioxide'?",
-    "correct": "Because Carbon Dioxide is a compound itself, whereas Carbon is the required element.",
-    "options": [
-      "Because protein does not contain Carbon.",
-      "Because Carbon Dioxide is a liquid, not a gas.",
-      "Because Carbon Dioxide is a compound itself, whereas Carbon is the required element.",
-      "Because protein is an element, not a compound."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Proteins",
-    "complexity_score": 2
-  },
-  {
-    "question": "During the COVID pandemic, doctors often prescribed Vitamin C. Based on the lesson, what is the primary reason for this?",
-    "correct": "Because vitamins help in protecting our bodies against diseases.",
-    "options": [
-      "Because Vitamin C provides a large amount of energy.",
-      "Because vitamins help in protecting our bodies against diseases.",
-      "Because Vitamin C is stored in body fat for a long time.",
-      "Because Vitamin C helps in the digestion of medicine."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Vitamins",
-    "complexity_score": 2
-  },
-  {
-    "question": "If a person's diet is low in fruits and vegetables, what essential, non-nutrient substance might they be lacking that aids in preventing constipation?",
+    "question": "Which substance is mainly made of an indigestible carbohydrate called cellulose and helps prevent constipation?",
     "correct": "Roughage",
     "options": [
-      "Fat-soluble vitamins",
       "Protein",
-      "Carbohydrates",
+      "Starch",
+      "Fat",
       "Roughage"
     ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Roughage and Digestion",
+    "complexity_score": 1
+  },
+  {
+    "question": "According to the lesson, which nutrient is essential for the growth and repair of body tissues, like muscles?",
+    "correct": "Protein",
+    "options": [
+      "Carbohydrates",
+      "Fats",
+      "Protein",
+      "Vitamins"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Nutrient Functions",
+    "complexity_score": 1
+  },
+  {
+    "question": "A swollen thyroid gland in the neck, a condition known as goitre, is caused by a deficiency of which mineral?",
+    "correct": "Iodine",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Iodine",
+      "Protein"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Deficiency Diseases",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the key difference between undernutrition and malnutrition?",
+    "correct": "Undernutrition is a lack of sufficient food quantity, while malnutrition is a lack of the right nutrients.",
+    "options": [
+      "Undernutrition is caused by poverty, while malnutrition is caused by natural calamities.",
+      "Undernutrition affects children, while malnutrition affects adults.",
+      "Undernutrition is a lack of sufficient food quantity, while malnutrition is a lack of the right nutrients.",
+      "There is no difference; they are the same condition."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Undernutrition vs Malnutrition",
+    "complexity_score": 1
+  },
+  {
+    "question": "A person who is weak, gets tired quickly, and looks pale may be suffering from anaemia. This is caused by a deficiency of what?",
+    "correct": "Iron",
+    "options": [
+      "Iodine",
+      "Vitamin C",
+      "Iron",
+      "Carbohydrates"
+    ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Roughage",
+    "topic": "Deficiency Diseases",
     "complexity_score": 2
   },
   {
-    "question": "Unlike fats and proteins, vitamins are not stored in our body (with some exceptions). What is the direct consequence of this for our daily diet?",
-    "correct": "We must take them regularly through our food.",
+    "question": "Why would the ideal diet for a professional weightlifter contain a higher percentage of protein than a normal person's diet?",
+    "correct": "Because protein is essential for repairing and building muscle tissue, which is stressed during weightlifting.",
     "options": [
-      "We can eat a month's worth of vitamins at once.",
-      "We only need to consume vitamins once a week.",
-      "We must take them regularly through our food.",
-      "Our body produces its own vitamins, so diet is not important."
+      "Because protein provides the most energy for lifting heavy weights.",
+      "Because weightlifters do not need carbohydrates or fats.",
+      "Because protein is essential for repairing and building muscle tissue, which is stressed during weightlifting.",
+      "Because a high-protein diet helps in fighting diseases common to athletes."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Balanced Diet Application",
+    "complexity_score": 2
+  },
+  {
+    "question": "The lesson mentions that washing vegetables after cutting them can lead to the loss of certain nutrients. What type of vitamins are most likely lost in this process?",
+    "correct": "Water-soluble vitamins",
+    "options": [
+      "Fat-soluble vitamins",
+      "All vitamins equally",
+      "Water-soluble vitamins",
+      "Only Vitamin C"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Food Preparation",
+    "complexity_score": 2
+  },
+  {
+    "question": "Vitamins A, D, E, and K are stored in body fat. What does this imply about their consumption compared to vitamins B and C?",
+    "correct": "They do not need to be consumed as frequently as vitamins B and C.",
+    "options": [
+      "They are more important than vitamins B and C.",
+      "They must be consumed every single day without fail.",
+      "They do not need to be consumed as frequently as vitamins B and C.",
+      "They provide more energy than vitamins B and C."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -182,101 +140,143 @@
     "complexity_score": 2
   },
   {
-    "question": "Water is described as a 'transporter' in the body. What does it primarily transport through the blood?",
-    "correct": "Nutrients",
+    "question": "Both water and roughage are essential but provide no nutrients. What key function do they share, although in different ways?",
+    "correct": "They are both crucial for the process of waste removal from the body.",
     "options": [
-      "Oxygen only",
-      "Waste products only",
-      "Nutrients",
-      "Fat cells"
+      "They both directly provide energy for bodily functions.",
+      "They both help in building new cells and tissues.",
+      "They are both crucial for the process of waste removal from the body.",
+      "They both help in storing fat-soluble vitamins."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Water",
+    "topic": "Nutrient Functions",
     "complexity_score": 2
   },
   {
-    "question": "A chef wants to preserve the maximum amount of nutrients in vegetables. Which practice should they AVOID, based on the lesson?",
-    "correct": "Repeatedly washing the vegetables after they have been peeled and cut.",
+    "question": "During the COVID-19 pandemic, doctors often prescribed Vitamin C. Based on the lesson, what is the primary reason for this?",
+    "correct": "It helps the body fight against diseases.",
     "options": [
-      "Cooking the food to improve its taste.",
-      "Washing vegetables before peeling them.",
-      "Repeatedly washing the vegetables after they have been peeled and cut.",
-      "Serving a salad with the meal."
+      "It provides a quick source of energy.",
+      "It helps build strong bones to resist the virus.",
+      "It is a cure for the COVID-19 virus.",
+      "It helps the body fight against diseases."
     ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Cooking & Nutrients",
-    "complexity_score": 3
-  },
-  {
-    "question": "Vitamins A, D, E, and K are stored in body fat. What does this imply about their consumption compared to Vitamins B and C?",
-    "correct": "The body can maintain a reserve, so they are used only when needed.",
-    "options": [
-      "They must be consumed in larger quantities every single day.",
-      "The body can maintain a reserve, so they are used only when needed.",
-      "They are less important than Vitamins B and C.",
-      "They get thrown out of the body faster than Vitamins B and C."
-    ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
     "topic": "Vitamins",
+    "complexity_score": 2
+  },
+  {
+    "question": "Boiling milk before drinking it is a common practice. What are the two main benefits of this process mentioned in the lesson?",
+    "correct": "It kills germs and makes the milk easier to digest.",
+    "options": [
+      "It adds more protein and improves the taste.",
+      "It kills germs and makes the milk easier to digest.",
+      "It removes all the fat and adds vitamins.",
+      "It improves the color and removes water."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Food Preparation",
+    "complexity_score": 2
+  },
+  {
+    "question": "A child's diet is very low in both proteins and carbohydrates. They become extremely thin, with loose folds of skin. Which deficiency disease are they likely suffering from?",
+    "correct": "Marasmus",
+    "options": [
+      "Scurvy",
+      "Kwashiorkor",
+      "Marasmus",
+      "Rickets"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Deficiency Diseases",
+    "complexity_score": 2
+  },
+  {
+    "question": "A family lives in an area affected by a severe drought, and food is unavailable. Even though they have money, they become weak. What condition are they suffering from?",
+    "correct": "Undernutrition due to absence of food",
+    "options": [
+      "Malnutrition due to poor food choices",
+      "Undernutrition due to absence of food",
+      "A deficiency disease caused by lack of Vitamin D",
+      "Malnutrition due to poverty"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Undernutrition vs Malnutrition",
     "complexity_score": 3
   },
   {
-    "question": "A balanced diet for a normal person should contain roughly 60% carbohydrates, 25% proteins, and 15% fats. Why would the ideal diet for a professional weightlifter contain a higher percentage of protein?",
-    "correct": "Because protein is essential for the growth and repair of body tissues, like muscle.",
+    "question": "A person eats large quantities of rice and bread every day but avoids fruits, vegetables, and dairy. Which condition are they most at risk for, even if they are not hungry?",
+    "correct": "Malnutrition",
     "options": [
-      "Because weightlifters do not need energy from carbohydrates.",
-      "Because protein helps in fighting diseases, which athletes are prone to.",
-      "Because protein is essential for the growth and repair of body tissues, like muscle.",
-      "Because protein provides more immediate energy than any other nutrient."
+      "Undernutrition",
+      "Marasmus",
+      "Malnutrition",
+      "Goitre"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Undernutrition vs Malnutrition",
+    "complexity_score": 3
+  },
+  {
+    "question": "Why is it beneficial for humans to consume roughage (cellulose) even though our bodies cannot digest it to get energy?",
+    "correct": "It adds bulk to food and aids in bowel movement, preventing constipation.",
+    "options": [
+      "It contains hidden vitamins that are released slowly.",
+      "The body eventually learns to digest it if consumed regularly.",
+      "It adds bulk to food and aids in bowel movement, preventing constipation.",
+      "It tricks the body into feeling full, preventing overeating of fats."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Roughage and Digestion",
+    "complexity_score": 3
+  },
+  {
+    "question": "A person is diagnosed with Rickets, showing symptoms of bow legs. A lack of which two things in their diet is the most likely cause?",
+    "correct": "Vitamin D and Calcium",
+    "options": [
+      "Protein and Iron",
+      "Vitamin C and Iodine",
+      "Vitamin D and Calcium",
+      "Carbohydrates and Vitamin A"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Deficiency Diseases",
+    "complexity_score": 3
+  },
+  {
+    "question": "Considering the functions of different nutrients, which diet would be most appropriate for a construction laborer who does physically demanding work all day?",
+    "correct": "A diet high in carbohydrates for sustained energy.",
+    "options": [
+      "A diet high in vitamins to prevent diseases.",
+      "A diet high in proteins to build large muscles.",
+      "A diet high in carbohydrates for sustained energy.",
+      "A diet consisting mainly of roughage and water."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Balanced Diet Application",
+    "complexity_score": 3
+  },
+  {
+    "question": "The lesson states that a balanced diet is roughly 60% carbohydrates, 25% proteins, and 15% fats for a normal person. Why is this considered a 'balance' and not just a random assortment of foods?",
+    "correct": "Because it supplies the correct proportions of nutrients for the body's primary needs: energy, growth/repair, and other functions.",
+    "options": [
+      "Because these are the only three nutrients the body needs to survive.",
+      "Because this ratio ensures the food tastes good and is easy to digest.",
+      "Because it supplies the correct proportions of nutrients for the body's primary needs: energy, growth/repair, and other functions.",
+      "Because this is the ratio of foods that are most commonly available in nature."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
     "topic": "Balanced Diet",
-    "complexity_score": 3
-  },
-  {
-    "question": "The lesson states that roughage is mainly made of an indigestible carbohydrate called cellulose. Why is it beneficial for humans to consume something their body cannot digest?",
-    "correct": "It adds bulk to food and waste, aiding movement through the intestines.",
-    "options": [
-      "It secretly contains hidden vitamins that are released slowly.",
-      "The body eventually learns to digest it over time.",
-      "It adds bulk to food and waste, aiding movement through the intestines.",
-      "It tricks the body into thinking it is full, preventing overeating."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Roughage",
-    "complexity_score": 3
-  },
-  {
-    "question": "Both water and roughage are essential for our body, yet neither provides any nutrients. What key function do they share in a different way?",
-    "correct": "They are both crucial for the process of waste removal from the body.",
-    "options": [
-      "They both directly provide energy for bodily functions.",
-      "They both are involved in building new cells.",
-      "They are both crucial for the process of waste removal from thebody.",
-      "They both help in storing fat-soluble vitamins."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Comparative Nutrition",
-    "complexity_score": 3
-  },
-  {
-    "question": "Washing vegetables after cutting them can lead to the loss of water-soluble vitamins. This implies that these vitamins...",
-    "correct": "can dissolve in water and be washed away.",
-    "options": [
-      "are destroyed by contact with air.",
-      "are only located in the skin of vegetables.",
-      "can dissolve in water and be washed away.",
-      "are not actually present in vegetables."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Cooking & Nutrients",
     "complexity_score": 3
   }
 ]
