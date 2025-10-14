@@ -1,282 +1,282 @@
 [
   {
-    "question": "What are the two nutrients primarily described as 'energy-giving' foods?",
-    "correct": "Carbohydrates and Fats",
+    "question": "According to the lesson, which disease is caused by a deficiency of Vitamin C?",
+    "correct": "Scurvy",
     "options": [
-      "Proteins and Vitamins",
-      "Vitamins and Minerals",
-      "Carbohydrates and Fats",
-      "Water and Roughage"
+      "Anemia",
+      "Beriberi",
+      "Scurvy",
+      "Goitre"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Nutrient Functions",
+    "topic": "Science - Nutrition",
     "complexity_score": 1
   },
   {
-    "question": "A deficiency of which vitamin leads to a disease called Scurvy, characterized by bleeding gums and loose teeth?",
-    "correct": "Vitamin C",
+    "question": "In the English grammar practice, which word is used with 'he', 'she', or 'it' when asking a question in the present simple tense?",
+    "correct": "Does",
     "options": [
-      "Vitamin A",
-      "Vitamin D",
-      "Vitamin B1",
-      "Vitamin C"
+      "Do",
+      "Is",
+      "Does",
+      "Are"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Deficiency Diseases",
+    "topic": "English - Grammar",
     "complexity_score": 1
   },
   {
-    "question": "Which substance is mainly made of an indigestible carbohydrate called cellulose and helps prevent constipation?",
-    "correct": "Roughage",
+    "question": "In the house blueprint problem, why couldn't Kavya just use a scale to measure the lengths on the paper?",
+    "correct": "The drawing is a blueprint and not drawn to the actual scale of a real house.",
     "options": [
-      "Protein",
-      "Starch",
-      "Fat",
-      "Roughage"
+      "The teacher did not have a ruler.",
+      "The lines on the paper were too thick.",
+      "The drawing is a blueprint and not drawn to the actual scale of a real house.",
+      "Measuring with a scale is less accurate than calculating."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Roughage and Digestion",
+    "topic": "Math - Area & Perimeter",
     "complexity_score": 1
   },
   {
-    "question": "According to the lesson, which nutrient is essential for the growth and repair of body tissues, like muscles?",
-    "correct": "Protein",
+    "question": "Which food group's primary function is to help the body grow and repair tissues?",
+    "correct": "Proteins",
     "options": [
       "Carbohydrates",
       "Fats",
-      "Protein",
+      "Proteins",
       "Vitamins"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Nutrient Functions",
+    "topic": "Science - Nutrition",
     "complexity_score": 1
   },
   {
-    "question": "A swollen thyroid gland in the neck, a condition known as goitre, is caused by a deficiency of which mineral?",
+    "question": "What is the correct way to say 'Woh movie dekhta hai' in English?",
+    "correct": "He watches movies.",
+    "options": [
+      "He watch movies.",
+      "He watches movies.",
+      "He is watching movies.",
+      "He do watch movies."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "English - Grammar",
+    "complexity_score": 1
+  },
+  {
+    "question": "The lesson explained that goitre is caused by a deficiency of which mineral?",
     "correct": "Iodine",
     "options": [
       "Iron",
       "Calcium",
       "Iodine",
-      "Protein"
+      "Zinc"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Deficiency Diseases",
+    "topic": "Science - Nutrition",
     "complexity_score": 1
   },
   {
-    "question": "What is the key difference between undernutrition and malnutrition?",
-    "correct": "Undernutrition is a lack of sufficient food quantity, while malnutrition is a lack of the right nutrients.",
+    "question": "Based on the discussion, what is the fundamental difference between undernutrition and malnutrition?",
+    "correct": "Undernutrition is from not enough food quantity, while malnutrition is from a poor quality, unbalanced diet.",
     "options": [
-      "Undernutrition is caused by poverty, while malnutrition is caused by natural calamities.",
       "Undernutrition affects children, while malnutrition affects adults.",
-      "Undernutrition is a lack of sufficient food quantity, while malnutrition is a lack of the right nutrients.",
-      "There is no difference; they are the same condition."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Undernutrition vs Malnutrition",
-    "complexity_score": 1
-  },
-  {
-    "question": "A person who is weak, gets tired quickly, and looks pale may be suffering from anaemia. This is caused by a deficiency of what?",
-    "correct": "Iron",
-    "options": [
-      "Iodine",
-      "Vitamin C",
-      "Iron",
-      "Carbohydrates"
+      "Undernutrition is caused by poverty, while malnutrition is a personal choice.",
+      "Undernutrition is from not enough food quantity, while malnutrition is from a poor quality, unbalanced diet.",
+      "There is no difference; the terms mean the same thing."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Deficiency Diseases",
+    "topic": "Science - Nutrition",
     "complexity_score": 2
   },
   {
-    "question": "Why would the ideal diet for a professional weightlifter contain a higher percentage of protein than a normal person's diet?",
-    "correct": "Because protein is essential for repairing and building muscle tissue, which is stressed during weightlifting.",
+    "question": "If a rectangular hall has a total length of 30 feet and the kitchen area next to it takes up 12 feet of that length, how would you find the remaining length of the hall?",
+    "correct": "Subtract 12 from 30",
     "options": [
-      "Because protein provides the most energy for lifting heavy weights.",
-      "Because weightlifters do not need carbohydrates or fats.",
-      "Because protein is essential for repairing and building muscle tissue, which is stressed during weightlifting.",
-      "Because a high-protein diet helps in fighting diseases common to athletes."
+      "Add 30 and 12",
+      "Multiply 30 by 12",
+      "Subtract 12 from 30",
+      "Divide 30 by 12"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Balanced Diet Application",
+    "topic": "Math - Area & Perimeter",
     "complexity_score": 2
   },
   {
-    "question": "The lesson mentions that washing vegetables after cutting them can lead to the loss of certain nutrients. What type of vitamins are most likely lost in this process?",
-    "correct": "Water-soluble vitamins",
+    "question": "The teacher explained that when 'did' or 'didn't' is used in a sentence, the verb should be in its...",
+    "correct": "First form (base form)",
     "options": [
-      "Fat-soluble vitamins",
-      "All vitamins equally",
-      "Water-soluble vitamins",
-      "Only Vitamin C"
+      "Second form (past tense)",
+      "Third form (past participle)",
+      "First form (base form)",
+      "'-ing' form"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Food Preparation",
+    "topic": "English - Grammar",
     "complexity_score": 2
   },
   {
-    "question": "Vitamins A, D, E, and K are stored in body fat. What does this imply about their consumption compared to vitamins B and C?",
-    "correct": "They do not need to be consumed as frequently as vitamins B and C.",
+    "question": "Why would a professional weightlifter's diet contain more protein compared to an average person's?",
+    "correct": "To support muscle growth and repair tissues that tear during exercise.",
     "options": [
-      "They are more important than vitamins B and C.",
-      "They must be consumed every single day without fail.",
-      "They do not need to be consumed as frequently as vitamins B and C.",
-      "They provide more energy than vitamins B and C."
+      "To get quick energy for lifting heavy weights.",
+      "To fight diseases they might get from the gym.",
+      "To support muscle growth and repair tissues that tear during exercise.",
+      "To help them stay underweight for competitions."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Vitamins",
+    "topic": "Science - Nutrition",
     "complexity_score": 2
   },
   {
-    "question": "Both water and roughage are essential but provide no nutrients. What key function do they share, although in different ways?",
-    "correct": "They are both crucial for the process of waste removal from the body.",
+    "question": "If a room is described as '15 feet by 15 feet', what shape is it and what does this tell you about its sides?",
+    "correct": "It is a square, and both sides are 15 feet long.",
     "options": [
-      "They both directly provide energy for bodily functions.",
-      "They both help in building new cells and tissues.",
-      "They are both crucial for the process of waste removal from the body.",
-      "They both help in storing fat-soluble vitamins."
+      "It is a rectangle, and one side is longer than the other.",
+      "It is a square, and both sides are 15 feet long.",
+      "It is a triangle with two equal sides.",
+      "It is a circle with a diameter of 15 feet."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Nutrient Functions",
+    "topic": "Math - Area & Perimeter",
     "complexity_score": 2
   },
   {
-    "question": "During the COVID-19 pandemic, doctors often prescribed Vitamin C. Based on the lesson, what is the primary reason for this?",
-    "correct": "It helps the body fight against diseases.",
+    "question": "Which sentence correctly translates 'Anaya Yuvank se baat nahi karti hai'?",
+    "correct": "Anaya doesn't talk to Yuvank.",
     "options": [
-      "It provides a quick source of energy.",
-      "It helps build strong bones to resist the virus.",
-      "It is a cure for the COVID-19 virus.",
-      "It helps the body fight against diseases."
+      "Anaya don't talk to Yuvank.",
+      "Anaya not talking to Yuvank.",
+      "Anaya doesn't talk to Yuvank.",
+      "Anaya doesn't talks to Yuvank."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Vitamins",
+    "topic": "English - Grammar",
     "complexity_score": 2
   },
   {
-    "question": "Boiling milk before drinking it is a common practice. What are the two main benefits of this process mentioned in the lesson?",
-    "correct": "It kills germs and makes the milk easier to digest.",
+    "question": "During digestion, complex carbohydrates like starch are broken down into a simpler substance. What is that substance called?",
+    "correct": "Glucose",
     "options": [
-      "It adds more protein and improves the taste.",
-      "It kills germs and makes the milk easier to digest.",
-      "It removes all the fat and adds vitamins.",
-      "It improves the color and removes water."
+      "Protein",
+      "Fat",
+      "Glucose",
+      "Cellulose"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Food Preparation",
+    "topic": "Science - Nutrition",
     "complexity_score": 2
   },
   {
-    "question": "A child's diet is very low in both proteins and carbohydrates. They become extremely thin, with loose folds of skin. Which deficiency disease are they likely suffering from?",
-    "correct": "Marasmus",
+    "question": "A quiz question stated, 'Cooking food is important because it can kill harmful germs.' Kavya initially thought this was false. Why is the statement actually true?",
+    "correct": "Boiling and heating food can kill harmful bacteria and microorganisms.",
     "options": [
-      "Scurvy",
-      "Kwashiorkor",
-      "Marasmus",
-      "Rickets"
+      "Cooking only makes food tasty and has no effect on germs.",
+      "Only some types of cooking, like frying, can kill germs.",
+      "Boiling and heating food can kill harmful bacteria and microorganisms.",
+      "Germs are only killed if you wash the food, not cook it."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Deficiency Diseases",
+    "topic": "Science - Nutrition",
     "complexity_score": 2
   },
   {
-    "question": "A family lives in an area affected by a severe drought, and food is unavailable. Even though they have money, they become weak. What condition are they suffering from?",
-    "correct": "Undernutrition due to absence of food",
+    "question": "The blueprint showed a room with an area of 180 sq. feet and one side measuring 15 feet. How did the teacher and Kavya figure out the missing side's length?",
+    "correct": "By dividing the total area (180) by the known side (15).",
     "options": [
-      "Malnutrition due to poor food choices",
-      "Undernutrition due to absence of food",
-      "A deficiency disease caused by lack of Vitamin D",
-      "Malnutrition due to poverty"
+      "By measuring the drawing with a ruler.",
+      "By subtracting 15 from 180.",
+      "By multiplying 180 by 15.",
+      "By dividing the total area (180) by the known side (15)."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Undernutrition vs Malnutrition",
+    "topic": "Math - Area & Perimeter",
     "complexity_score": 3
   },
   {
-    "question": "A person eats large quantities of rice and bread every day but avoids fruits, vegetables, and dairy. Which condition are they most at risk for, even if they are not hungry?",
-    "correct": "Malnutrition",
+    "question": "A person eats very large quantities of only rice every day. According to the class discussion, could they still suffer from a nutritional problem? If so, which one?",
+    "correct": "Yes, they could suffer from malnutrition because their diet is not balanced.",
     "options": [
-      "Undernutrition",
-      "Marasmus",
-      "Malnutrition",
-      "Goitre"
+      "No, eating a large quantity of food prevents all nutritional problems.",
+      "Yes, they would suffer from undernutrition because rice has no calories.",
+      "Yes, they could suffer from malnutrition because their diet is not balanced.",
+      "No, as long as they feel full, their body has all the nutrients it needs."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Undernutrition vs Malnutrition",
+    "topic": "Science - Nutrition",
     "complexity_score": 3
   },
   {
-    "question": "Why is it beneficial for humans to consume roughage (cellulose) even though our bodies cannot digest it to get energy?",
-    "correct": "It adds bulk to food and aids in bowel movement, preventing constipation.",
+    "question": "Which of these sentences is grammatically INCORRECT based on the rules discussed for present and past tenses?",
+    "correct": "Where does he lives?",
     "options": [
-      "It contains hidden vitamins that are released slowly.",
-      "The body eventually learns to digest it if consumed regularly.",
-      "It adds bulk to food and aids in bowel movement, preventing constipation.",
-      "It tricks the body into feeling full, preventing overeating of fats."
+      "I went to the market.",
+      "He plays football.",
+      "Did you go to the market?",
+      "Where does he lives?"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Roughage and Digestion",
+    "topic": "English - Grammar",
     "complexity_score": 3
   },
   {
-    "question": "A person is diagnosed with Rickets, showing symptoms of bow legs. A lack of which two things in their diet is the most likely cause?",
-    "correct": "Vitamin D and Calcium",
+    "question": "The quiz mentioned two diseases related to protein deficiency: Kwashiorkor and Marasmus. What other nutrient deficiency is associated with Marasmus?",
+    "correct": "Carbohydrates",
     "options": [
-      "Protein and Iron",
-      "Vitamin C and Iodine",
-      "Vitamin D and Calcium",
-      "Carbohydrates and Vitamin A"
+      "Vitamin D",
+      "Fats",
+      "Carbohydrates",
+      "Iron"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Deficiency Diseases",
+    "topic": "Science - Nutrition",
     "complexity_score": 3
   },
   {
-    "question": "Considering the functions of different nutrients, which diet would be most appropriate for a construction laborer who does physically demanding work all day?",
-    "correct": "A diet high in carbohydrates for sustained energy.",
+    "question": "Consider the sentence: 'Kavya and Anaya bunk the class.' If you were to make this sentence negative, what would be the correct form?",
+    "correct": "Kavya and Anaya don't bunk the class.",
     "options": [
-      "A diet high in vitamins to prevent diseases.",
-      "A diet high in proteins to build large muscles.",
-      "A diet high in carbohydrates for sustained energy.",
-      "A diet consisting mainly of roughage and water."
+      "Kavya and Anaya doesn't bunk the class.",
+      "Kavya and Anaya not bunk the class.",
+      "Kavya and Anaya don't bunk the class.",
+      "Kavya and Anaya didn't bunked the class."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Balanced Diet Application",
+    "topic": "English - Grammar",
     "complexity_score": 3
   },
   {
-    "question": "The lesson states that a balanced diet is roughly 60% carbohydrates, 25% proteins, and 15% fats for a normal person. Why is this considered a 'balance' and not just a random assortment of foods?",
-    "correct": "Because it supplies the correct proportions of nutrients for the body's primary needs: energy, growth/repair, and other functions.",
+    "question": "To find the total area of the hall in the blueprint, multiple smaller shapes had to be calculated and then added together. What core mathematical principle does this process demonstrate?",
+    "correct": "Complex problems can be solved by breaking them into smaller, simpler parts.",
     "options": [
-      "Because these are the only three nutrients the body needs to survive.",
-      "Because this ratio ensures the food tastes good and is easy to digest.",
-      "Because it supplies the correct proportions of nutrients for the body's primary needs: energy, growth/repair, and other functions.",
-      "Because this is the ratio of foods that are most commonly available in nature."
+      "The area of a shape is always length times width.",
+      "All blueprints are designed using only squares.",
+      "Complex problems can be solved by breaking them into smaller, simpler parts.",
+      "Guessing measurements is a valid strategy for complex shapes."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Balanced Diet",
+    "topic": "Math - Area & Perimeter",
     "complexity_score": 3
   }
 ]
