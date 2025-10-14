@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the 'magic number' that the Kaprekar's Constant process always leads to for a suitable four-digit number?",
-    "correct": "6174",
+    "question": "Based on the class discussion, when talking about a specific point in time in the past (like 5 o'clock), which word is correct: 'I have been playing ___ 5 o'clock'?",
+    "correct": "since",
     "options": [
-      "1764",
-      "4761",
-      "6174",
-      "7416"
+      "for",
+      "from",
+      "since",
+      "at"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Mathematical Concepts",
+    "topic": "Prepositions of Time",
     "complexity_score": 1
   },
   {
-    "question": "According to the Collatz Conjecture rule discussed, what is the correct operation to perform on an ODD number?",
-    "correct": "Multiply by 3 and add 1",
+    "question": "Which sentence correctly uses the third-person singular form of the Present Simple tense, as practiced in the class?",
+    "correct": "She always helps me.",
     "options": [
-      "Divide by 2",
-      "Multiply by 2 and subtract 1",
-      "Multiply by 3 and add 1",
-      "Square the number"
+      "She always help me.",
+      "She always is helping me.",
+      "She always helps me.",
+      "She always helped me."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Mathematical Concepts",
+    "topic": "Present Simple Tense",
     "complexity_score": 1
   },
   {
-    "question": "In the English test, why was the student's answer '30' marked incorrect for the question 'There are ___ days in a month'?",
-    "correct": "The instructions required the answer to be written as a word, not a number.",
+    "question": "The teacher mentioned that for small, specific locations like 'Gandhi chowk', it's better to use which preposition?",
+    "correct": "at",
     "options": [
-      "Because some months have 31 days.",
-      "The student made a spelling mistake in the number.",
-      "The instructions required the answer to be written as a word, not a number.",
-      "The number '30' was written illegibly."
+      "in",
+      "on",
+      "at",
+      "over"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "English Grammar",
+    "topic": "Prepositions of Place",
     "complexity_score": 1
   },
   {
-    "question": "What specific grammar mistake involving adjectives did the student recall making on the test?",
-    "correct": "Writing 'best' instead of 'better'",
+    "question": "In the sentence 'My laptop has been repaired', which verb form is 'repaired'?",
+    "correct": "The third form (past participle)",
     "options": [
-      "Writing 'good' instead of 'well'",
-      "Writing 'better' instead of 'best'",
-      "Writing 'best' instead of 'better'",
-      "Using a double negative"
+      "The first form (base)",
+      "The second form (simple past)",
+      "The third form (past participle)",
+      "The '-ing' form (present participle)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "English Grammar",
+    "topic": "Passive Voice",
     "complexity_score": 1
   },
   {
-    "question": "At the very beginning of the dictation passage, what is the character LEO doing?",
-    "correct": "Tracing patterns on a window sill",
+    "question": "What is the correct simple past tense of the verb 'give'?",
+    "correct": "gave",
     "options": [
-      "Looking for a blue feather",
-      "Digging in the damp earth",
-      "Tracing patterns on a window sill",
-      "Finding a smooth stone"
+      "given",
+      "gived",
+      "gave",
+      "was giving"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Creative Writing",
+    "topic": "Past Simple Tense",
     "complexity_score": 1
   },
   {
-    "question": "What is the very first step in the Kaprekar's Constant process, as explained in the class?",
-    "correct": "Take a four-digit number with at least two different digits.",
+    "question": "The teacher explained that 'yelling' is always followed by which preposition?",
+    "correct": "at",
     "options": [
-      "Subtract the smallest digit from the largest.",
-      "Arrange the digits in ascending order.",
-      "Take a four-digit number with at least two different digits.",
-      "Immediately subtract 6174 from the number."
+      "on",
+      "to",
+      "at",
+      "with"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Mathematical Concepts",
+    "topic": "Collocations",
     "complexity_score": 1
   },
   {
-    "question": "If you start the Collatz Conjecture with the even number 10, what will the next number in the sequence be?",
-    "correct": "5",
+    "question": "The teacher corrected the sentence 'Yesterday at 12 o'clock I was thinking something.' What is the more standard grammatical structure?",
+    "correct": "I was thinking something at 12 o'clock yesterday.",
     "options": [
-      "31",
-      "5",
-      "20",
-      "11"
+      "Thinking something I was at 12 o'clock yesterday.",
+      "I was thinking something at 12 o'clock yesterday.",
+      "Yesterday I was thinking something at 12 o'clock.",
+      "At 12 o'clock yesterday something I was thinking."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Mathematical Concepts",
-    "complexity_score": 1
+    "topic": "Sentence Structure",
+    "complexity_score": 2
   },
   {
-    "question": "What was the tutor's key advice for answering questions about a reading passage correctly?",
-    "correct": "Understand the passage first and then write the answer in your own words.",
+    "question": "The sentence 'I have been doing my homework since 3 o'clock' describes an action that...",
+    "correct": "started in the past and is still continuing.",
     "options": [
-      "Find the exact sentence in the passage and copy it.",
-      "Understand the passage first and then write the answer in your own words.",
-      "Only read the first and last sentences of the passage.",
-      "Guess the answer based on the question's keywords."
+      "was completed at 3 o'clock.",
+      "will happen at 3 o'clock.",
+      "happens every day at 3 o'clock.",
+      "started in the past and is still continuing."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Reading Comprehension",
-    "complexity_score": 1
+    "topic": "Present Perfect Continuous",
+    "complexity_score": 2
   },
   {
-    "question": "If a student applies the Kaprekar's Constant process to the number 3524, what is the first subtraction they must perform?",
-    "correct": "5432 - 2345",
+    "question": "Which sentence correctly describes an action that will be in progress at a specific time in the future?",
+    "correct": "At this time tomorrow, I will be watching a movie.",
     "options": [
-      "4325 - 2354",
-      "5432 - 2345",
-      "3524 - 2345",
-      "5432 - 4235"
+      "At this time tomorrow, I will watch a movie.",
+      "At this time tomorrow, I am watching a movie.",
+      "At this time tomorrow, I will be watching a movie.",
+      "At this time tomorrow, I have watched a movie."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Mathematical Concepts",
-    "complexity_score": 1
+    "topic": "Future Continuous Tense",
+    "complexity_score": 2
   },
   {
-    "question": "In the dictation, a stone was found 'tucked inside the dark hole.' What does the word 'tucked' imply?",
-    "correct": "It was placed snugly and carefully inside.",
+    "question": "When describing a completed past action, like giving a laptop away yesterday, which sentence is more appropriate?",
+    "correct": "I gave my laptop for repair.",
     "options": [
-      "It fell in by accident.",
-      "It was placed snugly and carefully inside.",
-      "It was thrown into the hole.",
-      "It was very difficult to see."
+      "I have given my laptop for repair.",
+      "I gave my laptop for repair.",
+      "I am giving my laptop for repair.",
+      "I had been giving my laptop for repair."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Creative Writing",
-    "complexity_score": 1
+    "topic": "Tense Selection (Past Simple vs Present Perfect)",
+    "complexity_score": 2
   },
   {
-    "question": "Why would a teacher prefer a student to write a specific name, like 'Jane', instead of a general pronoun like 'you' when answering a question about a story?",
-    "correct": "To ensure the answer is precise and clearly refers to the correct character.",
+    "question": "Which of these sentences is in the passive voice, as discussed in the lesson?",
+    "correct": "My laptop has been repaired.",
     "options": [
-      "Because 'Jane' is a longer word than 'you'.",
-      "To test the student's spelling of the name.",
-      "To make the answer more creative.",
-      "To ensure the answer is precise and clearly refers to the correct character."
+      "I have repaired my laptop.",
+      "My laptop is working now.",
+      "My laptop has been repaired.",
+      "Someone repaired my laptop."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Reading Comprehension",
-    "complexity_score": 1
+    "topic": "Active vs. Passive Voice",
+    "complexity_score": 2
   },
   {
-    "question": "The tutor modeled how to create a 5-minute video by explaining several math topics back-to-back. What skill was this activity designed to improve?",
-    "correct": "Sustaining a detailed explanation and transitioning between related ideas.",
+    "question": "To ask about a daily habit, which question is grammatically correct?",
+    "correct": "What do you play?",
     "options": [
-      "Memorizing math formulas quickly.",
-      "Sustaining a detailed explanation and transitioning between related ideas.",
-      "Video editing and special effects.",
-      "Calculating Kaprekar's constant faster."
+      "What you play?",
+      "What are you play?",
+      "What do you play?",
+      "What you are playing?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Metacognition & Learning",
-    "complexity_score": 1
+    "topic": "Present Simple Tense (Questions)",
+    "complexity_score": 2
   },
   {
-    "question": "Being asked to answer a reading comprehension question in your 'own words' primarily tests your ability to do what?",
-    "correct": "Synthesize and rephrase information, showing true understanding.",
+    "question": "The sentence 'By 8 o'clock tonight, I will have completed my homework' is an example of which tense?",
+    "correct": "Future Perfect",
     "options": [
-      "Locate keywords in a text.",
-      "Copy sentences without spelling errors.",
-      "Synthesize and rephrase information, showing true understanding.",
-      "Memorize the entire passage."
+      "Future Simple",
+      "Future Continuous",
+      "Future Perfect",
+      "Present Perfect"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Reading Comprehension",
-    "complexity_score": 1
+    "topic": "Future Perfect Tense",
+    "complexity_score": 2
   },
   {
-    "question": "Why is a four-digit number where all digits are the same (e.g., 4444) unsuitable for the Kaprekar's Constant process?",
-    "correct": "Because subtracting the number from itself results in zero.",
+    "question": "Based on the discussion about word choice, which verb is a better fit for the sentence: 'Who ___ you to school every day?'",
+    "correct": "drops",
     "options": [
-      "Because the number is too large.",
-      "Because the process only works for odd numbers.",
-      "Because subtracting the number from itself results in zero.",
-      "Because it doesn't contain the digit 6, 1, 7, or 4."
+      "leaves",
+      "goes",
+      "puts",
+      "drops"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Vocabulary & Nuance",
+    "complexity_score": 2
+  },
+  {
+    "question": "The teacher explained that saying 'I do play' instead of 'I play' is used for what purpose?",
+    "correct": "To add emphasis to the statement.",
+    "options": [
+      "To talk about the past.",
+      "To ask a question.",
+      "To add emphasis to the statement.",
+      "It is grammatically incorrect."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Mathematical Concepts",
-    "complexity_score": 1
+    "topic": "Grammatical Nuance (Emphasis)",
+    "complexity_score": 3
   },
   {
-    "question": "The student hesitated to review her Social Science answer sheet. The conversation reframed this task as 'detective work.' What is the primary goal of this reframing?",
-    "correct": "To shift the focus from feeling judged to being curious about finding clues for improvement.",
+    "question": "In the sentence 'He don't know how to play', what is the specific grammatical error that was corrected in class?",
+    "correct": "Subject-verb agreement (It should be 'doesn't')",
     "options": [
-      "To make the student feel guilty for not looking at her paper.",
-      "To suggest that the teacher made a mistake in grading.",
-      "To shift the focus from feeling judged to being curious about finding clues for improvement.",
-      "To imply that studying is a secret mission."
+      "Incorrect preposition",
+      "Wrong tense usage",
+      "Subject-verb agreement (It should be 'doesn't')",
+      "Incorrect word order"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition & Learning",
-    "complexity_score": 1
+    "topic": "Error Identification",
+    "complexity_score": 3
   },
   {
-    "question": "The tutor's advice on answering reading comprehension questions (use your own words) aims to move the student beyond which lower-order thinking skill?",
-    "correct": "Simple recall and identification.",
+    "question": "Why is 'My laptop has been repaired' a better sentence than 'My laptop has repaired'?",
+    "correct": "Because the laptop is the object receiving the action, so passive voice is needed.",
     "options": [
-      "Creative writing.",
-      "Critical analysis.",
-      "Simple recall and identification.",
-      "Problem-solving."
+      "Because 'has repaired' is never correct.",
+      "Because the laptop is the object receiving the action, so passive voice is needed.",
+      "Because the action is still happening.",
+      "Because 'has been repaired' is a more formal phrase."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Reading Comprehension",
-    "complexity_score": 1
+    "topic": "Passive Voice Application",
+    "complexity_score": 3
   },
   {
-    "question": "In the dictation story, the line 'a small blue feather unlike any he had ever seen' is included to primarily achieve what effect?",
-    "correct": "To create a sense of mystery and uniqueness, signaling the start of an adventure.",
+    "question": "The students tended to translate from Hindi word-for-word. What principle of English sentence structure did the teacher emphasize to correct this?",
+    "correct": "English sentences usually start with the subject, followed by the verb, with time phrases often at the end.",
     "options": [
-      "To describe the weather.",
-      "To test the spelling of the word 'feather'.",
-      "To create a sense of mystery and uniqueness, signaling the start of an adventure.",
-      "To prove that the main character likes birds."
+      "Adverbs should always be the first word in a sentence.",
+      "English sentences usually start with the subject, followed by the verb, with time phrases often at the end.",
+      "The most important information should always come first.",
+      "Verbs should always be at the very end of the sentence."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Creative Writing",
-    "complexity_score": 1
+    "topic": "Sentence Structure Analysis",
+    "complexity_score": 3
   },
   {
-    "question": "The student's challenge of losing marks for writing '30' instead of 'thirty' highlights an important lesson about academic tests. What is it?",
-    "correct": "That following instructions precisely can be as crucial as knowing the correct information.",
+    "question": "During the storytelling activity, a student said, '...he is doing like a cheap thing.' The teacher would correct this to '...he was doing a cheap thing.' Why?",
+    "correct": "To maintain tense consistency within a story set in the past.",
     "options": [
-      "That math skills are not important in English class.",
-      "That teachers always prefer longer answers.",
-      "That all school rules are arbitrary and should be ignored.",
-      "That following instructions precisely can be as crucial as knowing the correct information."
+      "Because 'is doing' is impolite.",
+      "To maintain tense consistency within a story set in the past.",
+      "Because 'like' is used incorrectly.",
+      "To switch to the passive voice."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition & Learning",
-    "complexity_score": 1
+    "topic": "Tense Consistency",
+    "complexity_score": 3
   },
   {
-    "question": "When the tutor suggested increasing the writing task from one paragraph to one page, he was applying which core learning principle?",
-    "correct": "Progressive difficulty, or 'raising the bar,' to ensure continuous growth.",
+    "question": "Which translation best captures the meaning of 'lekin mera koi bharosa nahi hai' as discussed in the class, focusing on the speaker's own unreliability?",
+    "correct": "But there's no guarantee about me.",
     "options": [
-      "Repetition for memorization.",
-      "Learning through play.",
-      "Progressive difficulty, or 'raising the bar,' to ensure continuous growth.",
-      "Rewarding correct answers with points."
+      "But I am not confirmed.",
+      "But I can't be trusted.",
+      "But there's no guarantee about me.",
+      "But it's not confirmed."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition & Learning",
-    "complexity_score": 1
-  },
-  {
-    "question": "What is a shared characteristic between analyzing an English grammar error and following the steps of a mathematical process like Kaprekar's Constant?",
-    "correct": "Both require careful attention to specific rules and procedures.",
-    "options": [
-      "Both involve creative and imaginative thinking.",
-      "Both are primarily about speed and quick calculation.",
-      "Both require careful attention to specific rules and procedures.",
-      "Both are only useful for passing school exams."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Metacognition & Learning",
-    "complexity_score": 1
+    "topic": "Contextual Translation",
+    "complexity_score": 3
   }
 ]
