@@ -1,12 +1,12 @@
 [
   {
-    "question": "According to the class, what is the definition of a 'doer'?",
+    "question": "According to the lesson, what is the definition of a 'doer'?",
     "correct": "The one who does the work.",
     "options": [
-      "The work that is being done.",
-      "A word that tells time.",
+      "The word that tells the time.",
+      "The work which is done.",
       "The one who does the work.",
-      "The object receiving the action."
+      "The person who asks a question."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -14,27 +14,27 @@
     "complexity_score": 1
   },
   {
-    "question": "Which of the following are the 'new' time words introduced for the 'third doer'?",
-    "correct": "is, has",
+    "question": "Which set of words did the teacher refer to as 'time words'?",
+    "correct": "is, am, are, was, were",
     "options": [
-      "am, are",
-      "will, can",
-      "is, has",
-      "have, am"
+      "doer, action, not",
+      "I, you, he, she",
+      "is, am, are, was, were",
+      "come, help, teaching"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Third Doer Time Words",
+    "topic": "Core Definitions",
     "complexity_score": 1
   },
   {
-    "question": "In the lesson, 'I' is referred to as which type of doer?",
-    "correct": "First doer",
+    "question": "In the lesson, 'I' is called the 'First Doer' and 'you' is called the...",
+    "correct": "Second Doer",
     "options": [
-      "Second doer",
-      "Third doer",
-      "First doer",
-      "Singular doer"
+      "Third Doer",
+      "Other Doer",
+      "Second Doer",
+      "Main Doer"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -42,55 +42,55 @@
     "complexity_score": 1
   },
   {
-    "question": "What is the correct sentence structure for a 'yes' answer, as reviewed in the class?",
-    "correct": "Doer, time word, action.",
+    "question": "What is the teacher's definition of the 'Third Doer'?",
+    "correct": "Not more than one, except I and you.",
     "options": [
-      "Time word, doer, action.",
-      "Doer, time word, not, action.",
+      "Only he, she, it, and name.",
+      "More than one person.",
+      "Not more than one, except I and you.",
+      "The one who is listening."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Third Doer Definition",
+    "complexity_score": 1
+  },
+  {
+    "question": "The 'New Bride' analogy was used to explain why...",
+    "correct": "a new doer needs a new time word.",
+    "options": [
+      "old clothes are not good for grammar.",
+      "questions are different from answers.",
+      "a new doer needs a new time word.",
+      "some guests are coming to the house."
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Teaching Analogies",
+    "complexity_score": 1
+  },
+  {
+    "question": "What is the correct sentence structure for asking a question, as taught in the class?",
+    "correct": "Time word, doer, action, question mark.",
+    "options": [
       "Doer, time word, action.",
+      "Doer, time word, not, action.",
+      "Time word, doer, action, question mark.",
       "Action, doer, time word."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Sentence Structure Review",
+    "topic": "Sentence Structure",
     "complexity_score": 1
   },
   {
-    "question": "The time word 'is' is used when the third doer is doing the work and...",
-    "correct": "the work is happening in the present.",
-    "options": [
-      "the work has already finished.",
-      "the work will happen in the future.",
-      "the work is happening in the present.",
-      "the doer is 'I' or 'you'."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Using 'is'",
-    "complexity_score": 1
-  },
-  {
-    "question": "When is the time word 'has' used with a third doer?",
-    "correct": "When the third doer has finished the work.",
-    "options": [
-      "When the third doer is starting the work.",
-      "When the third doer is currently doing the work.",
-      "When the third doer has finished the work.",
-      "When the doer is the 'second doer'."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Using 'has'",
-    "complexity_score": 1
-  },
-  {
-    "question": "In the sentence 'My personality is changing', what is the 'doer'?",
-    "correct": "My personality",
+    "question": "In the sentence, 'My personality is changing,' what is the 'doer'?",
+    "correct": "Personality",
     "options": [
       "My",
       "is",
       "changing",
-      "My personality"
+      "Personality"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -98,27 +98,27 @@
     "complexity_score": 2
   },
   {
-    "question": "What was the main point of the 'new bride' analogy?",
-    "correct": "A new doer (the third doer) needs new time words ('is', 'has').",
+    "question": "In the sentence, 'Some guests are coming to my house,' who is the 'doer'?",
+    "correct": "Some guests",
     "options": [
-      "Third doers always wear new clothes.",
-      "Old time words are incorrect.",
-      "A new doer (the third doer) needs new time words ('is', 'has').",
-      "You should only talk about new things in English."
+      "Guests",
+      "My house",
+      "Some guests",
+      "Coming"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Analogical Reasoning",
+    "topic": "Identifying the Doer",
     "complexity_score": 2
   },
   {
-    "question": "Based on the lesson's role-play, if you see your friend Deepak brushing her teeth and you tell another person about it, what would you say?",
-    "correct": "Deepak is brushing her teeth.",
+    "question": "What are the TWO conditions that must be met to use the time word 'is'?",
+    "correct": "The doer is a 'Third Doer' AND the work is happening in the present.",
     "options": [
-      "I am brushing her teeth.",
-      "You are brushing her teeth.",
-      "Deepak is brushing her teeth.",
-      "Deepak have brushed her teeth."
+      "The doer is the 'First Doer' AND the work is finished.",
+      "The work is happening in the present AND the answer is 'yes'.",
+      "The doer is a 'Third Doer' AND the work is happening in the present.",
+      "You are asking a question AND the doer is a 'Third Doer'."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -126,69 +126,13 @@
     "complexity_score": 2
   },
   {
-    "question": "The teacher corrected the idea that the third doer is ONLY 'he, she, it, name'. What does this tell us about the 'third doer'?",
-    "correct": "It can be any singular subject that isn't 'I' or 'you'.",
+    "question": "The time word 'has' is introduced as the 'new' time word that replaces which 'old' time word for the Third Doer?",
+    "correct": "have",
     "options": [
-      "It can only be a person.",
-      "It is always a non-living thing.",
-      "It can be any singular subject that isn't 'I' or 'you'.",
-      "It must include more than one person."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Concept of Third Doer",
-    "complexity_score": 2
-  },
-  {
-    "question": "Why is the sentence 'Gopal sir are teaching' incorrect, according to the class rules?",
-    "correct": "'Gopal sir' is a new/third doer and needs a new time word like 'is'.",
-    "options": [
-      "The action word 'teaching' is wrong.",
-      "'are' is only used for questions.",
-      "'Gopal sir' is a new/third doer and needs a new time word like 'is'.",
-      "The sentence needs a question mark."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Error Analysis",
-    "complexity_score": 2
-  },
-  {
-    "question": "If 'I am brushing' becomes 'I have brushed' after the action is complete, what does 'He is brushing' become?",
-    "correct": "He has brushed.",
-    "options": [
-      "He is brushed.",
-      "He have brushed.",
-      "He has brushed.",
-      "He am brushed."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Tense Transformation",
-    "complexity_score": 2
-  },
-  {
-    "question": "The class established two conditions for using 'is'. What are they?",
-    "correct": "The doer must be a third doer AND the work must be happening in the present.",
-    "options": [
-      "The doer is a first doer AND the work is finished.",
-      "The sentence is a question AND the doer is 'you'.",
-      "The doer must be a third doer AND the work must be happening in the present.",
-      "The work is happening in the present AND the answer is 'yes'."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Rule Synthesis",
-    "complexity_score": 2
-  },
-  {
-    "question": "In the 'Pati, Patni aur woh' example, the 'woh' (the other person) represents which grammar concept from the lesson?",
-    "correct": "The third doer.",
-    "options": [
-      "The action.",
-      "The time word.",
-      "The first doer.",
-      "The third doer."
+      "am",
+      "are",
+      "have",
+      "will"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -196,87 +140,143 @@
     "complexity_score": 2
   },
   {
-    "question": "A student says, 'The car have stopped.' Based on the lesson, why is this incorrect?",
-    "correct": "'The car' is a third doer, so it needs 'has' for a completed action, not 'have'.",
+    "question": "During the role-play, if Deepak (Third Doer) is brushing her teeth, and the teacher (First Doer) is telling the class (Second Doer) about it, which sentence is correct?",
+    "correct": "She is brushing her teeth.",
     "options": [
-      "The action should have '-ing'.",
-      "'The car' is a third doer, so it needs 'has' for a completed action, not 'have'.",
-      "The time word should be at the beginning.",
-      "'The car' cannot be a doer."
+      "I am brushing my teeth.",
+      "You are brushing her teeth.",
+      "She is brushing her teeth.",
+      "Deepak are brushing her teeth."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Practical Application",
+    "complexity_score": 2
+  },
+  {
+    "question": "Why is the sentence 'Gopal sir are teaching' incorrect according to the lesson's rules?",
+    "correct": "It uses an 'old' time word ('are') with a 'new' doer ('Gopal sir').",
+    "options": [
+      "The action 'teaching' must have '-ing'.",
+      "'Gopal sir' is a 'First Doer'.",
+      "It uses an 'old' time word ('are') with a 'new' doer ('Gopal sir').",
+      "The sentence should be a question."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Error Analysis",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which of these sentences correctly uses 'has' as explained in the class?",
+    "correct": "Ankita has attended the class.",
+    "options": [
+      "I has finished my work.",
+      "You has come to the class.",
+      "Ankita has attended the class.",
+      "Ankita has attending the class."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Application of 'has'",
+    "complexity_score": 2
+  },
+  {
+    "question": "The 'Pati, Patni, aur Woh' analogy was used to illustrate the situation where...",
+    "correct": "the First Doer tells the Second Doer about the Third Doer.",
+    "options": [
+      "there are three people doing an action.",
+      "the First Doer tells the Second Doer about the Third Doer.",
+      "grammar rules are like a movie plot.",
+      "the answer to a question must be 'no'."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Teaching Analogies",
+    "complexity_score": 2
+  },
+  {
+    "question": "A student sees a cat sleeping and wants to describe it. According to the lesson, why is 'the cat' a 'Third Doer'?",
+    "correct": "Because 'the cat' is singular and is not 'I' or 'you'.",
+    "options": [
+      "Because 'the cat' is a non-living thing.",
+      "Because 'the cat' is plural.",
+      "Because 'the cat' can only be used with 'am' or 'are'.",
+      "Because 'the cat' is singular and is not 'I' or 'you'."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Advanced Error Analysis",
+    "topic": "Concept Extension",
     "complexity_score": 3
   },
   {
-    "question": "Which situation correctly describes the communication dynamic for using 'is' as taught in the class: 'First doer is telling the second doer'?",
-    "correct": "I am telling you that 'she is reading'.",
+    "question": "The teacher corrected a student who thought the only 'Third Doers' were 'he, she, it, name'. What was the main point of this correction?",
+    "correct": "That the 'doer' is about the role in the sentence, not just a short list of words.",
     "options": [
-      "I am telling you that 'I am reading'.",
-      "You are telling me that 'you are reading'.",
-      "I am telling you that 'she is reading'.",
-      "She is telling me that 'you are reading'."
+      "That 'he, she, it, name' are never 'Third Doers'.",
+      "That the 'doer' is about the role in the sentence, not just a short list of words.",
+      "That 'I' and 'you' can also be 'Third Doers'.",
+      "That only names of people can be 'Third Doers'."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Communication Dynamics",
+    "topic": "Addressing Misconceptions",
     "complexity_score": 3
   },
   {
-    "question": "If you just saw your cat knock over a vase, how would you apply the 'has' rule to tell your friend about this completed action?",
-    "correct": "My cat has knocked over the vase.",
+    "question": "What is the key difference between the situations described by 'Deepak is brushing' and 'Deepak has brushed'?",
+    "correct": "One action is ongoing, and the other is completed.",
     "options": [
-      "My cat is knocking over the vase.",
-      "My cat have knocked over the vase.",
-      "My cat will knock over the vase.",
-      "My cat has knocked over the vase."
+      "The doer is different in each sentence.",
+      "One is a question and the other is an answer.",
+      "One action is ongoing, and the other is completed.",
+      "There is no difference; they mean the same thing."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Real-World Application",
+    "topic": "Analysis and Comparison",
     "complexity_score": 3
   },
   {
-    "question": "The lesson moves from talking only about 'I' and 'you' to talking about others. What fundamental communication skill does this progression build?",
-    "correct": "The ability to describe the world and people around us.",
+    "question": "If 'am' (for 'I') and 'is' (for 'he') both require the action to be happening now, what is the *only* factor that determines which one to use?",
+    "correct": "Who the 'doer' is.",
     "options": [
-      "The ability to ask complex questions.",
-      "The ability to only speak about oneself.",
-      "The ability to describe the world and people around us.",
-      "The ability to use past tense verbs."
+      "What the 'action' is.",
+      "Whether the sentence is positive or negative.",
+      "Who the 'doer' is.",
+      "Whether it is morning or evening."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognitive Purpose",
+    "topic": "Critical Thinking",
     "complexity_score": 3
   },
   {
-    "question": "A student says, 'He is smart.' This sentence uses 'is', but it doesn't have an action with '-ing'. Why might this be a valid exception or a different rule not yet covered?",
-    "correct": "The word 'is' here might be describing a state of being, not an ongoing action.",
+    "question": "The teacher's system of 'First, Second, Third Doer' and 'old/new time words' is a simplified way to teach a core English grammar rule. What is this rule more formally known as?",
+    "correct": "Subject-Verb Agreement",
     "options": [
-      "The sentence is grammatically incorrect.",
-      "The student should have said 'He has smart'.",
-      "The word 'is' here might be describing a state of being, not an ongoing action.",
-      "All sentences with 'is' must have an '-ing' action word."
+      "Verb Tense Conjugation",
+      "Noun-Adjective Association",
+      "Subject-Verb Agreement",
+      "Sentence Punctuation"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Critical Thinking & Exceptions",
+    "topic": "Metacognitive Analysis",
     "complexity_score": 3
   },
   {
-    "question": "The teacher transitions from the known ('am', 'are', 'have') to the unknown ('is', 'has') by building on the established 'Doer, Time Word, Action' pattern. This teaching strategy shows that...",
-    "correct": "new grammar rules can be learned by connecting them to patterns you already know.",
+    "question": "Why was the physical role-play with volunteers a more effective teaching method than just explaining the rule?",
+    "correct": "It turned an abstract grammar rule into a concrete, memorable experience.",
     "options": [
-      "old grammar rules should be forgotten.",
-      "learning English is about memorizing random rules.",
-      "new grammar rules can be learned by connecting them to patterns you already know.",
-      "only the 'third doer' is important in English."
+      "It proved that some students are better at acting.",
+      "It showed that brushing teeth is an important action.",
+      "It turned an abstract grammar rule into a concrete, memorable experience.",
+      "It was a way to use more time words in the class."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Learning Process Analysis",
+    "topic": "Learning Science",
     "complexity_score": 3
   }
 ]
