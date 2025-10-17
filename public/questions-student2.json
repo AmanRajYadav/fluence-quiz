@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, which disease is caused by a deficiency of Vitamin C?",
-    "correct": "Scurvy",
+    "question": "According to the lesson, what is the main function of Vitamin K in the body?",
+    "correct": "It helps in blood clotting.",
     "options": [
-      "Anemia",
-      "Beriberi",
-      "Scurvy",
-      "Goitre"
+      "It provides energy for daily activities.",
+      "It helps in the formation of hemoglobin.",
+      "It helps in blood clotting.",
+      "It builds strong bones and teeth."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science - Nutrition",
+    "topic": "Vitamins and Minerals",
     "complexity_score": 1
   },
   {
-    "question": "In the English grammar practice, which word is used with 'he', 'she', or 'it' when asking a question in the present simple tense?",
-    "correct": "Does",
+    "question": "Which of the following are described as the three main types of carbohydrates discussed?",
+    "correct": "Sugar, Starch, and Cellulose",
     "options": [
-      "Do",
-      "Is",
-      "Does",
-      "Are"
+      "Glucose, Fructose, and Lactose",
+      "Fats, Proteins, and Vitamins",
+      "Sugar, Starch, and Cellulose",
+      "Monosaccharide, Disaccharide, and Nutrients"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "English - Grammar",
+    "topic": "Carbohydrates",
     "complexity_score": 1
   },
   {
-    "question": "In the house blueprint problem, why couldn't Kavya just use a scale to measure the lengths on the paper?",
-    "correct": "The drawing is a blueprint and not drawn to the actual scale of a real house.",
+    "question": "What is the primary role of proteins in the body, as explained in the class?",
+    "correct": "Repairing body tissues and helping in growth.",
     "options": [
-      "The teacher did not have a ruler.",
-      "The lines on the paper were too thick.",
-      "The drawing is a blueprint and not drawn to the actual scale of a real house.",
-      "Measuring with a scale is less accurate than calculating."
+      "Providing more energy than carbohydrates.",
+      "Making food tasty and delicious.",
+      "Repairing body tissues and helping in growth.",
+      "Preventing constipation and ensuring bowel movement."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Math - Area & Perimeter",
+    "topic": "Proteins",
     "complexity_score": 1
   },
   {
-    "question": "Which food group's primary function is to help the body grow and repair tissues?",
-    "correct": "Proteins",
+    "question": "Which food group do vitamins belong to?",
+    "correct": "Protective food",
     "options": [
-      "Carbohydrates",
-      "Fats",
-      "Proteins",
-      "Vitamins"
+      "Energy-giving food",
+      "Body-building food",
+      "Protective food",
+      "Flavor-enhancing food"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science - Nutrition",
+    "topic": "Food Groups",
     "complexity_score": 1
   },
   {
-    "question": "What is the correct way to say 'Woh movie dekhta hai' in English?",
-    "correct": "He watches movies.",
+    "question": "What traditional Indian cooking tool was mentioned for grinding food manually?",
+    "correct": "Silbatta",
     "options": [
-      "He watch movies.",
-      "He watches movies.",
-      "He is watching movies.",
-      "He do watch movies."
+      "Gas stove",
+      "Electric mixer",
+      "Silbatta",
+      "Stainless steel utensil"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "English - Grammar",
+    "topic": "Cooking Practices",
     "complexity_score": 1
   },
   {
-    "question": "The lesson explained that goitre is caused by a deficiency of which mineral?",
-    "correct": "Iodine",
+    "question": "Which solution is used to test for the presence of starch in a food item?",
+    "correct": "Iodine solution",
     "options": [
-      "Iron",
-      "Calcium",
-      "Iodine",
-      "Zinc"
+      "Sugar solution",
+      "Salt solution",
+      "Iodine solution",
+      "Water"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science - Nutrition",
+    "topic": "Food Tests",
     "complexity_score": 1
   },
   {
-    "question": "Based on the discussion, what is the fundamental difference between undernutrition and malnutrition?",
-    "correct": "Undernutrition is from not enough food quantity, while malnutrition is from a poor quality, unbalanced diet.",
+    "question": "The teacher used an analogy to explain how water transports nutrients. In this analogy, what did the 'water' represent?",
+    "correct": "A car or vehicle",
     "options": [
-      "Undernutrition affects children, while malnutrition affects adults.",
-      "Undernutrition is caused by poverty, while malnutrition is a personal choice.",
-      "Undernutrition is from not enough food quantity, while malnutrition is from a poor quality, unbalanced diet.",
-      "There is no difference; the terms mean the same thing."
+      "The passengers",
+      "The road",
+      "A car or vehicle",
+      "The destination"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science - Nutrition",
+    "topic": "Functions of Water",
     "complexity_score": 2
   },
   {
-    "question": "If a rectangular hall has a total length of 30 feet and the kitchen area next to it takes up 12 feet of that length, how would you find the remaining length of the hall?",
-    "correct": "Subtract 12 from 30",
+    "question": "Based on the discussion, why does a balanced diet for a growing child differ from that of an active sportsman?",
+    "correct": "A growing child needs more protein for building tissues, while a sportsman needs more energy.",
     "options": [
-      "Add 30 and 12",
-      "Multiply 30 by 12",
-      "Subtract 12 from 30",
-      "Divide 30 by 12"
+      "A sportsman needs more vitamins, while a child needs more minerals.",
+      "A growing child needs more protein for building tissues, while a sportsman needs more energy.",
+      "There is no difference; a balanced diet is the same for everyone.",
+      "A child needs more fats for taste, while a sportsman needs more roughage."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Math - Area & Perimeter",
+    "topic": "Balanced Diet",
     "complexity_score": 2
   },
   {
-    "question": "The teacher explained that when 'did' or 'didn't' is used in a sentence, the verb should be in its...",
-    "correct": "First form (base form)",
+    "question": "Which of these cooking practices would lead to a loss of nutrients in food?",
+    "correct": "Peeling vegetables, cutting them, and then washing them.",
     "options": [
-      "Second form (past tense)",
-      "Third form (past participle)",
-      "First form (base form)",
-      "'-ing' form"
+      "Using an electric mixer instead of a silbatta.",
+      "Cooking food in a chulha.",
+      "Eating fruits with their peels on.",
+      "Peeling vegetables, cutting them, and then washing them."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English - Grammar",
+    "topic": "Cooking Practices",
     "complexity_score": 2
   },
   {
-    "question": "Why would a professional weightlifter's diet contain more protein compared to an average person's?",
-    "correct": "To support muscle growth and repair tissues that tear during exercise.",
+    "question": "The teacher explained that 'fats act like a cushion'. What does this mean?",
+    "correct": "Fats stored under the skin protect delicate body organs from injury.",
     "options": [
-      "To get quick energy for lifting heavy weights.",
-      "To fight diseases they might get from the gym.",
-      "To support muscle growth and repair tissues that tear during exercise.",
-      "To help them stay underweight for competitions."
+      "Fats make our body soft to sit on.",
+      "Fats stored under the skin protect delicate body organs from injury.",
+      "Fats provide a cushion of energy for later use.",
+      "Fats make food taste more comfortable and cushioned."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science - Nutrition",
+    "topic": "Fats",
     "complexity_score": 2
   },
   {
-    "question": "If a room is described as '15 feet by 15 feet', what shape is it and what does this tell you about its sides?",
-    "correct": "It is a square, and both sides are 15 feet long.",
+    "question": "What is the key difference between sugar and cellulose, as discussed in the lesson?",
+    "correct": "Sugar is sweet and soluble in water, while cellulose is tasteless.",
     "options": [
-      "It is a rectangle, and one side is longer than the other.",
-      "It is a square, and both sides are 15 feet long.",
-      "It is a triangle with two equal sides.",
-      "It is a circle with a diameter of 15 feet."
+      "Sugar is a protective food, while cellulose is an energy-giving food.",
+      "Sugar comes from plants, while cellulose comes from animals.",
+      "Sugar is sweet and soluble in water, while cellulose is tasteless.",
+      "Sugar is indigestible, while cellulose is easily digested."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Math - Area & Perimeter",
+    "topic": "Carbohydrates",
     "complexity_score": 2
   },
   {
-    "question": "Which sentence correctly translates 'Anaya Yuvank se baat nahi karti hai'?",
-    "correct": "Anaya doesn't talk to Yuvank.",
+    "question": "When you drink sherbet on a hot day and feel energized, what conversion process is happening in your body?",
+    "correct": "The sugar in the sherbet is converted into glucose, which provides energy.",
     "options": [
-      "Anaya don't talk to Yuvank.",
-      "Anaya not talking to Yuvank.",
-      "Anaya doesn't talk to Yuvank.",
-      "Anaya doesn't talks to Yuvank."
+      "The water in the sherbet is converted into energy.",
+      "The sugar in the sherbet is converted into glucose, which provides energy.",
+      "The vitamins in the sherbet are converted into proteins.",
+      "The glucose is converted into starch for storage."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English - Grammar",
+    "topic": "Carbohydrates",
     "complexity_score": 2
   },
   {
-    "question": "During digestion, complex carbohydrates like starch are broken down into a simpler substance. What is that substance called?",
-    "correct": "Glucose",
+    "question": "The teacher states that fats provide more energy than carbohydrates. Which of the following statements is a logical conclusion from this fact?",
+    "correct": "A person needing a lot of energy for a long duration might benefit from a diet including healthy fats.",
     "options": [
-      "Protein",
-      "Fat",
-      "Glucose",
-      "Cellulose"
+      "You should always eat more fats than carbohydrates.",
+      "Carbohydrates are not important for energy.",
+      "A person needing a lot of energy for a long duration might benefit from a diet including healthy fats.",
+      "Fats and carbohydrates are both classified as 'protective foods'."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science - Nutrition",
+    "topic": "Fats & Carbohydrates",
     "complexity_score": 2
   },
   {
-    "question": "A quiz question stated, 'Cooking food is important because it can kill harmful germs.' Kavya initially thought this was false. Why is the statement actually true?",
-    "correct": "Boiling and heating food can kill harmful bacteria and microorganisms.",
+    "question": "Roughage is described as helping with 'good bowel movement.' This directly helps prevent which condition?",
+    "correct": "Constipation",
     "options": [
-      "Cooking only makes food tasty and has no effect on germs.",
-      "Only some types of cooking, like frying, can kill germs.",
-      "Boiling and heating food can kill harmful bacteria and microorganisms.",
-      "Germs are only killed if you wash the food, not cook it."
+      "Goitre",
+      "Dehydration",
+      "Constipation",
+      "Malnutrition"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science - Nutrition",
+    "topic": "Roughage",
     "complexity_score": 2
   },
   {
-    "question": "The blueprint showed a room with an area of 180 sq. feet and one side measuring 15 feet. How did the teacher and Kavya figure out the missing side's length?",
-    "correct": "By dividing the total area (180) by the known side (15).",
+    "question": "A person eats very large meals every day but only eats bread and potatoes. They often feel tired and get sick. Which condition best describes their situation?",
+    "correct": "Malnutrition, because their diet lacks a balance of essential nutrients.",
     "options": [
-      "By measuring the drawing with a ruler.",
-      "By subtracting 15 from 180.",
-      "By multiplying 180 by 15.",
-      "By dividing the total area (180) by the known side (15)."
+      "Under-nutrition, because they are not eating enough food.",
+      "Dehydration, because they are not drinking enough water.",
+      "Malnutrition, because their diet lacks a balance of essential nutrients.",
+      "A Vitamin K deficiency, because they are not eating spinach."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Math - Area & Perimeter",
+    "topic": "Nutrition Disorders",
     "complexity_score": 3
   },
   {
-    "question": "A person eats very large quantities of only rice every day. According to the class discussion, could they still suffer from a nutritional problem? If so, which one?",
-    "correct": "Yes, they could suffer from malnutrition because their diet is not balanced.",
+    "question": "The lesson contrasts traditional cooking with modern practices. Which choice BEST analyzes the trade-off between them?",
+    "correct": "Modern methods offer convenience (mixers, pre-packaged food), while traditional methods often relied on fresh, local ingredients.",
     "options": [
-      "No, eating a large quantity of food prevents all nutritional problems.",
-      "Yes, they would suffer from undernutrition because rice has no calories.",
-      "Yes, they could suffer from malnutrition because their diet is not balanced.",
-      "No, as long as they feel full, their body has all the nutrients it needs."
+      "Traditional methods were always healthier than modern methods.",
+      "Modern methods offer convenience (mixers, pre-packaged food), while traditional methods often relied on fresh, local ingredients.",
+      "Traditional methods used gas, while modern methods use chulhas.",
+      "There is no real difference in the nutritional outcome between the two."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Science - Nutrition",
+    "topic": "Cooking Practices",
     "complexity_score": 3
   },
   {
-    "question": "Which of these sentences is grammatically INCORRECT based on the rules discussed for present and past tenses?",
-    "correct": "Where does he lives?",
+    "question": "If a person's body has difficulty forming hemoglobin, which mineral should they focus on including in their diet, and from what source?",
+    "correct": "Iron, from sources like spinach and other green leafy vegetables.",
     "options": [
-      "I went to the market.",
-      "He plays football.",
-      "Did you go to the market?",
-      "Where does he lives?"
+      "Calcium, from sources like milk products.",
+      "Iron, from sources like spinach and other green leafy vegetables.",
+      "Vitamin K, from sources like soybean oil.",
+      "Fluorine, from sources like water."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "English - Grammar",
+    "topic": "Vitamins and Minerals",
     "complexity_score": 3
   },
   {
-    "question": "The quiz mentioned two diseases related to protein deficiency: Kwashiorkor and Marasmus. What other nutrient deficiency is associated with Marasmus?",
-    "correct": "Carbohydrates",
+    "question": "The teacher corrected the student about preparing for math 'just by seeing'. How does this relate to the science concept of 'practice' for memory?",
+    "correct": "Active recall, like solving a math problem or explaining a science concept aloud, creates stronger memory pathways than passive reading.",
     "options": [
-      "Vitamin D",
-      "Fats",
-      "Carbohydrates",
-      "Iron"
+      "Seeing information is the most effective way to learn for both math and science.",
+      "Science is about memory, while math is about seeing.",
+      "Active recall, like solving a math problem or explaining a science concept aloud, creates stronger memory pathways than passive reading.",
+      "Solving questions is a form of spaced repetition, which does not apply to science."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Science - Nutrition",
+    "topic": "Metacognition",
     "complexity_score": 3
   },
   {
-    "question": "Consider the sentence: 'Kavya and Anaya bunk the class.' If you were to make this sentence negative, what would be the correct form?",
-    "correct": "Kavya and Anaya don't bunk the class.",
+    "question": "Water has multiple critical functions. Which scenario demonstrates the failure of its 'waste collection' function?",
+    "correct": "Toxins building up in the body because they are not being filtered and passed out through urine.",
     "options": [
-      "Kavya and Anaya doesn't bunk the class.",
-      "Kavya and Anaya not bunk the class.",
-      "Kavya and Anaya don't bunk the class.",
-      "Kavya and Anaya didn't bunked the class."
+      "A person feeling tired because nutrients aren't reaching their cells efficiently.",
+      "A person overheating during exercise because sweat isn't evaporating effectively.",
+      "Toxins building up in the body because they are not being filtered and passed out through urine.",
+      "A person suffering from weak bones due to a lack of calcium transport."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "English - Grammar",
+    "topic": "Functions of Water",
     "complexity_score": 3
   },
   {
-    "question": "To find the total area of the hall in the blueprint, multiple smaller shapes had to be calculated and then added together. What core mathematical principle does this process demonstrate?",
-    "correct": "Complex problems can be solved by breaking them into smaller, simpler parts.",
+    "question": "Why can't vitamins be called 'body-building food' OR 'energy-giving food'?",
+    "correct": "Because their primary role is protection against diseases and helping chemical reactions, not providing energy or building mass.",
     "options": [
-      "The area of a shape is always length times width.",
-      "All blueprints are designed using only squares.",
-      "Complex problems can be solved by breaking them into smaller, simpler parts.",
-      "Guessing measurements is a valid strategy for complex shapes."
+      "Because they are only found in vegetables and not in food.",
+      "Because they provide more energy than fats and carbohydrates combined.",
+      "Because they are stored in the body and never used.",
+      "Because their primary role is protection against diseases and helping chemical reactions, not providing energy or building mass."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Math - Area & Perimeter",
+    "topic": "Food Groups",
     "complexity_score": 3
   }
 ]
