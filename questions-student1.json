@@ -1,54 +1,54 @@
 [
   {
-    "question": "Based on the class discussion, when talking about a specific point in time in the past (like 5 o'clock), which word is correct: 'I have been playing ___ 5 o'clock'?",
-    "correct": "since",
+    "question": "Which sentence correctly translates 'Main khana kha chuki hu'?",
+    "correct": "I have eaten food.",
     "options": [
-      "for",
-      "from",
-      "since",
-      "at"
+      "I was eating food.",
+      "I ate food.",
+      "I have eaten food.",
+      "I will eat food."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Prepositions of Time",
+    "topic": "Present Perfect Tense",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence correctly uses the third-person singular form of the Present Simple tense, as practiced in the class?",
-    "correct": "She always helps me.",
+    "question": "How would you say 'Main khel raha hu' in English?",
+    "correct": "I am playing.",
     "options": [
-      "She always help me.",
-      "She always is helping me.",
-      "She always helps me.",
-      "She always helped me."
+      "I play.",
+      "I am playing.",
+      "I have played.",
+      "I was playing."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Present Simple Tense",
+    "topic": "Present Continuous Tense",
     "complexity_score": 1
   },
   {
-    "question": "The teacher mentioned that for small, specific locations like 'Gandhi chowk', it's better to use which preposition?",
-    "correct": "at",
+    "question": "Choose the correct translation for 'Kal main homework kar chuki hungi.'",
+    "correct": "I will have done my homework tomorrow.",
     "options": [
-      "in",
-      "on",
-      "at",
-      "over"
+      "I will do my homework tomorrow.",
+      "I will be doing my homework tomorrow.",
+      "I will have done my homework tomorrow.",
+      "I do my homework tomorrow."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Prepositions of Place",
+    "topic": "Future Perfect Tense",
     "complexity_score": 1
   },
   {
-    "question": "In the sentence 'My laptop has been repaired', which verb form is 'repaired'?",
-    "correct": "The third form (past participle)",
+    "question": "What is the correct way to say 'English padhai jaa rahi hai'?",
+    "correct": "English is being taught.",
     "options": [
-      "The first form (base)",
-      "The second form (simple past)",
-      "The third form (past participle)",
-      "The '-ing' form (present participle)"
+      "English is teaching.",
+      "English is been taught.",
+      "English is being taught.",
+      "English is teached."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
@@ -56,125 +56,69 @@
     "complexity_score": 1
   },
   {
-    "question": "What is the correct simple past tense of the verb 'give'?",
-    "correct": "gave",
+    "question": "Which sentence correctly translates 'Maine usse baat nahi ki thi'?",
+    "correct": "I had not talked to her.",
     "options": [
-      "given",
-      "gived",
-      "gave",
-      "was giving"
+      "I did not talk to her.",
+      "I have not talked to her.",
+      "I had not talked to her.",
+      "I was not talking to her."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Past Simple Tense",
+    "topic": "Past Perfect Tense",
     "complexity_score": 1
   },
   {
-    "question": "The teacher explained that 'yelling' is always followed by which preposition?",
-    "correct": "at",
+    "question": "How do you correctly say 'Main khelna chahunga'?",
+    "correct": "I would like to play.",
     "options": [
-      "on",
-      "to",
-      "at",
-      "with"
+      "I will like to play.",
+      "I want to play.",
+      "I can play.",
+      "I would like to play."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Collocations",
+    "topic": "Modals (Polite Expression)",
     "complexity_score": 1
   },
   {
-    "question": "The teacher corrected the sentence 'Yesterday at 12 o'clock I was thinking something.' What is the more standard grammatical structure?",
-    "correct": "I was thinking something at 12 o'clock yesterday.",
+    "question": "The teacher explained the difference between 'maine Taj Mahal dekha' (I saw the Taj Mahal) and 'maine Taj Mahal dekha hai' (I have seen the Taj Mahal). When is 'I have seen the Taj Mahal' the better choice?",
+    "correct": "When you are talking about a past experience that has relevance to the present.",
     "options": [
-      "Thinking something I was at 12 o'clock yesterday.",
-      "I was thinking something at 12 o'clock yesterday.",
-      "Yesterday I was thinking something at 12 o'clock.",
-      "At 12 o'clock yesterday something I was thinking."
+      "Only when you saw it yesterday.",
+      "When you are talking about a past experience that has relevance to the present.",
+      "When you are telling a story that happened a long time ago.",
+      "There is no difference; they mean the same thing."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Sentence Structure",
+    "topic": "Simple Past vs. Present Perfect",
     "complexity_score": 2
   },
   {
-    "question": "The sentence 'I have been doing my homework since 3 o'clock' describes an action that...",
-    "correct": "started in the past and is still continuing.",
+    "question": "Complete the sentence based on the class drill: 'Jab main school pahunchi, sir ____.'",
+    "correct": "had already gone",
     "options": [
-      "was completed at 3 o'clock.",
-      "will happen at 3 o'clock.",
-      "happens every day at 3 o'clock.",
-      "started in the past and is still continuing."
+      "already went",
+      "was already going",
+      "has already gone",
+      "had already gone"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Present Perfect Continuous",
+    "topic": "Past Perfect Tense",
     "complexity_score": 2
   },
   {
-    "question": "Which sentence correctly describes an action that will be in progress at a specific time in the future?",
-    "correct": "At this time tomorrow, I will be watching a movie.",
+    "question": "Based on the teacher's explanation to Anaya, the Future Perfect tense ('will have') is used to describe an action that...",
+    "correct": "will be completed at some point in the future.",
     "options": [
-      "At this time tomorrow, I will watch a movie.",
-      "At this time tomorrow, I am watching a movie.",
-      "At this time tomorrow, I will be watching a movie.",
-      "At this time tomorrow, I have watched a movie."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Future Continuous Tense",
-    "complexity_score": 2
-  },
-  {
-    "question": "When describing a completed past action, like giving a laptop away yesterday, which sentence is more appropriate?",
-    "correct": "I gave my laptop for repair.",
-    "options": [
-      "I have given my laptop for repair.",
-      "I gave my laptop for repair.",
-      "I am giving my laptop for repair.",
-      "I had been giving my laptop for repair."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Tense Selection (Past Simple vs Present Perfect)",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which of these sentences is in the passive voice, as discussed in the lesson?",
-    "correct": "My laptop has been repaired.",
-    "options": [
-      "I have repaired my laptop.",
-      "My laptop is working now.",
-      "My laptop has been repaired.",
-      "Someone repaired my laptop."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Active vs. Passive Voice",
-    "complexity_score": 2
-  },
-  {
-    "question": "To ask about a daily habit, which question is grammatically correct?",
-    "correct": "What do you play?",
-    "options": [
-      "What you play?",
-      "What are you play?",
-      "What do you play?",
-      "What you are playing?"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Present Simple Tense (Questions)",
-    "complexity_score": 2
-  },
-  {
-    "question": "The sentence 'By 8 o'clock tonight, I will have completed my homework' is an example of which tense?",
-    "correct": "Future Perfect",
-    "options": [
-      "Future Simple",
-      "Future Continuous",
-      "Future Perfect",
-      "Present Perfect"
+      "is happening in the future.",
+      "might happen in the future.",
+      "will be completed at some point in the future.",
+      "was planned in the past for the future."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
@@ -182,83 +126,139 @@
     "complexity_score": 2
   },
   {
-    "question": "Based on the discussion about word choice, which verb is a better fit for the sentence: 'Who ___ you to school every day?'",
-    "correct": "drops",
+    "question": "How would you correctly complete this conditional sentence drilled in class: 'If I were the prime minister, I ____ English.'?",
+    "correct": "would ban",
     "options": [
-      "leaves",
-      "goes",
-      "puts",
-      "drops"
+      "will ban",
+      "would ban",
+      "would have banned",
+      "banned"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Vocabulary & Nuance",
+    "topic": "Conditional Sentences (Type 2)",
     "complexity_score": 2
   },
   {
-    "question": "The teacher explained that saying 'I do play' instead of 'I play' is used for what purpose?",
-    "correct": "To add emphasis to the statement.",
+    "question": "During the review of Saksham's homework, the teacher corrected the sentence 'She finished her homework.' to the Present Perfect tense. What is the correct Present Perfect version?",
+    "correct": "She has finished her homework.",
     "options": [
-      "To talk about the past.",
-      "To ask a question.",
-      "To add emphasis to the statement.",
-      "It is grammatically incorrect."
+      "She is finishing her homework.",
+      "She finishes her homework.",
+      "She has finished her homework.",
+      "She had finished her homework."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Present Perfect Tense",
+    "complexity_score": 2
+  },
+  {
+    "question": "The sentence 'Jab main chhota tha, main ped chadh sakta tha' was translated as 'When I was younger, I used to climb the tree.' What does 'used to' imply?",
+    "correct": "A repeated action or habit in the past that is no longer true.",
+    "options": [
+      "A single event that happened in the past.",
+      "Something you were forced to do in the past.",
+      "A repeated action or habit in the past that is no longer true.",
+      "Something you are still doing now."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Modals (Past Habits)",
+    "complexity_score": 2
+  },
+  {
+    "question": "Which sentence correctly translates 'Main laptop repair karwa dunga'?",
+    "correct": "I will get the laptop repaired.",
+    "options": [
+      "I will repair the laptop.",
+      "I can repair the laptop.",
+      "I will get the laptop repaired.",
+      "The laptop will repair me."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Causative Verbs",
+    "complexity_score": 2
+  },
+  {
+    "question": "In Saksham's homework, he was asked to 'express a possibility about rain tomorrow.' Which of the following sentences uses a modal to correctly express possibility?",
+    "correct": "It might rain tomorrow.",
+    "options": [
+      "It will rain tomorrow.",
+      "It must rain tomorrow.",
+      "It might rain tomorrow.",
+      "It has to rain tomorrow."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Modals (Possibility)",
+    "complexity_score": 2
+  },
+  {
+    "question": "The teacher corrected a sentence in Anaya's story from '...and will have come tomorrow' to '...and would come tomorrow.' Why was 'would' the correct choice?",
+    "correct": "Because the entire story was being told from a past perspective.",
+    "options": [
+      "Because 'will have' is only for questions.",
+      "Because the entire story was being told from a past perspective.",
+      "Because 'would' is a stronger form of 'will'.",
+      "Because the friend might not come back."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammatical Nuance (Emphasis)",
+    "topic": "Narrative Tense Consistency",
     "complexity_score": 3
   },
   {
-    "question": "In the sentence 'He don't know how to play', what is the specific grammatical error that was corrected in class?",
-    "correct": "Subject-verb agreement (It should be 'doesn't')",
+    "question": "In Saksham's homework, he wrote 'Why on earth is homework given?' to 'express a strong obligation.' The teacher said this showed frustration, not obligation. Which sentence correctly expresses a strong obligation?",
+    "correct": "You must complete your homework.",
     "options": [
-      "Incorrect preposition",
-      "Wrong tense usage",
-      "Subject-verb agreement (It should be 'doesn't')",
-      "Incorrect word order"
+      "You should probably do your homework.",
+      "I feel like you could do your homework.",
+      "Why is homework so difficult?",
+      "You must complete your homework."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Error Identification",
+    "topic": "Modals (Obligation)",
     "complexity_score": 3
   },
   {
-    "question": "Why is 'My laptop has been repaired' a better sentence than 'My laptop has repaired'?",
-    "correct": "Because the laptop is the object receiving the action, so passive voice is needed.",
+    "question": "Complete the complex conditional sentence from the class drill: 'If I had known that you are a vegetarian, I ____ pulao.'",
+    "correct": "would have made",
     "options": [
-      "Because 'has repaired' is never correct.",
-      "Because the laptop is the object receiving the action, so passive voice is needed.",
-      "Because the action is still happening.",
-      "Because 'has been repaired' is a more formal phrase."
+      "will make",
+      "would make",
+      "would have made",
+      "made"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Passive Voice Application",
+    "topic": "Conditional Sentences (Type 3)",
     "complexity_score": 3
   },
   {
-    "question": "The students tended to translate from Hindi word-for-word. What principle of English sentence structure did the teacher emphasize to correct this?",
-    "correct": "English sentences usually start with the subject, followed by the verb, with time phrases often at the end.",
+    "question": "The teacher gave an example: 'Suppose you have made a PPT... your teacher is asking, \"How did you make it?\" You can say, \"I used a laptop\" or \"I have used a laptop.\"' What is the most likely reason both could be correct in this context?",
+    "correct": "One focuses on the past action itself, while the other connects the past action to the present result (the PPT).",
     "options": [
-      "Adverbs should always be the first word in a sentence.",
-      "English sentences usually start with the subject, followed by the verb, with time phrases often at the end.",
-      "The most important information should always come first.",
-      "Verbs should always be at the very end of the sentence."
+      "There is no real difference, it's just personal preference.",
+      "One is for formal situations, and the other is for informal situations.",
+      "One focuses on the past action itself, while the other connects the past action to the present result (the PPT).",
+      "You can only say 'I have used' if you still own the laptop."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Sentence Structure Analysis",
+    "topic": "Nuances of Tense Usage",
     "complexity_score": 3
   },
   {
-    "question": "During the storytelling activity, a student said, '...he is doing like a cheap thing.' The teacher would correct this to '...he was doing a cheap thing.' Why?",
-    "correct": "To maintain tense consistency within a story set in the past.",
+    "question": "The teacher corrected Saksham's sentence: 'While I was walking to school yesterday, I saw a rainbow. I have never seen such a beautiful rainbow before.' The correction was to change 'have never seen' to 'had never seen.' Why is this correction necessary for grammatical consistency?",
+    "correct": "Because the entire context is in the past ('was walking', 'saw'), so the experience of 'never seeing' must also be anchored in the past.",
     "options": [
-      "Because 'is doing' is impolite.",
-      "To maintain tense consistency within a story set in the past.",
-      "Because 'like' is used incorrectly.",
-      "To switch to the passive voice."
+      "Because 'have' can never be used with the word 'never'.",
+      "Because the entire context is in the past ('was walking', 'saw'), so the experience of 'never seeing' must also be anchored in the past.",
+      "Because the rainbow is no longer visible.",
+      "Because Present Perfect is only for things that happened this week."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
@@ -266,17 +266,17 @@
     "complexity_score": 3
   },
   {
-    "question": "Which translation best captures the meaning of 'lekin mera koi bharosa nahi hai' as discussed in the class, focusing on the speaker's own unreliability?",
-    "correct": "But there's no guarantee about me.",
+    "question": "Anaya made a mistake by saying 'English is being teached.' The correct verb form is 'taught.' This sentence structure is known as the Present Continuous Passive. What does it describe?",
+    "correct": "An action that is currently being done to the subject.",
     "options": [
-      "But I am not confirmed.",
-      "But I can't be trusted.",
-      "But there's no guarantee about me.",
-      "But it's not confirmed."
+      "An action that the subject is doing right now.",
+      "An action that was done to the subject in the past.",
+      "An action that is currently being done to the subject.",
+      "An action that will be done to the subject in the future."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Contextual Translation",
+    "topic": "Passive Voice Structure",
     "complexity_score": 3
   }
 ]
