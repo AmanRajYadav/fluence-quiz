@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, what is the definition of a 'doer'?",
-    "correct": "The one who does the work.",
+    "question": "What is the primary function of DNA, as described in the 'cookbook' analogy?",
+    "correct": "It holds the complete set of instructions for building and operating an organism.",
     "options": [
-      "The word that tells the time.",
-      "The work which is done.",
-      "The one who does the work.",
-      "The person who asks a question."
+      "It is the main source of energy for our cells.",
+      "It directly builds the physical structures of the body.",
+      "It holds the complete set of instructions for building and operating an organism.",
+      "It changes daily based on what we eat."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Core Definitions",
+    "topic": "DNA Function",
     "complexity_score": 1
   },
   {
-    "question": "Which set of words did the teacher refer to as 'time words'?",
-    "correct": "is, am, are, was, were",
+    "question": "In the context of genetics, what is a 'gene' analogous to?",
+    "correct": "A single recipe in a cookbook.",
     "options": [
-      "doer, action, not",
-      "I, you, he, she",
-      "is, am, are, was, were",
-      "come, help, teaching"
+      "The entire cookbook.",
+      "The final cooked dish.",
+      "A single recipe in a cookbook.",
+      "An ingredient listed in the recipe."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Core Definitions",
+    "topic": "Gene Definition",
     "complexity_score": 1
   },
   {
-    "question": "In the lesson, 'I' is called the 'First Doer' and 'you' is called the...",
-    "correct": "Second Doer",
+    "question": "What term describes the observable physical characteristic of an organism, like having blue eyes?",
+    "correct": "Phenotype",
     "options": [
-      "Third Doer",
-      "Other Doer",
-      "Second Doer",
-      "Main Doer"
+      "Genotype",
+      "Allele",
+      "Phenotype",
+      "Chromosome"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Doer Categories",
+    "topic": "Phenotype vs Genotype",
     "complexity_score": 1
   },
   {
-    "question": "What is the teacher's definition of the 'Third Doer'?",
-    "correct": "Not more than one, except I and you.",
+    "question": "Which term refers to the specific combination of alleles an individual has, such as 'Bb'?",
+    "correct": "Genotype",
     "options": [
-      "Only he, she, it, and name.",
-      "More than one person.",
-      "Not more than one, except I and you.",
-      "The one who is listening."
+      "Phenotype",
+      "Karyotype",
+      "Genotype",
+      "Trait"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Third Doer Definition",
+    "topic": "Phenotype vs Genotype",
     "complexity_score": 1
   },
   {
-    "question": "The 'New Bride' analogy was used to explain why...",
-    "correct": "a new doer needs a new time word.",
+    "question": "A recessive allele is one that is:",
+    "correct": "Only expressed when two copies are present.",
     "options": [
-      "old clothes are not good for grammar.",
-      "questions are different from answers.",
-      "a new doer needs a new time word.",
-      "some guests are coming to the house."
+      "Always expressed, no matter what other allele is present.",
+      "A stronger version of a gene.",
+      "Only expressed when two copies are present.",
+      "The most common allele in a population."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Teaching Analogies",
+    "topic": "Dominant and Recessive Alleles",
     "complexity_score": 1
   },
   {
-    "question": "What is the correct sentence structure for asking a question, as taught in the class?",
-    "correct": "Time word, doer, action, question mark.",
+    "question": "What does the term 'homozygous' mean?",
+    "correct": "Having two identical alleles for a particular gene.",
     "options": [
-      "Doer, time word, action.",
-      "Doer, time word, not, action.",
-      "Time word, doer, action, question mark.",
-      "Action, doer, time word."
+      "Having two different alleles for a particular gene.",
+      "Having only dominant alleles.",
+      "Having two identical alleles for a particular gene.",
+      "Having only recessive alleles."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Sentence Structure",
+    "topic": "Homozygous vs Heterozygous",
     "complexity_score": 1
   },
   {
-    "question": "In the sentence, 'My personality is changing,' what is the 'doer'?",
-    "correct": "Personality",
+    "question": "If 'B' for brown eyes is dominant and 'b' for blue eyes is recessive, what is the phenotype of a person with the genotype 'Bb'?",
+    "correct": "Brown eyes",
     "options": [
-      "My",
-      "is",
-      "changing",
-      "Personality"
+      "Blue eyes",
+      "A mix of brown and blue eyes",
+      "Brown eyes",
+      "It is impossible to tell."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Identifying the Doer",
+    "topic": "Genotype to Phenotype Application",
     "complexity_score": 2
   },
   {
-    "question": "In the sentence, 'Some guests are coming to my house,' who is the 'doer'?",
-    "correct": "Some guests",
+    "question": "According to the class discussion, what is the main purpose of using a Punnett square?",
+    "correct": "To predict the probability of offspring inheriting specific traits.",
     "options": [
-      "Guests",
-      "My house",
-      "Some guests",
-      "Coming"
+      "To determine the exact genetic code of an individual.",
+      "To visualize the physical appearance of an organism.",
+      "To predict the probability of offspring inheriting specific traits.",
+      "To count the total number of genes in a chromosome."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Identifying the Doer",
+    "topic": "Punnett Squares",
     "complexity_score": 2
   },
   {
-    "question": "What are the TWO conditions that must be met to use the time word 'is'?",
-    "correct": "The doer is a 'Third Doer' AND the work is happening in the present.",
+    "question": "What is the key difference between a gene and an allele?",
+    "correct": "A gene is a segment of DNA for a trait, while alleles are the different versions of that gene.",
     "options": [
-      "The doer is the 'First Doer' AND the work is finished.",
-      "The work is happening in the present AND the answer is 'yes'.",
-      "The doer is a 'Third Doer' AND the work is happening in the present.",
-      "You are asking a question AND the doer is a 'Third Doer'."
+      "A gene is dominant and an allele is recessive.",
+      "A gene determines phenotype, while an allele determines genotype.",
+      "A gene is a segment of DNA for a trait, while alleles are the different versions of that gene.",
+      "There is no difference; the terms are interchangeable."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Application of 'is'",
+    "topic": "Gene vs Allele",
     "complexity_score": 2
   },
   {
-    "question": "The time word 'has' is introduced as the 'new' time word that replaces which 'old' time word for the Third Doer?",
-    "correct": "have",
+    "question": "An individual who is 'heterozygous' for a trait would have which of the following genotypes?",
+    "correct": "Bb",
     "options": [
-      "am",
-      "are",
-      "have",
-      "will"
+      "BB",
+      "bb",
+      "Bb",
+      "bB"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Connecting Concepts",
+    "topic": "Homozygous vs Heterozygous",
     "complexity_score": 2
   },
   {
-    "question": "During the role-play, if Deepak (Third Doer) is brushing her teeth, and the teacher (First Doer) is telling the class (Second Doer) about it, which sentence is correct?",
-    "correct": "She is brushing her teeth.",
+    "question": "In the Punnett square example from class, a heterozygous brown-eyed parent (Bb) was crossed with a blue-eyed parent (bb). What was the probability of them having a child with blue eyes?",
+    "correct": "50%",
     "options": [
-      "I am brushing my teeth.",
-      "You are brushing her teeth.",
-      "She is brushing her teeth.",
-      "Deepak are brushing her teeth."
+      "0%",
+      "25%",
+      "50%",
+      "100%"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Practical Application",
+    "topic": "Punnett Square Application",
     "complexity_score": 2
   },
   {
-    "question": "Why is the sentence 'Gopal sir are teaching' incorrect according to the lesson's rules?",
-    "correct": "It uses an 'old' time word ('are') with a 'new' doer ('Gopal sir').",
+    "question": "Using the 'shouting' vs. 'whispering' analogy, a heterozygous individual (Bb) has brown eyes because:",
+    "correct": "The 'shouting' brown allele (B) drowns out the 'whispering' blue allele (b).",
     "options": [
-      "The action 'teaching' must have '-ing'.",
-      "'Gopal sir' is a 'First Doer'.",
-      "It uses an 'old' time word ('are') with a 'new' doer ('Gopal sir').",
-      "The sentence should be a question."
+      "The two alleles mix together to create a new color.",
+      "The 'shouting' brown allele (B) drowns out the 'whispering' blue allele (b).",
+      "The 'whispering' blue allele is stronger in this case.",
+      "The body chooses the healthier of the two options."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Error Analysis",
+    "topic": "Dominance Analogy",
     "complexity_score": 2
   },
   {
-    "question": "Which of these sentences correctly uses 'has' as explained in the class?",
-    "correct": "Ankita has attended the class.",
+    "question": "A pea plant can be tall (T) or short (t). If the tall allele is dominant, what would be the genotype of a plant that is homozygous recessive?",
+    "correct": "tt",
     "options": [
-      "I has finished my work.",
-      "You has come to the class.",
-      "Ankita has attended the class.",
-      "Ankita has attending the class."
+      "TT",
+      "Tt",
+      "tt",
+      "T"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Application of 'has'",
+    "topic": "Genotype Application",
     "complexity_score": 2
   },
   {
-    "question": "The 'Pati, Patni, aur Woh' analogy was used to illustrate the situation where...",
-    "correct": "the First Doer tells the Second Doer about the Third Doer.",
+    "question": "Based on the cookbook analogy, a gene provides the recipe for making a specific ________.",
+    "correct": "Protein",
     "options": [
-      "there are three people doing an action.",
-      "the First Doer tells the Second Doer about the Third Doer.",
-      "grammar rules are like a movie plot.",
-      "the answer to a question must be 'no'."
+      "Carbohydrate",
+      "Cell",
+      "Protein",
+      "Allele"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Teaching Analogies",
+    "topic": "Gene Function",
     "complexity_score": 2
   },
   {
-    "question": "A student sees a cat sleeping and wants to describe it. According to the lesson, why is 'the cat' a 'Third Doer'?",
-    "correct": "Because 'the cat' is singular and is not 'I' or 'you'.",
+    "question": "If two parents who are both heterozygous for brown eyes (Bb) have a child, what is the probability that their child will have blue eyes (bb)?",
+    "correct": "25%",
     "options": [
-      "Because 'the cat' is a non-living thing.",
-      "Because 'the cat' is plural.",
-      "Because 'the cat' can only be used with 'am' or 'are'.",
-      "Because 'the cat' is singular and is not 'I' or 'you'."
+      "0%",
+      "50%",
+      "75%",
+      "25%"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Concept Extension",
+    "topic": "Predictive Problem-Solving",
     "complexity_score": 3
   },
   {
-    "question": "The teacher corrected a student who thought the only 'Third Doers' were 'he, she, it, name'. What was the main point of this correction?",
-    "correct": "That the 'doer' is about the role in the sentence, not just a short list of words.",
+    "question": "You observe a person with brown eyes. What can you definitively conclude about their genotype?",
+    "correct": "They must have at least one dominant 'B' allele.",
     "options": [
-      "That 'he, she, it, name' are never 'Third Doers'.",
-      "That the 'doer' is about the role in the sentence, not just a short list of words.",
-      "That 'I' and 'you' can also be 'Third Doers'.",
-      "That only names of people can be 'Third Doers'."
+      "Their genotype is definitely 'BB'.",
+      "Their genotype is definitely 'Bb'.",
+      "They must have at least one dominant 'B' allele.",
+      "They cannot have any recessive 'b' alleles."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Addressing Misconceptions",
+    "topic": "Deductive Reasoning",
     "complexity_score": 3
   },
   {
-    "question": "What is the key difference between the situations described by 'Deepak is brushing' and 'Deepak has brushed'?",
-    "correct": "One action is ongoing, and the other is completed.",
+    "question": "A child is born with blue eyes (bb) to two parents who both have brown eyes. What must be true about the parents' genotypes?",
+    "correct": "Both parents must be heterozygous (Bb).",
     "options": [
-      "The doer is different in each sentence.",
-      "One is a question and the other is an answer.",
-      "One action is ongoing, and the other is completed.",
-      "There is no difference; they mean the same thing."
+      "At least one parent must be homozygous dominant (BB).",
+      "Both parents must be homozygous recessive (bb).",
+      "One parent is homozygous dominant (BB) and the other is heterozygous (Bb).",
+      "Both parents must be heterozygous (Bb)."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Analysis and Comparison",
+    "topic": "Genetic Inference",
     "complexity_score": 3
   },
   {
-    "question": "If 'am' (for 'I') and 'is' (for 'he') both require the action to be happening now, what is the *only* factor that determines which one to use?",
-    "correct": "Who the 'doer' is.",
+    "question": "Using the 'cookbook' analogy, what would a 'typo' in a gene's recipe (a mutation) most likely result in?",
+    "correct": "A slightly different or non-functional protein being made.",
     "options": [
-      "What the 'action' is.",
-      "Whether the sentence is positive or negative.",
-      "Who the 'doer' is.",
-      "Whether it is morning or evening."
+      "The entire DNA 'cookbook' being thrown out.",
+      "A completely new, unrelated trait appearing instantly.",
+      "A slightly different or non-functional protein being made.",
+      "No change at all, as the cell automatically corrects all typos."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Critical Thinking",
+    "topic": "Conceptual Synthesis",
     "complexity_score": 3
   },
   {
-    "question": "The teacher's system of 'First, Second, Third Doer' and 'old/new time words' is a simplified way to teach a core English grammar rule. What is this rule more formally known as?",
-    "correct": "Subject-Verb Agreement",
+    "question": "Why does the phenotype of a heterozygous individual (like Bb) help us determine which allele is dominant?",
+    "correct": "Because the dominant allele is the one that is expressed, masking the other.",
     "options": [
-      "Verb Tense Conjugation",
-      "Noun-Adjective Association",
-      "Subject-Verb Agreement",
-      "Sentence Punctuation"
+      "Because the phenotype is always a perfect blend of both alleles.",
+      "Because the dominant allele is the one that is expressed, masking the other.",
+      "Because heterozygous individuals are physically stronger.",
+      "Because the recessive allele is erased from the DNA."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognitive Analysis",
+    "topic": "Analysis of Dominance",
     "complexity_score": 3
   },
   {
-    "question": "Why was the physical role-play with volunteers a more effective teaching method than just explaining the rule?",
-    "correct": "It turned an abstract grammar rule into a concrete, memorable experience.",
+    "question": "Is it possible for a person with the phenotype of blue eyes to have a dominant 'B' allele in their genotype for eye color?",
+    "correct": "No, because if a dominant allele were present, it would be expressed.",
     "options": [
-      "It proved that some students are better at acting.",
-      "It showed that brushing teeth is an important action.",
-      "It turned an abstract grammar rule into a concrete, memorable experience.",
-      "It was a way to use more time words in the class."
+      "Yes, the dominant allele can be hidden.",
+      "No, because if a dominant allele were present, it would be expressed.",
+      "Yes, but only in males.",
+      "It depends on the genotype of their parents."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Learning Science",
+    "topic": "Critical Thinking on Recessive Traits",
     "complexity_score": 3
   }
 ]
