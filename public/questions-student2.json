@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, what is the main function of Vitamin K in the body?",
-    "correct": "It helps in blood clotting.",
+    "question": "What is the correct formula to find the area of a rectangle?",
+    "correct": "Length × Breadth",
     "options": [
-      "It provides energy for daily activities.",
-      "It helps in the formation of hemoglobin.",
-      "It helps in blood clotting.",
-      "It builds strong bones and teeth."
+      "Length + Breadth",
+      "2 × (Length + Breadth)",
+      "Length × Breadth",
+      "Length / Breadth"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vitamins and Minerals",
+    "topic": "Area Formula",
     "complexity_score": 1
   },
   {
-    "question": "Which of the following are described as the three main types of carbohydrates discussed?",
-    "correct": "Sugar, Starch, and Cellulose",
+    "question": "In the first problem, the area of a rectangle was 13 sq cm. Why were its sides determined to be 13 cm and 1 cm?",
+    "correct": "Because 13 is a prime number, only divisible by 1 and itself.",
     "options": [
-      "Glucose, Fructose, and Lactose",
-      "Fats, Proteins, and Vitamins",
-      "Sugar, Starch, and Cellulose",
-      "Monosaccharide, Disaccharide, and Nutrients"
+      "Because the shape looked long and thin.",
+      "Because 13 is an odd number.",
+      "Because 13 is a prime number, only divisible by 1 and itself.",
+      "Because the teacher guessed the numbers."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Carbohydrates",
+    "topic": "Properties of Numbers",
     "complexity_score": 1
   },
   {
-    "question": "What is the primary role of proteins in the body, as explained in the class?",
-    "correct": "Repairing body tissues and helping in growth.",
+    "question": "If a large rectangle has an area of 26 sq cm and you discover one of its sides is 13 cm, how do you find the other side?",
+    "correct": "Divide the area by the known side (26 / 13)",
     "options": [
-      "Providing more energy than carbohydrates.",
-      "Making food tasty and delicious.",
-      "Repairing body tissues and helping in growth.",
-      "Preventing constipation and ensuring bowel movement."
+      "Subtract the known side from the area (26 - 13)",
+      "Multiply the area by the known side (26 × 13)",
+      "Divide the area by the known side (26 / 13)",
+      "Add the area and the known side (26 + 13)"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Proteins",
+    "topic": "Finding Missing Dimensions",
     "complexity_score": 1
   },
   {
-    "question": "Which food group do vitamins belong to?",
-    "correct": "Protective food",
+    "question": "Why did Aman Sir say you shouldn't decide a shape is a square just by looking at it?",
+    "correct": "Because visual estimation can be inaccurate in math; you must use the given numbers and logic.",
     "options": [
-      "Energy-giving food",
-      "Body-building food",
-      "Protective food",
-      "Flavor-enhancing food"
+      "Because all shapes in the book are actually rectangles.",
+      "Because squares are very rare in these problems.",
+      "Because visual estimation can be inaccurate in math; you must use the given numbers and logic.",
+      "Because the drawing might be intentionally misleading."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Food Groups",
+    "topic": "Mathematical Reasoning",
     "complexity_score": 1
   },
   {
-    "question": "What traditional Indian cooking tool was mentioned for grinding food manually?",
-    "correct": "Silbatta",
+    "question": "When a problem seems too hard, what is the first step suggested in the class for solving complex shapes?",
+    "correct": "Break the complex shape down into smaller, simpler rectangles.",
     "options": [
-      "Gas stove",
-      "Electric mixer",
-      "Silbatta",
-      "Stainless steel utensil"
+      "Guess the answer based on a pattern.",
+      "Measure the shape with a ruler.",
+      "Break the complex shape down into smaller, simpler rectangles.",
+      "Ask for the solution immediately."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Cooking Practices",
+    "topic": "Problem-Solving Strategy",
     "complexity_score": 1
   },
   {
-    "question": "Which solution is used to test for the presence of starch in a food item?",
-    "correct": "Iodine solution",
+    "question": "If you have 10 chocolates to divide equally between 2 people, how many does each person get? (This relates to the 10/2 calculation)",
+    "correct": "5",
     "options": [
-      "Sugar solution",
-      "Salt solution",
-      "Iodine solution",
-      "Water"
+      "20",
+      "8",
+      "12",
+      "5"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Food Tests",
+    "topic": "Basic Division",
     "complexity_score": 1
   },
   {
-    "question": "The teacher used an analogy to explain how water transports nutrients. In this analogy, what did the 'water' represent?",
-    "correct": "A car or vehicle",
+    "question": "A rectangle's area is 42 sq cm and its width is 6 cm. What is its length?",
+    "correct": "7 cm",
     "options": [
-      "The passengers",
-      "The road",
-      "A car or vehicle",
-      "The destination"
+      "36 cm",
+      "48 cm",
+      "7 cm",
+      "8 cm"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Functions of Water",
+    "topic": "Application of Area Formula",
     "complexity_score": 2
   },
   {
-    "question": "Based on the discussion, why does a balanced diet for a growing child differ from that of an active sportsman?",
-    "correct": "A growing child needs more protein for building tissues, while a sportsman needs more energy.",
+    "question": "A line segment is 10 cm long. A point on the line is 4 cm from one end. What is the length of the remaining segment?",
+    "correct": "6 cm",
     "options": [
-      "A sportsman needs more vitamins, while a child needs more minerals.",
-      "A growing child needs more protein for building tissues, while a sportsman needs more energy.",
-      "There is no difference; a balanced diet is the same for everyone.",
-      "A child needs more fats for taste, while a sportsman needs more roughage."
+      "14 cm",
+      "40 cm",
+      "6 cm",
+      "Cannot be determined"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Balanced Diet",
+    "topic": "Line Segments",
     "complexity_score": 2
   },
   {
-    "question": "Which of these cooking practices would lead to a loss of nutrients in food?",
-    "correct": "Peeling vegetables, cutting them, and then washing them.",
+    "question": "In the class, why was finding a simple pattern (like '132 gives 26, so 152 gives 30') rejected as a correct method?",
+    "correct": "Because it ignores the geometric rules of area and can lead to wrong answers in other problems.",
     "options": [
-      "Using an electric mixer instead of a silbatta.",
-      "Cooking food in a chulha.",
-      "Eating fruits with their peels on.",
-      "Peeling vegetables, cutting them, and then washing them."
+      "Because the pattern was too simple.",
+      "Because the teacher's method is always better.",
+      "Because it ignores the geometric rules of area and can lead to wrong answers in other problems.",
+      "Because patterns are only used in the 'Patterns' chapter."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cooking Practices",
-    "complexity_score": 2
-  },
-  {
-    "question": "The teacher explained that 'fats act like a cushion'. What does this mean?",
-    "correct": "Fats stored under the skin protect delicate body organs from injury.",
-    "options": [
-      "Fats make our body soft to sit on.",
-      "Fats stored under the skin protect delicate body organs from injury.",
-      "Fats provide a cushion of energy for later use.",
-      "Fats make food taste more comfortable and cushioned."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Fats",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the key difference between sugar and cellulose, as discussed in the lesson?",
-    "correct": "Sugar is sweet and soluble in water, while cellulose is tasteless.",
-    "options": [
-      "Sugar is a protective food, while cellulose is an energy-giving food.",
-      "Sugar comes from plants, while cellulose comes from animals.",
-      "Sugar is sweet and soluble in water, while cellulose is tasteless.",
-      "Sugar is indigestible, while cellulose is easily digested."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Carbohydrates",
-    "complexity_score": 2
-  },
-  {
-    "question": "When you drink sherbet on a hot day and feel energized, what conversion process is happening in your body?",
-    "correct": "The sugar in the sherbet is converted into glucose, which provides energy.",
-    "options": [
-      "The water in the sherbet is converted into energy.",
-      "The sugar in the sherbet is converted into glucose, which provides energy.",
-      "The vitamins in the sherbet are converted into proteins.",
-      "The glucose is converted into starch for storage."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Carbohydrates",
-    "complexity_score": 2
-  },
-  {
-    "question": "The teacher states that fats provide more energy than carbohydrates. Which of the following statements is a logical conclusion from this fact?",
-    "correct": "A person needing a lot of energy for a long duration might benefit from a diet including healthy fats.",
-    "options": [
-      "You should always eat more fats than carbohydrates.",
-      "Carbohydrates are not important for energy.",
-      "A person needing a lot of energy for a long duration might benefit from a diet including healthy fats.",
-      "Fats and carbohydrates are both classified as 'protective foods'."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Fats & Carbohydrates",
-    "complexity_score": 2
-  },
-  {
-    "question": "Roughage is described as helping with 'good bowel movement.' This directly helps prevent which condition?",
-    "correct": "Constipation",
-    "options": [
-      "Goitre",
-      "Dehydration",
-      "Constipation",
-      "Malnutrition"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Roughage",
-    "complexity_score": 2
-  },
-  {
-    "question": "A person eats very large meals every day but only eats bread and potatoes. They often feel tired and get sick. Which condition best describes their situation?",
-    "correct": "Malnutrition, because their diet lacks a balance of essential nutrients.",
-    "options": [
-      "Under-nutrition, because they are not eating enough food.",
-      "Dehydration, because they are not drinking enough water.",
-      "Malnutrition, because their diet lacks a balance of essential nutrients.",
-      "A Vitamin K deficiency, because they are not eating spinach."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Nutrition Disorders",
+    "topic": "Conceptual Understanding vs. Shortcuts",
     "complexity_score": 3
   },
   {
-    "question": "The lesson contrasts traditional cooking with modern practices. Which choice BEST analyzes the trade-off between them?",
-    "correct": "Modern methods offer convenience (mixers, pre-packaged food), while traditional methods often relied on fresh, local ingredients.",
+    "question": "To find a missing length of a rectangle with an area of 18 sq cm and a width of 5 cm, the equation `5 × x = 18` was created. What does 'x' represent?",
+    "correct": "The unknown length of the rectangle.",
     "options": [
-      "Traditional methods were always healthier than modern methods.",
-      "Modern methods offer convenience (mixers, pre-packaged food), while traditional methods often relied on fresh, local ingredients.",
-      "Traditional methods used gas, while modern methods use chulhas.",
-      "There is no real difference in the nutritional outcome between the two."
+      "The perimeter of the rectangle.",
+      "A random number.",
+      "The unknown length of the rectangle.",
+      "The area of a different rectangle."
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Cooking Practices",
+    "topic": "Introduction to Algebra",
+    "complexity_score": 2
+  },
+  {
+    "question": "To solve the equation `5 × x = 18` for 'x', what is the correct next step?",
+    "correct": "Isolate 'x' by dividing 18 by 5.",
+    "options": [
+      "Multiply 18 by 5.",
+      "Subtract 5 from 18.",
+      "Isolate 'x' by dividing 18 by 5.",
+      "Add 5 to 18."
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Solving Equations",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the correct decimal value of 18 divided by 5?",
+    "correct": "3.6",
+    "options": [
+      "3.5",
+      "4.0",
+      "3.6",
+      "1.85"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Decimal Division",
+    "complexity_score": 2
+  },
+  {
+    "question": "In one problem, two adjacent lengths were found to be 3.6 cm and 4 cm. What is the total combined length?",
+    "correct": "7.6 cm",
+    "options": [
+      "7.0 cm",
+      "4.4 cm",
+      "3.64 cm",
+      "7.6 cm"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Decimal Addition",
+    "complexity_score": 2
+  },
+  {
+    "question": "How do you correctly rewrite the division `38 ÷ 7.6` to make it easier to solve?",
+    "correct": "Change it to `38 ÷ (76/10)` and then multiply by the reciprocal: `38 × (10/76)`",
+    "options": [
+      "Remove the decimal to get `38 ÷ 76`",
+      "Multiply both numbers by 10 to get `380 ÷ 760`",
+      "Change it to `38 ÷ (76/10)` and then multiply by the reciprocal: `38 × (10/76)`",
+      "Add the numbers instead: `38 + 7.6`"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Operations with Decimals and Fractions",
     "complexity_score": 3
   },
   {
-    "question": "If a person's body has difficulty forming hemoglobin, which mineral should they focus on including in their diet, and from what source?",
-    "correct": "Iron, from sources like spinach and other green leafy vegetables.",
+    "question": "In the fraction `(38 × 10) / 76`, which number is a common factor of both 38 and 76, helping to simplify the problem?",
+    "correct": "19 (or 38 itself)",
     "options": [
-      "Calcium, from sources like milk products.",
-      "Iron, from sources like spinach and other green leafy vegetables.",
-      "Vitamin K, from sources like soybean oil.",
-      "Fluorine, from sources like water."
+      "10",
+      "5",
+      "7",
+      "19 (or 38 itself)"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Vitamins and Minerals",
-    "complexity_score": 3
+    "topic": "Fraction Simplification",
+    "complexity_score": 4
   },
   {
-    "question": "The teacher corrected the student about preparing for math 'just by seeing'. How does this relate to the science concept of 'practice' for memory?",
-    "correct": "Active recall, like solving a math problem or explaining a science concept aloud, creates stronger memory pathways than passive reading.",
+    "question": "After simplifying the expression `(38 × 10) / 76`, you get `(1 × 10) / 2`. What is the final answer?",
+    "correct": "5",
     "options": [
-      "Seeing information is the most effective way to learn for both math and science.",
-      "Science is about memory, while math is about seeing.",
-      "Active recall, like solving a math problem or explaining a science concept aloud, creates stronger memory pathways than passive reading.",
-      "Solving questions is a form of spaced repetition, which does not apply to science."
+      "20",
+      "10",
+      "5",
+      "2"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition",
-    "complexity_score": 3
+    "topic": "Multi-step Calculation",
+    "complexity_score": 4
   },
   {
-    "question": "Water has multiple critical functions. Which scenario demonstrates the failure of its 'waste collection' function?",
-    "correct": "Toxins building up in the body because they are not being filtered and passed out through urine.",
+    "question": "One rectangle has a side of length 6 cm and an area of 42 sq cm. An adjacent rectangle shares a side with it. What is the length of that shared side?",
+    "correct": "7 cm",
     "options": [
-      "A person feeling tired because nutrients aren't reaching their cells efficiently.",
-      "A person overheating during exercise because sweat isn't evaporating effectively.",
-      "Toxins building up in the body because they are not being filtered and passed out through urine.",
-      "A person suffering from weak bones due to a lack of calcium transport."
+      "6 cm",
+      "4 cm",
+      "7 cm",
+      "It's impossible to know from the information."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Functions of Water",
-    "complexity_score": 3
+    "topic": "Deductive Reasoning in Geometry",
+    "complexity_score": 4
   },
   {
-    "question": "Why can't vitamins be called 'body-building food' OR 'energy-giving food'?",
-    "correct": "Because their primary role is protection against diseases and helping chemical reactions, not providing energy or building mass.",
+    "question": "A full line is 15 units long. It is made of three parts. Part A is 6 units, Part B is 5 units. What is the length of Part C?",
+    "correct": "4 units",
     "options": [
-      "Because they are only found in vegetables and not in food.",
-      "Because they provide more energy than fats and carbohydrates combined.",
-      "Because they are stored in the body and never used.",
-      "Because their primary role is protection against diseases and helping chemical reactions, not providing energy or building mass."
+      "11 units",
+      "1 unit",
+      "4 units",
+      "26 units"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Food Groups",
-    "complexity_score": 3
+    "topic": "Composite Line Segments",
+    "complexity_score": 4
+  },
+  {
+    "question": "Imagine a complex shape problem. The first step gives you a side length of 3.6 cm. The second step requires you to add it to a known length of 4 cm. The third step uses this total length (7.6 cm) to find the final missing side 'x' of a rectangle with an area of 38 sq cm. Which equation correctly represents the THIRD step?",
+    "correct": "7.6 × x = 38",
+    "options": [
+      "3.6 + x = 38",
+      "4 × x = 38",
+      "7.6 × x = 38",
+      "x / 7.6 = 38"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Problem Synthesis",
+    "complexity_score": 5
+  },
+  {
+    "question": "The lesson shows that solving these problems requires a sequence of logical steps, not one single calculation. What does this process fundamentally teach?",
+    "correct": "How to break down a large, intimidating problem into small, manageable parts and solve them in order.",
+    "options": [
+      "That guessing patterns is a valid strategy.",
+      "That you must memorize all the answers.",
+      "How to break down a large, intimidating problem into small, manageable parts and solve them in order.",
+      "That math problems always have decimal answers."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Metacognitive Strategy",
+    "complexity_score": 5
   }
 ]
