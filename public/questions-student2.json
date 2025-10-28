@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the correct formula to find the area of a rectangle?",
-    "correct": "Length × Breadth",
+    "question": "In the Madhubani art tradition, which flower's stems were used to create orange color?",
+    "correct": "Harshringar",
     "options": [
-      "Length + Breadth",
-      "2 × (Length + Breadth)",
-      "Length × Breadth",
-      "Length / Breadth"
+      "Aparajita",
+      "Hibiscus",
+      "Harshringar",
+      "Peepal"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Area Formula",
+    "topic": "Madhubani Art",
     "complexity_score": 1
   },
   {
-    "question": "In the first problem, the area of a rectangle was 13 sq cm. Why were its sides determined to be 13 cm and 1 cm?",
-    "correct": "Because 13 is a prime number, only divisible by 1 and itself.",
+    "question": "According to the class discussion, what is the correct first step to find the value of 'x' in the equation 5 * x = 13?",
+    "correct": "Isolate the variable 'x'",
     "options": [
-      "Because the shape looked long and thin.",
-      "Because 13 is an odd number.",
-      "Because 13 is a prime number, only divisible by 1 and itself.",
-      "Because the teacher guessed the numbers."
+      "Subtract 5 from both sides",
+      "Add 5 to both sides",
+      "Isolate the variable 'x'",
+      "Multiply both sides by 5"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Properties of Numbers",
+    "topic": "Algebra",
     "complexity_score": 1
   },
   {
-    "question": "If a large rectangle has an area of 26 sq cm and you discover one of its sides is 13 cm, how do you find the other side?",
-    "correct": "Divide the area by the known side (26 / 13)",
+    "question": "What two whole numbers were identified in the lesson that multiply to give the product 13?",
+    "correct": "1 and 13",
     "options": [
-      "Subtract the known side from the area (26 - 13)",
-      "Multiply the area by the known side (26 × 13)",
-      "Divide the area by the known side (26 / 13)",
-      "Add the area and the known side (26 + 13)"
+      "2 and 6.5",
+      "3 and 10",
+      "1 and 13",
+      "0 and 13"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Finding Missing Dimensions",
+    "topic": "Number Theory",
     "complexity_score": 1
   },
   {
-    "question": "Why did Aman Sir say you shouldn't decide a shape is a square just by looking at it?",
-    "correct": "Because visual estimation can be inaccurate in math; you must use the given numbers and logic.",
+    "question": "In Madhubani paintings, which animal is depicted to symbolize stability?",
+    "correct": "Tortoise",
     "options": [
-      "Because all shapes in the book are actually rectangles.",
-      "Because squares are very rare in these problems.",
-      "Because visual estimation can be inaccurate in math; you must use the given numbers and logic.",
-      "Because the drawing might be intentionally misleading."
+      "Fish",
+      "Peacock",
+      "Tortoise",
+      "Snake"
     ],
     "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Madhubani Art",
+    "complexity_score": 1
+  },
+  {
+    "question": "From which Indian state did the Madhubani style of painting originate?",
+    "correct": "Bihar",
+    "options": [
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Bihar",
+      "West Bengal"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Madhubani Art",
+    "complexity_score": 1
+  },
+  {
+    "question": "When a number that was being multiplied by 'x' is moved to the other side of the equation, what operation does it become?",
+    "correct": "Division",
+    "options": [
+      "Subtraction",
+      "Addition",
+      "Division",
+      "Multiplication"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Algebra",
+    "complexity_score": 1
+  },
+  {
+    "question": "If a rectangle has an area of 42 square cm and one of its sides is 6 cm long, what is the length of the other side?",
+    "correct": "7 cm",
+    "options": [
+      "12 cm",
+      "36 cm",
+      "7 cm",
+      "6 cm"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Geometry",
+    "complexity_score": 2
+  },
+  {
+    "question": "What combination of natural materials was mixed to create brown and black shades for Madhubani art?",
+    "correct": "Bark of the peepal tree and gum of the Ekia tree",
+    "options": [
+      "Stems of Harshringar and rotten flowers",
+      "Leaves of creeper plants and Aparajita flowers",
+      "Bark of the peepal tree and gum of the Ekia tree",
+      "Juice from hibiscus and gum of the Ekia tree"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Madhubani Art",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the correct mathematical procedure to solve a division problem with a fraction, such as 5 ÷ (11/5)?",
+    "correct": "Use the reciprocal of the fraction and multiply",
+    "options": [
+      "Divide the whole number by the numerator",
+      "Multiply the whole number by the numerator",
+      "Use the reciprocal of the fraction and multiply",
+      "Subtract the fraction from the whole number"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Fractions",
+    "complexity_score": 2
+  },
+  {
+    "question": "How did education primarily improve the prospects for female Madhubani artists?",
+    "correct": "It enabled them to better manage the commercial aspects of their art",
+    "options": [
+      "It taught them how to mix new chemical colors",
+      "It allowed them to travel to other countries",
+      "It enabled them to better manage the commercial aspects of their art",
+      "It gave them official government jobs as artists"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Madhubani Art",
+    "complexity_score": 2
+  },
+  {
+    "question": "According to the teacher, why is using the area formula more reliable than judging a shape by its look?",
+    "correct": "Because mathematics requires precise measurements, not visual assumptions",
+    "options": [
+      "Because formulas are faster than looking",
+      "Because the human eye can't see perfect squares",
+      "Because mathematics requires precise measurements, not visual assumptions",
+      "Because patterns are often misleading in geometry"
+    ],
+    "difficulty": "medium",
     "questionType": "mcq",
     "topic": "Mathematical Reasoning",
-    "complexity_score": 1
-  },
-  {
-    "question": "When a problem seems too hard, what is the first step suggested in the class for solving complex shapes?",
-    "correct": "Break the complex shape down into smaller, simpler rectangles.",
-    "options": [
-      "Guess the answer based on a pattern.",
-      "Measure the shape with a ruler.",
-      "Break the complex shape down into smaller, simpler rectangles.",
-      "Ask for the solution immediately."
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Problem-Solving Strategy",
-    "complexity_score": 1
-  },
-  {
-    "question": "If you have 10 chocolates to divide equally between 2 people, how many does each person get? (This relates to the 10/2 calculation)",
-    "correct": "5",
-    "options": [
-      "20",
-      "8",
-      "12",
-      "5"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Basic Division",
-    "complexity_score": 1
-  },
-  {
-    "question": "A rectangle's area is 42 sq cm and its width is 6 cm. What is its length?",
-    "correct": "7 cm",
-    "options": [
-      "36 cm",
-      "48 cm",
-      "7 cm",
-      "8 cm"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Application of Area Formula",
     "complexity_score": 2
   },
   {
-    "question": "A line segment is 10 cm long. A point on the line is 4 cm from one end. What is the length of the remaining segment?",
-    "correct": "6 cm",
+    "question": "What was the teacher's shortcut for dividing a whole number by a decimal, such as 38 ÷ 7.6?",
+    "correct": "Multiply the numerator by 10 and remove the decimal from the denominator (380 ÷ 76)",
     "options": [
-      "14 cm",
-      "40 cm",
-      "6 cm",
-      "Cannot be determined"
+      "Ignore the decimal and divide 38 by 76",
+      "Multiply both numbers by 10 (380 ÷ 760)",
+      "Multiply the numerator by 10 and remove the decimal from the denominator (380 ÷ 76)",
+      "Move the decimal in the answer one place to the left"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Line Segments",
+    "topic": "Decimals",
     "complexity_score": 2
   },
   {
-    "question": "In the class, why was finding a simple pattern (like '132 gives 26, so 152 gives 30') rejected as a correct method?",
-    "correct": "Because it ignores the geometric rules of area and can lead to wrong answers in other problems.",
+    "question": "How did NGOs help in promoting Madhubani art?",
+    "correct": "By organizing courses and helping artists sell their paintings",
     "options": [
-      "Because the pattern was too simple.",
-      "Because the teacher's method is always better.",
-      "Because it ignores the geometric rules of area and can lead to wrong answers in other problems.",
-      "Because patterns are only used in the 'Patterns' chapter."
+      "By declaring it a national treasure",
+      "By building museums dedicated to the art",
+      "By organizing courses and helping artists sell their paintings",
+      "By paying the artists a fixed monthly salary"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Conceptual Understanding vs. Shortcuts",
+    "topic": "Madhubani Art",
+    "complexity_score": 2
+  },
+  {
+    "question": "If a line is 10 cm long and one part is 4 cm, the other part is 6 cm. What mathematical operation is used to find this?",
+    "correct": "Subtraction",
+    "options": [
+      "Addition",
+      "Multiplication",
+      "Subtraction",
+      "Division"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Basic Math",
+    "complexity_score": 2
+  },
+  {
+    "question": "The lesson is titled 'Colors of the Earth'. Which piece of information from the class most strongly justifies this title?",
+    "correct": "Artists used natural resources like leaves, flowers, and tree bark to make colors",
+    "options": [
+      "The paintings were often done on walls coated with mud and cow dung",
+      "The artists were from rural villages in Bihar",
+      "The paintings often depict animals found on Earth",
+      "Artists used natural resources like leaves, flowers, and tree bark to make colors"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Madhubani Art",
     "complexity_score": 3
   },
   {
-    "question": "To find a missing length of a rectangle with an area of 18 sq cm and a width of 5 cm, the equation `5 × x = 18` was created. What does 'x' represent?",
-    "correct": "The unknown length of the rectangle.",
+    "question": "The teacher highlights a question that assesses the ability to reflect on the learning process. What does this suggest is a key part of learning?",
+    "correct": "Understanding why one method is better than another",
     "options": [
-      "The perimeter of the rectangle.",
-      "A random number.",
-      "The unknown length of the rectangle.",
-      "The area of a different rectangle."
+      "Memorizing all the steps correctly",
+      "Getting the right answer as quickly as possible",
+      "Understanding why one method is better than another",
+      "Being able to teach the topic to someone else"
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Introduction to Algebra",
-    "complexity_score": 2
-  },
-  {
-    "question": "To solve the equation `5 × x = 18` for 'x', what is the correct next step?",
-    "correct": "Isolate 'x' by dividing 18 by 5.",
-    "options": [
-      "Multiply 18 by 5.",
-      "Subtract 5 from 18.",
-      "Isolate 'x' by dividing 18 by 5.",
-      "Add 5 to 18."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Solving Equations",
-    "complexity_score": 2
-  },
-  {
-    "question": "What is the correct decimal value of 18 divided by 5?",
-    "correct": "3.6",
-    "options": [
-      "3.5",
-      "4.0",
-      "3.6",
-      "1.85"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Decimal Division",
-    "complexity_score": 2
-  },
-  {
-    "question": "In one problem, two adjacent lengths were found to be 3.6 cm and 4 cm. What is the total combined length?",
-    "correct": "7.6 cm",
-    "options": [
-      "7.0 cm",
-      "4.4 cm",
-      "3.64 cm",
-      "7.6 cm"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Decimal Addition",
-    "complexity_score": 2
-  },
-  {
-    "question": "How do you correctly rewrite the division `38 ÷ 7.6` to make it easier to solve?",
-    "correct": "Change it to `38 ÷ (76/10)` and then multiply by the reciprocal: `38 × (10/76)`",
-    "options": [
-      "Remove the decimal to get `38 ÷ 76`",
-      "Multiply both numbers by 10 to get `380 ÷ 760`",
-      "Change it to `38 ÷ (76/10)` and then multiply by the reciprocal: `38 × (10/76)`",
-      "Add the numbers instead: `38 + 7.6`"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Operations with Decimals and Fractions",
+    "topic": "Metacognition",
     "complexity_score": 3
   },
   {
-    "question": "In the fraction `(38 × 10) / 76`, which number is a common factor of both 38 and 76, helping to simplify the problem?",
-    "correct": "19 (or 38 itself)",
+    "question": "The teacher contrasts 'assuming a shape is a square by its look' with 'using the L x B formula'. What fundamental mathematical principle does this emphasize?",
+    "correct": "The importance of proof and measurement over visual intuition",
     "options": [
-      "10",
-      "5",
-      "7",
-      "19 (or 38 itself)"
+      "All squares are rectangles",
+      "The importance of proof and measurement over visual intuition",
+      "Algebra is more important than geometry",
+      "Visual patterns can never be trusted"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Fraction Simplification",
-    "complexity_score": 4
+    "topic": "Mathematical Reasoning",
+    "complexity_score": 3
   },
   {
-    "question": "After simplifying the expression `(38 × 10) / 76`, you get `(1 × 10) / 2`. What is the final answer?",
-    "correct": "5",
+    "question": "Why is it considered important for new generations to continue practicing traditional arts?",
+    "correct": "To ensure cultural traditions are preserved and do not vanish",
     "options": [
-      "20",
-      "10",
-      "5",
-      "2"
+      "Because traditional arts are more profitable than modern arts",
+      "To provide jobs for young people in villages",
+      "To ensure cultural traditions are preserved and do not vanish",
+      "So that museums will have new art to display"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Multi-step Calculation",
-    "complexity_score": 4
+    "topic": "Cultural Preservation",
+    "complexity_score": 3
   },
   {
-    "question": "One rectangle has a side of length 6 cm and an area of 42 sq cm. An adjacent rectangle shares a side with it. What is the length of that shared side?",
-    "correct": "7 cm",
+    "question": "How does the support from NGOs (e.g., helping sell art) contribute to the economic empowerment of Madhubani artists?",
+    "correct": "It connects their skills to a market, providing an additional source of income",
     "options": [
-      "6 cm",
-      "4 cm",
-      "7 cm",
-      "It's impossible to know from the information."
+      "It makes the artists famous internationally",
+      "It reduces the cost of art materials for everyone",
+      "It connects their skills to a market, providing an additional source of income",
+      "It forces the government to give them grants"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Deductive Reasoning in Geometry",
-    "complexity_score": 4
+    "topic": "Madhubani Art",
+    "complexity_score": 3
   },
   {
-    "question": "A full line is 15 units long. It is made of three parts. Part A is 6 units, Part B is 5 units. What is the length of Part C?",
-    "correct": "4 units",
+    "question": "A student's first instinct for solving '5 * x = 13' was to subtract 5. Why is this mathematically incorrect for this specific equation?",
+    "correct": "Because division, not subtraction, is the inverse operation of multiplication",
     "options": [
-      "11 units",
-      "1 unit",
-      "4 units",
-      "26 units"
+      "Because you cannot subtract from a number that is part of a multiplication",
+      "Because 13 is a prime number",
+      "Because subtraction should only be performed on the left side",
+      "Because division, not subtraction, is the inverse operation of multiplication"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Composite Line Segments",
-    "complexity_score": 4
-  },
-  {
-    "question": "Imagine a complex shape problem. The first step gives you a side length of 3.6 cm. The second step requires you to add it to a known length of 4 cm. The third step uses this total length (7.6 cm) to find the final missing side 'x' of a rectangle with an area of 38 sq cm. Which equation correctly represents the THIRD step?",
-    "correct": "7.6 × x = 38",
-    "options": [
-      "3.6 + x = 38",
-      "4 × x = 38",
-      "7.6 × x = 38",
-      "x / 7.6 = 38"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Problem Synthesis",
-    "complexity_score": 5
-  },
-  {
-    "question": "The lesson shows that solving these problems requires a sequence of logical steps, not one single calculation. What does this process fundamentally teach?",
-    "correct": "How to break down a large, intimidating problem into small, manageable parts and solve them in order.",
-    "options": [
-      "That guessing patterns is a valid strategy.",
-      "That you must memorize all the answers.",
-      "How to break down a large, intimidating problem into small, manageable parts and solve them in order.",
-      "That math problems always have decimal answers."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Metacognitive Strategy",
-    "complexity_score": 5
+    "topic": "Algebra",
+    "complexity_score": 3
   }
 ]
