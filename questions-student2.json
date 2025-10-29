@@ -1,282 +1,282 @@
 [
   {
-    "question": "In the Madhubani art tradition, which flower's stems were used to create orange color?",
-    "correct": "Harshringar",
+    "question": "What is the full form of PEM as discussed in the lesson?",
+    "correct": "Protein Energy Malnutrition",
     "options": [
-      "Aparajita",
-      "Hibiscus",
-      "Harshringar",
-      "Peepal"
+      "Protein Enzyme Metabolism",
+      "Potential Energy Measurement",
+      "Protein Energy Malnutrition",
+      "Physical Education Module"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Madhubani Art",
+    "topic": "Nutrition Basics",
     "complexity_score": 1
   },
   {
-    "question": "According to the class discussion, what is the correct first step to find the value of 'x' in the equation 5 * x = 13?",
-    "correct": "Isolate the variable 'x'",
+    "question": "Which of these is NOT one of the three main types of carbohydrates discussed?",
+    "correct": "Glucose",
     "options": [
-      "Subtract 5 from both sides",
-      "Add 5 to both sides",
-      "Isolate the variable 'x'",
-      "Multiply both sides by 5"
+      "Sugar",
+      "Cellulose",
+      "Starch",
+      "Glucose"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Algebra",
+    "topic": "Carbohydrates",
     "complexity_score": 1
   },
   {
-    "question": "What two whole numbers were identified in the lesson that multiply to give the product 13?",
-    "correct": "1 and 13",
+    "question": "A deficiency in Vitamin C leads to which disease, characterized by gum problems?",
+    "correct": "Scurvy",
     "options": [
-      "2 and 6.5",
-      "3 and 10",
-      "1 and 13",
-      "0 and 13"
+      "Anemia",
+      "Goitre",
+      "Scurvy",
+      "Marasmus"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Number Theory",
+    "topic": "Vitamins & Deficiencies",
     "complexity_score": 1
   },
   {
-    "question": "In Madhubani paintings, which animal is depicted to symbolize stability?",
-    "correct": "Tortoise",
+    "question": "What is the primary function of Vitamin K in the body?",
+    "correct": "Helps in blood clotting",
     "options": [
-      "Fish",
-      "Peacock",
-      "Tortoise",
-      "Snake"
+      "Builds strong bones",
+      "Improves eyesight",
+      "Helps in blood clotting",
+      "Aids in digestion"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Madhubani Art",
+    "topic": "Vitamins",
     "complexity_score": 1
   },
   {
-    "question": "From which Indian state did the Madhubani style of painting originate?",
-    "correct": "Bihar",
+    "question": "Which of the following are the three main groups of food?",
+    "correct": "Energy giving, body building, and protective food",
     "options": [
-      "Rajasthan",
-      "Uttar Pradesh",
-      "Bihar",
-      "West Bengal"
+      "Carbohydrates, proteins, and fats",
+      "Vitamins, minerals, and water",
+      "Energy giving, body building, and protective food",
+      "Sweet, salty, and sour food"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Madhubani Art",
+    "topic": "Food Groups",
     "complexity_score": 1
   },
   {
-    "question": "When a number that was being multiplied by 'x' is moved to the other side of the equation, what operation does it become?",
-    "correct": "Division",
+    "question": "What solution is used to test for the presence of starch in a food item?",
+    "correct": "Iodine solution",
     "options": [
-      "Subtraction",
-      "Addition",
-      "Division",
-      "Multiplication"
+      "Saline solution",
+      "Sugar solution",
+      "Iodine solution",
+      "Vinegar solution"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Algebra",
+    "topic": "Food Tests",
     "complexity_score": 1
   },
   {
-    "question": "If a rectangle has an area of 42 square cm and one of its sides is 6 cm long, what is the length of the other side?",
-    "correct": "7 cm",
+    "question": "Based on the properties discussed, which carbohydrate is sweet and soluble in water?",
+    "correct": "Sugar",
     "options": [
-      "12 cm",
-      "36 cm",
-      "7 cm",
-      "6 cm"
+      "Cellulose",
+      "Starch",
+      "Sugar",
+      "Roughage"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Geometry",
+    "topic": "Carbohydrates",
     "complexity_score": 2
   },
   {
-    "question": "What combination of natural materials was mixed to create brown and black shades for Madhubani art?",
-    "correct": "Bark of the peepal tree and gum of the Ekia tree",
+    "question": "Anemia is a condition caused by the lack of which mineral, essential for forming hemoglobin?",
+    "correct": "Iron",
     "options": [
-      "Stems of Harshringar and rotten flowers",
-      "Leaves of creeper plants and Aparajita flowers",
-      "Bark of the peepal tree and gum of the Ekia tree",
-      "Juice from hibiscus and gum of the Ekia tree"
+      "Calcium",
+      "Iodine",
+      "Iron",
+      "Potassium"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Madhubani Art",
+    "topic": "Minerals & Deficiencies",
     "complexity_score": 2
   },
   {
-    "question": "What is the correct mathematical procedure to solve a division problem with a fraction, such as 5 ÷ (11/5)?",
-    "correct": "Use the reciprocal of the fraction and multiply",
+    "question": "According to the lesson, which function is NOT attributed to fats in our diet?",
+    "correct": "Forming the main structure of plants",
     "options": [
-      "Divide the whole number by the numerator",
-      "Multiply the whole number by the numerator",
-      "Use the reciprocal of the fraction and multiply",
-      "Subtract the fraction from the whole number"
+      "Providing more energy than carbohydrates",
+      "Acting as a cushion for delicate organs",
+      "Preventing heat loss from the body",
+      "Forming the main structure of plants"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Fractions",
+    "topic": "Fats",
     "complexity_score": 2
   },
   {
-    "question": "How did education primarily improve the prospects for female Madhubani artists?",
-    "correct": "It enabled them to better manage the commercial aspects of their art",
+    "question": "A person is experiencing a swelling in their neck (goitre). This is most likely due to a deficiency of:",
+    "correct": "Iodine",
     "options": [
-      "It taught them how to mix new chemical colors",
-      "It allowed them to travel to other countries",
-      "It enabled them to better manage the commercial aspects of their art",
-      "It gave them official government jobs as artists"
+      "Iron",
+      "Iodine",
+      "Vitamin C",
+      "Protein"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Madhubani Art",
+    "topic": "Minerals & Deficiencies",
     "complexity_score": 2
   },
   {
-    "question": "According to the teacher, why is using the area formula more reliable than judging a shape by its look?",
-    "correct": "Because mathematics requires precise measurements, not visual assumptions",
+    "question": "What is the term for the fibrous, indigestible material in food that aids in digestion?",
+    "correct": "Roughage",
     "options": [
-      "Because formulas are faster than looking",
-      "Because the human eye can't see perfect squares",
-      "Because mathematics requires precise measurements, not visual assumptions",
-      "Because patterns are often misleading in geometry"
+      "Cellulose",
+      "Starch",
+      "Roughage",
+      "Sucrose"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Mathematical Reasoning",
+    "topic": "Nutrition Basics",
     "complexity_score": 2
   },
   {
-    "question": "What was the teacher's shortcut for dividing a whole number by a decimal, such as 38 ÷ 7.6?",
-    "correct": "Multiply the numerator by 10 and remove the decimal from the denominator (380 ÷ 76)",
+    "question": "The condition of undernutrition is described as an unhealthy state resulting from:",
+    "correct": "Intake of a lesser quantity of food",
     "options": [
-      "Ignore the decimal and divide 38 by 76",
-      "Multiply both numbers by 10 (380 ÷ 760)",
-      "Multiply the numerator by 10 and remove the decimal from the denominator (380 ÷ 76)",
-      "Move the decimal in the answer one place to the left"
+      "Intake of too much fatty food",
+      "Lack of a specific vitamin",
+      "Intake of a lesser quantity of food",
+      "Not drinking enough water"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Decimals",
+    "topic": "Malnutrition",
     "complexity_score": 2
   },
   {
-    "question": "How did NGOs help in promoting Madhubani art?",
-    "correct": "By organizing courses and helping artists sell their paintings",
+    "question": "Which of these nutrients helps in the formation of strong bones and teeth AND aids in blood clotting?",
+    "correct": "Calcium",
     "options": [
-      "By declaring it a national treasure",
-      "By building museums dedicated to the art",
-      "By organizing courses and helping artists sell their paintings",
-      "By paying the artists a fixed monthly salary"
+      "Vitamin K",
+      "Iron",
+      "Calcium",
+      "Protein"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Madhubani Art",
+    "topic": "Minerals",
     "complexity_score": 2
   },
   {
-    "question": "If a line is 10 cm long and one part is 4 cm, the other part is 6 cm. What mathematical operation is used to find this?",
-    "correct": "Subtraction",
+    "question": "What happens to the body when it is deficient in water?",
+    "correct": "It gets dehydrated",
     "options": [
-      "Addition",
-      "Multiplication",
-      "Subtraction",
-      "Division"
+      "It develops scurvy",
+      "It gets dehydrated",
+      "It gains weight",
+      "It cannot form hemoglobin"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Basic Math",
+    "topic": "Water",
     "complexity_score": 2
   },
   {
-    "question": "The lesson is titled 'Colors of the Earth'. Which piece of information from the class most strongly justifies this title?",
-    "correct": "Artists used natural resources like leaves, flowers, and tree bark to make colors",
+    "question": "The disease Kwashiorkor is caused specifically by a deficiency of protein. How does this differ from Marasmus?",
+    "correct": "Marasmus is caused by a deficiency of both protein and carbohydrates.",
     "options": [
-      "The paintings were often done on walls coated with mud and cow dung",
-      "The artists were from rural villages in Bihar",
-      "The paintings often depict animals found on Earth",
-      "Artists used natural resources like leaves, flowers, and tree bark to make colors"
+      "Marasmus is caused by a deficiency of fats.",
+      "Marasmus is caused by a deficiency of both protein and carbohydrates.",
+      "Marasmus is caused by a vitamin deficiency.",
+      "There is no difference; they are the same condition."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Madhubani Art",
+    "topic": "Malnutrition",
     "complexity_score": 3
   },
   {
-    "question": "The teacher highlights a question that assesses the ability to reflect on the learning process. What does this suggest is a key part of learning?",
-    "correct": "Understanding why one method is better than another",
+    "question": "Both cellulose and starch are carbohydrates derived from plants and have no taste. What is a key structural difference mentioned?",
+    "correct": "Cellulose forms the main structure of plants.",
     "options": [
-      "Memorizing all the steps correctly",
-      "Getting the right answer as quickly as possible",
-      "Understanding why one method is better than another",
-      "Being able to teach the topic to someone else"
+      "Starch is soluble in water, but cellulose is not.",
+      "Cellulose forms the main structure of plants.",
+      "Starch is a source of energy, but cellulose is not.",
+      "Cellulose is found in animals, while starch is in plants."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition",
+    "topic": "Carbohydrates",
     "complexity_score": 3
   },
   {
-    "question": "The teacher contrasts 'assuming a shape is a square by its look' with 'using the L x B formula'. What fundamental mathematical principle does this emphasize?",
-    "correct": "The importance of proof and measurement over visual intuition",
+    "question": "Based on the ideal balanced diet percentages discussed, if a meal contains 100 grams of nutrients, how many grams should be protein?",
+    "correct": "25 grams",
     "options": [
-      "All squares are rectangles",
-      "The importance of proof and measurement over visual intuition",
-      "Algebra is more important than geometry",
-      "Visual patterns can never be trusted"
+      "60 grams",
+      "15 grams",
+      "25 grams",
+      "A very small amount"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Mathematical Reasoning",
+    "topic": "Balanced Diet",
     "complexity_score": 3
   },
   {
-    "question": "Why is it considered important for new generations to continue practicing traditional arts?",
-    "correct": "To ensure cultural traditions are preserved and do not vanish",
+    "question": "Water performs multiple functions in the body. Which of the following best synthesizes its roles as discussed?",
+    "correct": "It transports nutrients, removes waste, and regulates body temperature.",
     "options": [
-      "Because traditional arts are more profitable than modern arts",
-      "To provide jobs for young people in villages",
-      "To ensure cultural traditions are preserved and do not vanish",
-      "So that museums will have new art to display"
+      "It helps in blood clotting and builds strong bones.",
+      "It is the main source of energy for the body.",
+      "It transports nutrients, removes waste, and regulates body temperature.",
+      "It provides taste and flavor to food."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cultural Preservation",
+    "topic": "Water",
     "complexity_score": 3
   },
   {
-    "question": "How does the support from NGOs (e.g., helping sell art) contribute to the economic empowerment of Madhubani artists?",
-    "correct": "It connects their skills to a market, providing an additional source of income",
+    "question": "Iron's function is to help form hemoglobin, which has a specific role. What is that role?",
+    "correct": "Carrying oxygen from the lungs to body cells",
     "options": [
-      "It makes the artists famous internationally",
-      "It reduces the cost of art materials for everyone",
-      "It connects their skills to a market, providing an additional source of income",
-      "It forces the government to give them grants"
+      "Carrying nutrients from the stomach to the intestines",
+      "Carrying carbon dioxide from cells to the lungs",
+      "Carrying oxygen from the lungs to body cells",
+      "Carrying signals from the brain to the nerves"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Madhubani Art",
+    "topic": "Minerals",
     "complexity_score": 3
   },
   {
-    "question": "A student's first instinct for solving '5 * x = 13' was to subtract 5. Why is this mathematically incorrect for this specific equation?",
-    "correct": "Because division, not subtraction, is the inverse operation of multiplication",
+    "question": "A diet consists of foods rich in wheat, egg yolk, and milk. This diet would be particularly good for supporting which function, according to the sources of Vitamin B1 discussed?",
+    "correct": "Digestion and maintenance of the nervous system",
     "options": [
-      "Because you cannot subtract from a number that is part of a multiplication",
-      "Because 13 is a prime number",
-      "Because subtraction should only be performed on the left side",
-      "Because division, not subtraction, is the inverse operation of multiplication"
+      "Blood clotting and bone strength",
+      "Formation of hemoglobin",
+      "Digestion and maintenance of the nervous system",
+      "Protection of delicate organs"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Algebra",
+    "topic": "Vitamins",
     "complexity_score": 3
   }
 ]
