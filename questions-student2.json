@@ -1,282 +1,282 @@
 [
   {
-    "question": "What is the full form of PEM as discussed in the lesson?",
-    "correct": "Protein Energy Malnutrition",
+    "question": "Which tense is primarily used to describe habits and daily routines, often ending with 'ta hai' or 'ti hai' in Hindi?",
+    "correct": "Present Simple",
     "options": [
-      "Protein Enzyme Metabolism",
-      "Potential Energy Measurement",
-      "Protein Energy Malnutrition",
-      "Physical Education Module"
+      "Past Simple",
+      "Future Simple",
+      "Present Simple",
+      "Present Continuous"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Nutrition Basics",
+    "topic": "Present Simple Tense",
     "complexity_score": 1
   },
   {
-    "question": "Which of these is NOT one of the three main types of carbohydrates discussed?",
-    "correct": "Glucose",
+    "question": "According to the lesson, which subject group requires you to add 's' or 'es' to the verb in a Present Simple affirmative sentence?",
+    "correct": "He, She, It, Name",
     "options": [
-      "Sugar",
-      "Cellulose",
-      "Starch",
-      "Glucose"
+      "I, We",
+      "You, They",
+      "He, She, It, Name",
+      "All plural subjects"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Carbohydrates",
+    "topic": "Present Simple Tense",
     "complexity_score": 1
   },
   {
-    "question": "A deficiency in Vitamin C leads to which disease, characterized by gum problems?",
-    "correct": "Scurvy",
+    "question": "In a Past Simple affirmative sentence, which form of the verb is used?",
+    "correct": "The second form (V2)",
     "options": [
-      "Anemia",
-      "Goitre",
-      "Scurvy",
-      "Marasmus"
+      "The first form (V1)",
+      "The second form (V2)",
+      "The third form (V3)",
+      "The first form + 'ing'"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vitamins & Deficiencies",
+    "topic": "Past Simple Tense",
     "complexity_score": 1
   },
   {
-    "question": "What is the primary function of Vitamin K in the body?",
-    "correct": "Helps in blood clotting",
+    "question": "What helping verb is used to form a simple sentence about the future?",
+    "correct": "will",
     "options": [
-      "Builds strong bones",
-      "Improves eyesight",
-      "Helps in blood clotting",
-      "Aids in digestion"
+      "do",
+      "did",
+      "is",
+      "will"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vitamins",
+    "topic": "Future Simple Tense",
     "complexity_score": 1
   },
   {
-    "question": "Which of the following are the three main groups of food?",
-    "correct": "Energy giving, body building, and protective food",
+    "question": "The helping verbs 'do' and 'does' are used to make negative and interrogative sentences in which tense?",
+    "correct": "Present Simple",
     "options": [
-      "Carbohydrates, proteins, and fats",
-      "Vitamins, minerals, and water",
-      "Energy giving, body building, and protective food",
-      "Sweet, salty, and sour food"
+      "Past Simple",
+      "Present Simple",
+      "Future Simple",
+      "Past Continuous"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Food Groups",
+    "topic": "Present Simple Tense",
     "complexity_score": 1
   },
   {
-    "question": "What solution is used to test for the presence of starch in a food item?",
-    "correct": "Iodine solution",
+    "question": "What is the key difference between questions starting with 'Do/Does/Did' and questions starting with 'What/Where/Why'?",
+    "correct": "'Do/Does/Did' questions can be answered with 'Yes' or 'No', while 'What/Where/Why' questions require more information.",
     "options": [
-      "Saline solution",
-      "Sugar solution",
-      "Iodine solution",
-      "Vinegar solution"
+      "'What/Where/Why' questions are only for the past tense.",
+      "'Do/Does/Did' questions are only for the present tense.",
+      "'Do/Does/Did' questions can be answered with 'Yes' or 'No', while 'What/Where/Why' questions require more information.",
+      "There is no difference in the type of answer they require."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Food Tests",
+    "topic": "Interrogative Sentences",
     "complexity_score": 1
   },
   {
-    "question": "Based on the properties discussed, which carbohydrate is sweet and soluble in water?",
-    "correct": "Sugar",
+    "question": "Choose the correct sentence based on the rules discussed.",
+    "correct": "He plays football.",
     "options": [
-      "Cellulose",
-      "Starch",
-      "Sugar",
-      "Roughage"
+      "He play football.",
+      "He plays football.",
+      "They plays football.",
+      "We plays football."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Carbohydrates",
+    "topic": "Present Simple Tense",
     "complexity_score": 2
   },
   {
-    "question": "Anemia is a condition caused by the lack of which mineral, essential for forming hemoglobin?",
-    "correct": "Iron",
+    "question": "Choose the correct negative sentence for the Past Simple tense.",
+    "correct": "I didn't go to the market.",
     "options": [
-      "Calcium",
-      "Iodine",
-      "Iron",
-      "Potassium"
+      "I didn't went to the market.",
+      "I don't went to the market.",
+      "I didn't go to the market.",
+      "I did go not to the market."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Minerals & Deficiencies",
+    "topic": "Past Simple Tense",
     "complexity_score": 2
   },
   {
-    "question": "According to the lesson, which function is NOT attributed to fats in our diet?",
-    "correct": "Forming the main structure of plants",
+    "question": "Which sentence correctly uses the helping verb 'does'?",
+    "correct": "Kavya does not fight.",
     "options": [
-      "Providing more energy than carbohydrates",
-      "Acting as a cushion for delicate organs",
-      "Preventing heat loss from the body",
-      "Forming the main structure of plants"
+      "We does not celebrate.",
+      "I does not write.",
+      "Kavya does not fight.",
+      "They does not study."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Fats",
+    "topic": "Present Simple Tense",
     "complexity_score": 2
   },
   {
-    "question": "A person is experiencing a swelling in their neck (goitre). This is most likely due to a deficiency of:",
-    "correct": "Iodine",
+    "question": "The sentence is: 'I ate a mango.' How would you make this sentence negative?",
+    "correct": "I did not eat a mango.",
     "options": [
-      "Iron",
-      "Iodine",
-      "Vitamin C",
-      "Protein"
+      "I do not ate a mango.",
+      "I did not ate a mango.",
+      "I not ate a mango.",
+      "I did not eat a mango."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Minerals & Deficiencies",
+    "topic": "Past Simple Tense",
     "complexity_score": 2
   },
   {
-    "question": "What is the term for the fibrous, indigestible material in food that aids in digestion?",
-    "correct": "Roughage",
+    "question": "If 'We go' is correct, which of the following is also correct based on the same rule?",
+    "correct": "They fight.",
     "options": [
-      "Cellulose",
-      "Starch",
-      "Roughage",
-      "Sucrose"
+      "He go.",
+      "She go.",
+      "They fight.",
+      "Kavya fight."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Nutrition Basics",
+    "topic": "Present Simple Tense",
     "complexity_score": 2
   },
   {
-    "question": "The condition of undernutrition is described as an unhealthy state resulting from:",
-    "correct": "Intake of a lesser quantity of food",
+    "question": "Select the grammatically correct question.",
+    "correct": "Do you live in India?",
     "options": [
-      "Intake of too much fatty food",
-      "Lack of a specific vitamin",
-      "Intake of a lesser quantity of food",
-      "Not drinking enough water"
+      "You do live in India?",
+      "Does you live in India?",
+      "Do you lives in India?",
+      "Do you live in India?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Malnutrition",
+    "topic": "Interrogative Sentences",
     "complexity_score": 2
   },
   {
-    "question": "Which of these nutrients helps in the formation of strong bones and teeth AND aids in blood clotting?",
-    "correct": "Calcium",
+    "question": "Which sentence correctly forms a question about a past event?",
+    "correct": "Did you open the gate?",
     "options": [
-      "Vitamin K",
-      "Iron",
-      "Calcium",
-      "Protein"
+      "Did you opened the gate?",
+      "Do you opened the gate?",
+      "You did open the gate?",
+      "Did you open the gate?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Minerals",
+    "topic": "Past Simple Tense",
     "complexity_score": 2
   },
   {
-    "question": "What happens to the body when it is deficient in water?",
-    "correct": "It gets dehydrated",
+    "question": "The tutor explained that after using 'did', the verb returns to its first form (V1). Which option correctly applies this rule?",
+    "correct": "He did not study.",
     "options": [
-      "It develops scurvy",
-      "It gets dehydrated",
-      "It gains weight",
-      "It cannot form hemoglobin"
+      "He did not studied.",
+      "He did not study.",
+      "He did studied not.",
+      "He not studied."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Water",
+    "topic": "Past Simple Tense",
     "complexity_score": 2
   },
   {
-    "question": "The disease Kwashiorkor is caused specifically by a deficiency of protein. How does this differ from Marasmus?",
-    "correct": "Marasmus is caused by a deficiency of both protein and carbohydrates.",
+    "question": "Based on the transcript, which of these WH-questions is structured correctly?",
+    "correct": "Where does he live?",
     "options": [
-      "Marasmus is caused by a deficiency of fats.",
-      "Marasmus is caused by a deficiency of both protein and carbohydrates.",
-      "Marasmus is caused by a vitamin deficiency.",
-      "There is no difference; they are the same condition."
+      "What he does play?",
+      "Where does he live?",
+      "Why he does not play cricket?",
+      "Which movie you see?"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Malnutrition",
+    "topic": "Interrogative Sentences",
     "complexity_score": 3
   },
   {
-    "question": "Both cellulose and starch are carbohydrates derived from plants and have no taste. What is a key structural difference mentioned?",
-    "correct": "Cellulose forms the main structure of plants.",
+    "question": "Kavya made the mistake 'We teaches.' This error likely comes from incorrectly applying which rule?",
+    "correct": "Over-applying the 's'/'es' rule for third-person singular to a first-person plural subject.",
     "options": [
-      "Starch is soluble in water, but cellulose is not.",
-      "Cellulose forms the main structure of plants.",
-      "Starch is a source of energy, but cellulose is not.",
-      "Cellulose is found in animals, while starch is in plants."
+      "Confusing the Past Simple and Present Simple tenses.",
+      "Forgetting to use a helping verb.",
+      "Over-applying the 's'/'es' rule for third-person singular to a first-person plural subject.",
+      "Using the wrong verb form."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Carbohydrates",
+    "topic": "Present Simple Tense",
     "complexity_score": 3
   },
   {
-    "question": "Based on the ideal balanced diet percentages discussed, if a meal contains 100 grams of nutrients, how many grams should be protein?",
-    "correct": "25 grams",
+    "question": "If the affirmative sentence is 'She studies English,' what is the correct negative interrogative form?",
+    "correct": "Does she not study English?",
     "options": [
-      "60 grams",
-      "15 grams",
-      "25 grams",
-      "A very small amount"
+      "Do she not study English?",
+      "Does she not studies English?",
+      "Does she not study English?",
+      "She does not study English?"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Balanced Diet",
+    "topic": "Interrogative Sentences",
     "complexity_score": 3
   },
   {
-    "question": "Water performs multiple functions in the body. Which of the following best synthesizes its roles as discussed?",
-    "correct": "It transports nutrients, removes waste, and regulates body temperature.",
+    "question": "The tutor mixes tenses in the final game. If the question is 'Aap kya padhte ho?', what is the correct English translation?",
+    "correct": "What do you study?",
     "options": [
-      "It helps in blood clotting and builds strong bones.",
-      "It is the main source of energy for the body.",
-      "It transports nutrients, removes waste, and regulates body temperature.",
-      "It provides taste and flavor to food."
+      "What did you study?",
+      "What will you study?",
+      "What do you study?",
+      "What are you studying?"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Water",
+    "topic": "Mixed Tenses",
     "complexity_score": 3
   },
   {
-    "question": "Iron's function is to help form hemoglobin, which has a specific role. What is that role?",
-    "correct": "Carrying oxygen from the lungs to body cells",
+    "question": "Consider the three sentences: 1. He plays. 2. He played. 3. He will play. Which sentence represents the Past Simple tense?",
+    "correct": "He played.",
     "options": [
-      "Carrying nutrients from the stomach to the intestines",
-      "Carrying carbon dioxide from cells to the lungs",
-      "Carrying oxygen from the lungs to body cells",
-      "Carrying signals from the brain to the nerves"
+      "He plays.",
+      "He will play.",
+      "He played.",
+      "None of the above."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Minerals",
+    "topic": "Mixed Tenses",
     "complexity_score": 3
   },
   {
-    "question": "A diet consists of foods rich in wheat, egg yolk, and milk. This diet would be particularly good for supporting which function, according to the sources of Vitamin B1 discussed?",
-    "correct": "Digestion and maintenance of the nervous system",
+    "question": "The sentence is 'Why does he not play cricket?'. What crucial grammar rule does this sentence follow?",
+    "correct": "In a WH-question, the helping verb comes before the subject.",
     "options": [
-      "Blood clotting and bone strength",
-      "Formation of hemoglobin",
-      "Digestion and maintenance of the nervous system",
-      "Protection of delicate organs"
+      "The main verb must always have an 's' with 'he'.",
+      "In a WH-question, the helping verb comes before the subject.",
+      "Negative questions are not allowed in the present tense.",
+      "The word 'not' must always come after the main verb."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Vitamins",
+    "topic": "Interrogative Sentences",
     "complexity_score": 3
   }
 ]
