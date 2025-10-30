@@ -1,282 +1,282 @@
 [
   {
-    "question": "Which sentence correctly translates 'Main khana kha chuki hu'?",
-    "correct": "I have eaten food.",
+    "question": "What does the term 'perimeter' refer to?",
+    "correct": "The length of the border of a shape",
     "options": [
-      "I was eating food.",
-      "I ate food.",
-      "I have eaten food.",
-      "I will eat food."
+      "The space inside a shape",
+      "The number of corners a shape has",
+      "The length of the border of a shape",
+      "The formula for calculating a shape's size"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Present Perfect Tense",
+    "topic": "Perimeter and Area Definitions",
     "complexity_score": 1
   },
   {
-    "question": "How would you say 'Main khel raha hu' in English?",
-    "correct": "I am playing.",
+    "question": "According to the lesson, what is the formula for the area of a rectangle?",
+    "correct": "Length multiplied by breadth",
     "options": [
-      "I play.",
-      "I am playing.",
-      "I have played.",
-      "I was playing."
+      "Length plus breadth",
+      "Length multiplied by breadth",
+      "Two times length plus two times breadth",
+      "Length divided by breadth"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Present Continuous Tense",
+    "topic": "Area Formula",
     "complexity_score": 1
   },
   {
-    "question": "Choose the correct translation for 'Kal main homework kar chuki hungi.'",
-    "correct": "I will have done my homework tomorrow.",
+    "question": "A rectangle on a grid has a length of 5 units and a breadth of 4 units. What is its area?",
+    "correct": "20 square units",
     "options": [
-      "I will do my homework tomorrow.",
-      "I will be doing my homework tomorrow.",
-      "I will have done my homework tomorrow.",
-      "I do my homework tomorrow."
+      "18 units",
+      "9 square units",
+      "20 square units",
+      "20 units"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Future Perfect Tense",
+    "topic": "Basic Area Calculation",
     "complexity_score": 1
   },
   {
-    "question": "What is the correct way to say 'English padhai jaa rahi hai'?",
-    "correct": "English is being taught.",
+    "question": "What is the physical meaning of an area of '40 square centimeters'?",
+    "correct": "You can fit exactly 40 squares of 1cm by 1cm inside the shape",
     "options": [
-      "English is teaching.",
-      "English is been taught.",
-      "English is being taught.",
-      "English is teached."
+      "The border of the shape is 40 centimeters long",
+      "The shape is made of 40 different lines",
+      "You can fit exactly 40 squares of 1cm by 1cm inside the shape",
+      "The shape must be a 20cm by 20cm square"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Passive Voice",
-    "complexity_score": 1
+    "topic": "Conceptual Understanding of Area",
+    "complexity_score": 2
   },
   {
-    "question": "Which sentence correctly translates 'Maine usse baat nahi ki thi'?",
-    "correct": "I had not talked to her.",
+    "question": "Why don't we use 'square units' when measuring perimeter?",
+    "correct": "Perimeter only measures length, which is one-dimensional",
     "options": [
-      "I did not talk to her.",
-      "I have not talked to her.",
-      "I had not talked to her.",
-      "I was not talking to her."
+      "Because perimeter is always smaller than area",
+      "It's just a rule in math with no reason",
+      "Perimeter only measures length, which is one-dimensional",
+      "Because only squares can have square units"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Past Perfect Tense",
-    "complexity_score": 1
+    "topic": "Perimeter vs. Area Units",
+    "complexity_score": 2
   },
   {
-    "question": "How do you correctly say 'Main khelna chahunga'?",
-    "correct": "I would like to play.",
+    "question": "How many centimeters are there in 5 meters?",
+    "correct": "500 centimeters",
     "options": [
-      "I will like to play.",
-      "I want to play.",
-      "I can play.",
-      "I would like to play."
+      "50 centimeters",
+      "5000 centimeters",
+      "0.05 centimeters",
+      "500 centimeters"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Modals (Polite Expression)",
+    "topic": "Unit Conversion",
     "complexity_score": 1
   },
   {
-    "question": "The teacher explained the difference between 'maine Taj Mahal dekha' (I saw the Taj Mahal) and 'maine Taj Mahal dekha hai' (I have seen the Taj Mahal). When is 'I have seen the Taj Mahal' the better choice?",
-    "correct": "When you are talking about a past experience that has relevance to the present.",
+    "question": "Saksham calculated the area of a touchpad (12.5cm by 8.5cm) as 106.25. What was missing from his initial answer?",
+    "correct": "The correct unit, 'centimeter square'",
     "options": [
-      "Only when you saw it yesterday.",
-      "When you are talking about a past experience that has relevance to the present.",
-      "When you are telling a story that happened a long time ago.",
-      "There is no difference; they mean the same thing."
+      "He should have rounded the number",
+      "The calculation was incorrect",
+      "He forgot to add the perimeter",
+      "The correct unit, 'centimeter square'"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Simple Past vs. Present Perfect",
-    "complexity_score": 2
-  },
-  {
-    "question": "Complete the sentence based on the class drill: 'Jab main school pahunchi, sir ____.'",
-    "correct": "had already gone",
-    "options": [
-      "already went",
-      "was already going",
-      "has already gone",
-      "had already gone"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Past Perfect Tense",
-    "complexity_score": 2
-  },
-  {
-    "question": "Based on the teacher's explanation to Anaya, the Future Perfect tense ('will have') is used to describe an action that...",
-    "correct": "will be completed at some point in the future.",
-    "options": [
-      "is happening in the future.",
-      "might happen in the future.",
-      "will be completed at some point in the future.",
-      "was planned in the past for the future."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Future Perfect Tense",
-    "complexity_score": 2
-  },
-  {
-    "question": "How would you correctly complete this conditional sentence drilled in class: 'If I were the prime minister, I ____ English.'?",
-    "correct": "would ban",
-    "options": [
-      "will ban",
-      "would ban",
-      "would have banned",
-      "banned"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Conditional Sentences (Type 2)",
-    "complexity_score": 2
-  },
-  {
-    "question": "During the review of Saksham's homework, the teacher corrected the sentence 'She finished her homework.' to the Present Perfect tense. What is the correct Present Perfect version?",
-    "correct": "She has finished her homework.",
-    "options": [
-      "She is finishing her homework.",
-      "She finishes her homework.",
-      "She has finished her homework.",
-      "She had finished her homework."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Present Perfect Tense",
-    "complexity_score": 2
-  },
-  {
-    "question": "The sentence 'Jab main chhota tha, main ped chadh sakta tha' was translated as 'When I was younger, I used to climb the tree.' What does 'used to' imply?",
-    "correct": "A repeated action or habit in the past that is no longer true.",
-    "options": [
-      "A single event that happened in the past.",
-      "Something you were forced to do in the past.",
-      "A repeated action or habit in the past that is no longer true.",
-      "Something you are still doing now."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Modals (Past Habits)",
-    "complexity_score": 2
-  },
-  {
-    "question": "Which sentence correctly translates 'Main laptop repair karwa dunga'?",
-    "correct": "I will get the laptop repaired.",
-    "options": [
-      "I will repair the laptop.",
-      "I can repair the laptop.",
-      "I will get the laptop repaired.",
-      "The laptop will repair me."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Causative Verbs",
-    "complexity_score": 2
-  },
-  {
-    "question": "In Saksham's homework, he was asked to 'express a possibility about rain tomorrow.' Which of the following sentences uses a modal to correctly express possibility?",
-    "correct": "It might rain tomorrow.",
-    "options": [
-      "It will rain tomorrow.",
-      "It must rain tomorrow.",
-      "It might rain tomorrow.",
-      "It has to rain tomorrow."
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Modals (Possibility)",
-    "complexity_score": 2
-  },
-  {
-    "question": "The teacher corrected a sentence in Anaya's story from '...and will have come tomorrow' to '...and would come tomorrow.' Why was 'would' the correct choice?",
-    "correct": "Because the entire story was being told from a past perspective.",
-    "options": [
-      "Because 'will have' is only for questions.",
-      "Because the entire story was being told from a past perspective.",
-      "Because 'would' is a stronger form of 'will'.",
-      "Because the friend might not come back."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Narrative Tense Consistency",
+    "topic": "Application of Units",
     "complexity_score": 3
   },
   {
-    "question": "In Saksham's homework, he wrote 'Why on earth is homework given?' to 'express a strong obligation.' The teacher said this showed frustration, not obligation. Which sentence correctly expresses a strong obligation?",
-    "correct": "You must complete your homework.",
+    "question": "What strategy was taught for finding the area of a complex shape that isn't a simple rectangle or square?",
+    "correct": "Cut it into smaller, simpler shapes like rectangles and triangles and add their areas",
     "options": [
-      "You should probably do your homework.",
-      "I feel like you could do your homework.",
-      "Why is homework so difficult?",
-      "You must complete your homework."
+      "Estimate the area by looking at it",
+      "Measure only the longest sides",
+      "Cut it into smaller, simpler shapes like rectangles and triangles and add their areas",
+      "Find the perimeter and divide by four"
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Modals (Obligation)",
+    "topic": "Problem-Solving Strategy",
+    "complexity_score": 4
+  },
+  {
+    "question": "In the word problem, why was it necessary to convert the floor's measurements from meters to centimeters before proceeding?",
+    "correct": "Because the tile's dimensions were given in centimeters, and units must be consistent for calculation",
+    "options": [
+      "Because centimeters are more accurate than meters",
+      "Because the floor's area would be too small in meters",
+      "It was not necessary, you could have converted the tile to meters instead",
+      "Because the tile's dimensions were given in centimeters, and units must be consistent for calculation"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Unit Consistency",
+    "complexity_score": 4
+  },
+  {
+    "question": "A square tile measures 20cm by 20cm. What is its area?",
+    "correct": "400 cm²",
+    "options": [
+      "80 cm",
+      "400 cm²",
+      "40 cm²",
+      "200 cm"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Area Calculation Application",
     "complexity_score": 3
   },
   {
-    "question": "Complete the complex conditional sentence from the class drill: 'If I had known that you are a vegetarian, I ____ pulao.'",
-    "correct": "would have made",
+    "question": "The tutor explained that area is two-dimensional. How does this relate to the unit 'cm²'?",
+    "correct": "The '2' represents the two dimensions being multiplied: length and breadth",
     "options": [
-      "will make",
-      "would make",
-      "would have made",
-      "made"
+      "The '2' means you must multiply the answer by two",
+      "The '2' represents the two dimensions being multiplied: length and breadth",
+      "The '2' is a reminder that there are two shapes",
+      "The '2' means the shape must have at least two straight sides"
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Conditional Sentences (Type 3)",
+    "topic": "Dimensionality and Units",
+    "complexity_score": 5
+  },
+  {
+    "question": "If a painter needs to cover a wall with an area of 50 square meters, what does this number tell them?",
+    "correct": "How much surface needs to be covered with paint",
+    "options": [
+      "The height of the wall is 50 meters",
+      "The length of the wall is 50 meters",
+      "How much surface needs to be covered with paint",
+      "They will need exactly 50 liters of paint"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Real-World Application",
     "complexity_score": 3
   },
   {
-    "question": "The teacher gave an example: 'Suppose you have made a PPT... your teacher is asking, \"How did you make it?\" You can say, \"I used a laptop\" or \"I have used a laptop.\"' What is the most likely reason both could be correct in this context?",
-    "correct": "One focuses on the past action itself, while the other connects the past action to the present result (the PPT).",
+    "question": "To find how many 400 cm² tiles are needed for a 1,000,000 cm² floor, what is the correct final step?",
+    "correct": "Divide the total floor area by the area of one tile",
     "options": [
-      "There is no real difference, it's just personal preference.",
-      "One is for formal situations, and the other is for informal situations.",
-      "One focuses on the past action itself, while the other connects the past action to the present result (the PPT).",
-      "You can only say 'I have used' if you still own the laptop."
+      "Multiply the floor area by the tile area",
+      "Subtract the tile area from the floor area",
+      "Add the two areas together",
+      "Divide the total floor area by the area of one tile"
     ],
-    "difficulty": "hard",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Nuances of Tense Usage",
+    "topic": "Multi-Step Problem Solving",
+    "complexity_score": 4
+  },
+  {
+    "question": "Anaya correctly found the area of a complex shape by calculating the areas of two triangles (6 and 4 square units) and adding them. What was the total area?",
+    "correct": "10 square units",
+    "options": [
+      "24 square units",
+      "10 square units",
+      "10 units",
+      "2 units"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Decomposition Application",
     "complexity_score": 3
   },
   {
-    "question": "The teacher corrected Saksham's sentence: 'While I was walking to school yesterday, I saw a rainbow. I have never seen such a beautiful rainbow before.' The correction was to change 'have never seen' to 'had never seen.' Why is this correction necessary for grammatical consistency?",
-    "correct": "Because the entire context is in the past ('was walking', 'saw'), so the experience of 'never seeing' must also be anchored in the past.",
+    "question": "A student calculates the area of a room as 15 square meters. They want to buy tiles measured in centimeters. What is the most likely error they could make if they are not careful?",
+    "correct": "Forgetting to convert one of the units (meters or centimeters) before calculating",
     "options": [
-      "Because 'have' can never be used with the word 'never'.",
-      "Because the entire context is in the past ('was walking', 'saw'), so the experience of 'never seeing' must also be anchored in the past.",
-      "Because the rainbow is no longer visible.",
-      "Because Present Perfect is only for things that happened this week."
+      "Calculating the perimeter instead of area",
+      "Forgetting to convert one of the units (meters or centimeters) before calculating",
+      "Using addition instead of multiplication",
+      "Measuring the room incorrectly"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Tense Consistency",
-    "complexity_score": 3
+    "topic": "Critical Thinking in Application",
+    "complexity_score": 6
   },
   {
-    "question": "Anaya made a mistake by saying 'English is being teached.' The correct verb form is 'taught.' This sentence structure is known as the Present Continuous Passive. What does it describe?",
-    "correct": "An action that is currently being done to the subject.",
+    "question": "A square has a perimeter of 20 cm. What is its area?",
+    "correct": "25 cm²",
     "options": [
-      "An action that the subject is doing right now.",
-      "An action that was done to the subject in the past.",
-      "An action that is currently being done to the subject.",
-      "An action that will be done to the subject in the future."
+      "20 cm²",
+      "100 cm²",
+      "25 cm²",
+      "400 cm²"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Passive Voice Structure",
-    "complexity_score": 3
+    "topic": "Two-Step Problem Solving",
+    "complexity_score": 7
+  },
+  {
+    "question": "Based on the logic that a 2D area uses 'square units' (like cm²), what unit would you logically expect for the 3D volume of a box (length x breadth x height)?",
+    "correct": "Cubic units (like cm³)",
+    "options": [
+      "Triple units (like 3cm)",
+      "Area units (like cm²)",
+      "Perimeter units (like cm)",
+      "Cubic units (like cm³)"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Extrapolating Concepts",
+    "complexity_score": 8
+  },
+  {
+    "question": "If you double the length of a rectangle but keep its breadth the same, what happens to its area?",
+    "correct": "The area doubles",
+    "options": [
+      "The area stays the same",
+      "The area quadruples (becomes 4x larger)",
+      "The area is halved",
+      "The area doubles"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Proportional Reasoning",
+    "complexity_score": 7
+  },
+  {
+    "question": "A rectangular garden is 10 meters long and 4 meters wide. You want to cover it with square tiles that are 50cm on each side. How many tiles will you need?",
+    "correct": "160",
+    "options": [
+      "80",
+      "160",
+      "40",
+      "200"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Multi-Step Problem with Conversion",
+    "complexity_score": 8
+  },
+  {
+    "question": "Two rectangles both have a perimeter of 18 cm. Rectangle A is 8cm by 1cm. Rectangle B is 5cm by 4cm. Which statement is true?",
+    "correct": "Rectangle B has a larger area than Rectangle A.",
+    "options": [
+      "Rectangle A has a larger area than Rectangle B.",
+      "Both rectangles have the same area.",
+      "Rectangle B has a larger area than Rectangle A.",
+      "It's impossible to determine their areas from their perimeters."
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Analysis of Area vs. Perimeter",
+    "complexity_score": 8
   }
 ]
