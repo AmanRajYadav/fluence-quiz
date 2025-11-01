@@ -1,282 +1,282 @@
 [
   {
-    "question": "Which tense is primarily used to describe habits and daily routines, often ending with 'ta hai' or 'ti hai' in Hindi?",
-    "correct": "Present Simple",
+    "question": "Which sentence correctly describes an action happening right now (Present Continuous)?",
+    "correct": "He is playing cricket.",
     "options": [
-      "Past Simple",
-      "Future Simple",
-      "Present Simple",
-      "Present Continuous"
+      "He plays cricket.",
+      "He was playing cricket.",
+      "He is playing cricket.",
+      "He will play cricket."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Present Simple Tense",
+    "topic": "Grammar: Tenses",
     "complexity_score": 1
   },
   {
-    "question": "According to the lesson, which subject group requires you to add 's' or 'es' to the verb in a Present Simple affirmative sentence?",
-    "correct": "He, She, It, Name",
+    "question": "In the past, what did Madhubani artists primarily use to make colors?",
+    "correct": "Natural resources like leaves and flowers.",
     "options": [
-      "I, We",
-      "You, They",
-      "He, She, It, Name",
-      "All plural subjects"
+      "Paint purchased from shops.",
+      "Chemical dyes and inks.",
+      "Natural resources like leaves and flowers.",
+      "Crushed colored stones."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Present Simple Tense",
+    "topic": "English: Colors of the Earth",
     "complexity_score": 1
   },
   {
-    "question": "In a Past Simple affirmative sentence, which form of the verb is used?",
-    "correct": "The second form (V2)",
+    "question": "Which helping verb is used for the Past Simple tense in negative sentences?",
+    "correct": "Did",
     "options": [
-      "The first form (V1)",
-      "The second form (V2)",
-      "The third form (V3)",
-      "The first form + 'ing'"
+      "Had",
+      "Was",
+      "Did",
+      "Does"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Past Simple Tense",
+    "topic": "Grammar: Tenses",
     "complexity_score": 1
   },
   {
-    "question": "What helping verb is used to form a simple sentence about the future?",
-    "correct": "will",
+    "question": "What is a 'balanced diet'?",
+    "correct": "A diet that provides all essential nutrients in the right quantity.",
     "options": [
-      "do",
-      "did",
-      "is",
-      "will"
+      "A diet that only contains fruits and vegetables.",
+      "A diet that avoids all fats and sugars.",
+      "A diet that provides all essential nutrients in the right quantity.",
+      "Eating only junk food in small amounts."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Future Simple Tense",
+    "topic": "Science: Food & Health",
     "complexity_score": 1
   },
   {
-    "question": "The helping verbs 'do' and 'does' are used to make negative and interrogative sentences in which tense?",
-    "correct": "Present Simple",
+    "question": "Which sentence correctly describes an action that was happening in the past (Past Continuous)?",
+    "correct": "We were playing.",
     "options": [
-      "Past Simple",
-      "Present Simple",
-      "Future Simple",
-      "Past Continuous"
+      "We are playing.",
+      "We played.",
+      "We will be playing.",
+      "We were playing."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Present Simple Tense",
+    "topic": "Grammar: Tenses",
     "complexity_score": 1
   },
   {
-    "question": "What is the key difference between questions starting with 'Do/Does/Did' and questions starting with 'What/Where/Why'?",
-    "correct": "'Do/Does/Did' questions can be answered with 'Yes' or 'No', while 'What/Where/Why' questions require more information.",
+    "question": "According to the lesson, what are 'food miles'?",
+    "correct": "The distance food travels from where it is produced to the consumer.",
     "options": [
-      "'What/Where/Why' questions are only for the past tense.",
-      "'Do/Does/Did' questions are only for the present tense.",
-      "'Do/Does/Did' questions can be answered with 'Yes' or 'No', while 'What/Where/Why' questions require more information.",
-      "There is no difference in the type of answer they require."
+      "The time it takes to cook a meal.",
+      "The amount of food a family eats in a mile-long trip.",
+      "The calories burned while shopping for food.",
+      "The distance food travels from where it is produced to the consumer."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Interrogative Sentences",
+    "topic": "Science: Food & Health",
     "complexity_score": 1
   },
   {
-    "question": "Choose the correct sentence based on the rules discussed.",
-    "correct": "He plays football.",
+    "question": "The sentence 'We doesn't play' is incorrect. What is the correct form and why?",
+    "correct": "'We don't play,' because 'don't' is used with 'We'.",
     "options": [
-      "He play football.",
-      "He plays football.",
-      "They plays football.",
-      "We plays football."
+      "'We didn't play,' because it should be in the past tense.",
+      "'We isn't playing,' because 'play' needs '-ing'.",
+      "'We don't play,' because 'don't' is used with 'We'.",
+      "The sentence is already correct."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Present Simple Tense",
+    "topic": "Grammar: Tenses",
     "complexity_score": 2
   },
   {
-    "question": "Choose the correct negative sentence for the Past Simple tense.",
-    "correct": "I didn't go to the market.",
+    "question": "How did education help the female Madhubani artists mentioned in the chapter?",
+    "correct": "It helped them manage the commercial aspects of selling their art.",
     "options": [
-      "I didn't went to the market.",
-      "I don't went to the market.",
-      "I didn't go to the market.",
-      "I did go not to the market."
+      "It taught them how to mix new chemical colors.",
+      "It allowed them to stop painting and get office jobs.",
+      "It helped them manage the commercial aspects of selling their art.",
+      "It provided them with free art supplies from the government."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Past Simple Tense",
+    "topic": "English: Colors of the Earth",
     "complexity_score": 2
   },
   {
-    "question": "Which sentence correctly uses the helping verb 'does'?",
-    "correct": "Kavya does not fight.",
+    "question": "Choose the correct negative question form for 'You played cricket.' in the Past Simple tense.",
+    "correct": "Did you not play cricket?",
     "options": [
-      "We does not celebrate.",
-      "I does not write.",
-      "Kavya does not fight.",
-      "They does not study."
+      "Did you don't play cricket?",
+      "Had you not played cricket?",
+      "Did you not play cricket?",
+      "Do you not played cricket?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Present Simple Tense",
+    "topic": "Grammar: Tenses",
     "complexity_score": 2
   },
   {
-    "question": "The sentence is: 'I ate a mango.' How would you make this sentence negative?",
-    "correct": "I did not eat a mango.",
+    "question": "Why are millets called 'nutri-cereals'?",
+    "correct": "They provide most of the nutrients required for the body's normal functioning.",
     "options": [
-      "I do not ate a mango.",
-      "I did not ate a mango.",
-      "I not ate a mango.",
-      "I did not eat a mango."
+      "Because they taste very nutritious.",
+      "They are a type of cereal eaten only by nutritionists.",
+      "They provide most of the nutrients required for the body's normal functioning.",
+      "Because they can only grow in nutrient-rich soil."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Past Simple Tense",
+    "topic": "Science: Food & Health",
     "complexity_score": 2
   },
   {
-    "question": "If 'We go' is correct, which of the following is also correct based on the same rule?",
-    "correct": "They fight.",
+    "question": "What is the key difference between the sentences 'I played cricket' (Past Simple) and 'I was playing cricket' (Past Continuous)?",
+    "correct": "Past Simple is a completed action, while Past Continuous was an ongoing action.",
     "options": [
-      "He go.",
-      "She go.",
-      "They fight.",
-      "Kavya fight."
+      "There is no real difference in meaning.",
+      "Past Simple is a completed action, while Past Continuous was an ongoing action.",
+      "Past Continuous happened more recently than Past Simple.",
+      "Past Simple is for team sports, Past Continuous is for individual sports."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Present Simple Tense",
+    "topic": "Grammar: Tenses",
     "complexity_score": 2
   },
   {
-    "question": "Select the grammatically correct question.",
-    "correct": "Do you live in India?",
+    "question": "In Suman-Vati's story, her art was a 'source of joy' primarily because it...",
+    "correct": "helped her overcome financial difficulties and support her family.",
     "options": [
-      "You do live in India?",
-      "Does you live in India?",
-      "Do you lives in India?",
-      "Do you live in India?"
+      "won her a famous art competition.",
+      "was a relaxing hobby she did in her free time.",
+      "helped her overcome financial difficulties and support her family.",
+      "made her famous in her village."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Interrogative Sentences",
+    "topic": "English: Colors of the Earth",
     "complexity_score": 2
   },
   {
-    "question": "Which sentence correctly forms a question about a past event?",
-    "correct": "Did you open the gate?",
+    "question": "How do modern cooking methods differ from the traditional ones discussed, like using a 'chulha'?",
+    "correct": "Modern methods use fuels like LPG and electricity instead of firewood.",
     "options": [
-      "Did you opened the gate?",
-      "Do you opened the gate?",
-      "You did open the gate?",
-      "Did you open the gate?"
+      "Modern methods make food taste less traditional.",
+      "Traditional methods were much faster than modern ones.",
+      "Modern methods use fuels like LPG and electricity instead of firewood.",
+      "Traditional methods did not require any heat source."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Past Simple Tense",
+    "topic": "Science: Food & Health",
     "complexity_score": 2
   },
   {
-    "question": "The tutor explained that after using 'did', the verb returns to its first form (V1). Which option correctly applies this rule?",
-    "correct": "He did not study.",
+    "question": "The Future Continuous tense ('I will be playing') is used to describe...",
+    "correct": "an action that will be in progress at a specific time in the future.",
     "options": [
-      "He did not studied.",
-      "He did not study.",
-      "He did studied not.",
-      "He not studied."
+      "a plan that has just been made.",
+      "a completed action in the future.",
+      "an action that will be in progress at a specific time in the future.",
+      "a guess about what someone is doing now."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Past Simple Tense",
+    "topic": "Grammar: Tenses",
     "complexity_score": 2
   },
   {
-    "question": "Based on the transcript, which of these WH-questions is structured correctly?",
-    "correct": "Where does he live?",
+    "question": "If a student says 'I had not played cricket' instead of 'I did not play cricket', what tense are they incorrectly using?",
+    "correct": "Past Perfect",
     "options": [
-      "What he does play?",
-      "Where does he live?",
-      "Why he does not play cricket?",
-      "Which movie you see?"
+      "Present Perfect",
+      "Past Continuous",
+      "Future Perfect",
+      "Past Perfect"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Interrogative Sentences",
+    "topic": "Grammar: Tenses",
     "complexity_score": 3
   },
   {
-    "question": "Kavya made the mistake 'We teaches.' This error likely comes from incorrectly applying which rule?",
-    "correct": "Over-applying the 's'/'es' rule for third-person singular to a first-person plural subject.",
+    "question": "Based on the lesson, what is the underlying principle that connects 'supporting local artists' and 'reducing food miles'?",
+    "correct": "Both promote consuming locally-produced goods to support the local community and economy.",
     "options": [
-      "Confusing the Past Simple and Present Simple tenses.",
-      "Forgetting to use a helping verb.",
-      "Over-applying the 's'/'es' rule for third-person singular to a first-person plural subject.",
-      "Using the wrong verb form."
+      "Both are ways to save money on daily expenses.",
+      "Both are activities related to arts and crafts.",
+      "Both are primarily focused on environmental protection.",
+      "Both promote consuming locally-produced goods to support the local community and economy."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Present Simple Tense",
+    "topic": "Cross-Disciplinary Thinking",
     "complexity_score": 3
   },
   {
-    "question": "If the affirmative sentence is 'She studies English,' what is the correct negative interrogative form?",
-    "correct": "Does she not study English?",
+    "question": "The tutor explains that all tenses shouldn't be taught on the same day for the 'brain to process'. This learning principle is related to the concept of...",
+    "correct": "Spaced Repetition, allowing time for consolidation.",
     "options": [
-      "Do she not study English?",
-      "Does she not studies English?",
-      "Does she not study English?",
-      "She does not study English?"
+      "Learning everything at once to be more efficient.",
+      "Focusing only on the hardest topics first.",
+      "Spaced Repetition, allowing time for consolidation.",
+      "Avoiding topics that the student dislikes."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Interrogative Sentences",
+    "topic": "Metacognition & Learning",
     "complexity_score": 3
   },
   {
-    "question": "The tutor mixes tenses in the final game. If the question is 'Aap kya padhte ho?', what is the correct English translation?",
-    "correct": "What do you study?",
+    "question": "A 'deficiency disease' like scurvy is caused by what?",
+    "correct": "A long-term lack of a specific nutrient in the diet.",
     "options": [
-      "What did you study?",
-      "What will you study?",
-      "What do you study?",
-      "What are you studying?"
+      "Eating too much junk food in one day.",
+      "A long-term lack of a specific nutrient in the diet.",
+      "Not exercising enough.",
+      "Cooking food using traditional methods."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Mixed Tenses",
+    "topic": "Science: Food & Health",
     "complexity_score": 3
   },
   {
-    "question": "Consider the three sentences: 1. He plays. 2. He played. 3. He will play. Which sentence represents the Past Simple tense?",
-    "correct": "He played.",
+    "question": "In the sentence 'She doesn't play', why is 'doesn't' used instead of 'don't'?",
+    "correct": "'Doesn't' is used with third-person singular subjects like 'He', 'She', and 'It'.",
     "options": [
-      "He plays.",
-      "He will play.",
-      "He played.",
-      "None of the above."
+      "Because the action is happening in the present.",
+      "'Doesn't' is more formal than 'don't'.",
+      "It's a mistake; it should be 'She don't play'.",
+      "'Doesn't' is used with third-person singular subjects like 'He', 'She', and 'It'."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Mixed Tenses",
+    "topic": "Grammar: Tenses",
     "complexity_score": 3
   },
   {
-    "question": "The sentence is 'Why does he not play cricket?'. What crucial grammar rule does this sentence follow?",
-    "correct": "In a WH-question, the helping verb comes before the subject.",
+    "question": "The format of a diary entry was discussed. What is the main purpose of the 'body' of a diary entry?",
+    "correct": "To express personal feelings and experiences from the day.",
     "options": [
-      "The main verb must always have an 's' with 'he'.",
-      "In a WH-question, the helping verb comes before the subject.",
-      "Negative questions are not allowed in the present tense.",
-      "The word 'not' must always come after the main verb."
+      "To list all the facts learned during the day.",
+      "To write a formal report for a teacher.",
+      "To express personal feelings and experiences from the day.",
+      "To create a schedule for the next day."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Interrogative Sentences",
+    "topic": "English: Writing Skills",
     "complexity_score": 3
   }
 ]
