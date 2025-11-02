@@ -1,282 +1,282 @@
 [
   {
-    "question": "What does the term 'perimeter' refer to?",
-    "correct": "The length of the border of a shape",
+    "question": "According to the class discussion, what are the three main types of food groups?",
+    "correct": "Energy-giving, body-building, and protective foods",
     "options": [
-      "The space inside a shape",
-      "The number of corners a shape has",
-      "The length of the border of a shape",
-      "The formula for calculating a shape's size"
+      "Carbohydrates, fats, and proteins",
+      "Vitamins, minerals, and water",
+      "Energy-giving, body-building, and protective foods",
+      "Starch, sugar, and cellulose"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Perimeter and Area Definitions",
+    "topic": "Food Components",
     "complexity_score": 1
   },
   {
-    "question": "According to the lesson, what is the formula for the area of a rectangle?",
-    "correct": "Length multiplied by breadth",
+    "question": "A deficiency of which vitamin leads to a condition called 'night blindness'?",
+    "correct": "Vitamin A",
     "options": [
-      "Length plus breadth",
-      "Length multiplied by breadth",
-      "Two times length plus two times breadth",
-      "Length divided by breadth"
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin A",
+      "Vitamin K"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Area Formula",
+    "topic": "Vitamins and Minerals",
     "complexity_score": 1
   },
   {
-    "question": "A rectangle on a grid has a length of 5 units and a breadth of 4 units. What is its area?",
-    "correct": "20 square units",
+    "question": "The teacher corrected the spelling of 'sharp'. What is the correct spelling?",
+    "correct": "S-H-A-R-P",
     "options": [
-      "18 units",
-      "9 square units",
-      "20 square units",
-      "20 units"
+      "S-H-A-R-P-E",
+      "S-H-A-R-P",
+      "S-H-A-R-P-P",
+      "S-H-A-R-P-H"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Basic Area Calculation",
+    "topic": "English Grammar & Spelling",
     "complexity_score": 1
   },
   {
-    "question": "What is the physical meaning of an area of '40 square centimeters'?",
-    "correct": "You can fit exactly 40 squares of 1cm by 1cm inside the shape",
+    "question": "A lack of Iodine in the diet can cause a swelling in the neck region. What is this condition called?",
+    "correct": "Goitre",
     "options": [
-      "The border of the shape is 40 centimeters long",
-      "The shape is made of 40 different lines",
-      "You can fit exactly 40 squares of 1cm by 1cm inside the shape",
-      "The shape must be a 20cm by 20cm square"
+      "Anemia",
+      "Scurvy",
+      "Goitre",
+      "Marasmus"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Conceptual Understanding of Area",
+    "topic": "Vitamins and Minerals",
+    "complexity_score": 1
+  },
+  {
+    "question": "Which of these is a key function of Vitamin K discussed in the lesson?",
+    "correct": "Helps in blood clotting",
+    "options": [
+      "Improves eyesight",
+      "Strengthens bones",
+      "Helps in digestion",
+      "Helps in blood clotting"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "Vitamins and Minerals",
+    "complexity_score": 1
+  },
+  {
+    "question": "The sentence 'Science help us' was corrected. What is the grammatically correct version?",
+    "correct": "Science helps us",
+    "options": [
+      "Science is helping us",
+      "Science helped us",
+      "Sciences help us",
+      "Science helps us"
+    ],
+    "difficulty": "easy",
+    "questionType": "mcq",
+    "topic": "English Grammar & Spelling",
+    "complexity_score": 1
+  },
+  {
+    "question": "The lesson mentioned two reasons why fats are important. One is that they provide energy. What was the other reason?",
+    "correct": "They act as a cushion for delicate organs",
+    "options": [
+      "They help build muscles",
+      "They fight diseases",
+      "They improve memory",
+      "They act as a cushion for delicate organs"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Food Components",
     "complexity_score": 2
   },
   {
-    "question": "Why don't we use 'square units' when measuring perimeter?",
-    "correct": "Perimeter only measures length, which is one-dimensional",
+    "question": "The teacher used the mnemonic 'PK' to remember a specific deficiency disease. What did 'PK' stand for?",
+    "correct": "Protein deficiency leads to Kwashiorkor",
     "options": [
-      "Because perimeter is always smaller than area",
-      "It's just a rule in math with no reason",
-      "Perimeter only measures length, which is one-dimensional",
-      "Because only squares can have square units"
+      "Potassium deficiency leads to Kwashiorkor",
+      "Protein deficiency leads to Kwashiorkor",
+      "Phosphate deficiency causes Keratosis",
+      "Protein and Kalium deficiency"
     ],
-    "difficulty": "easy",
+    "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Perimeter vs. Area Units",
+    "topic": "Vitamins and Minerals",
     "complexity_score": 2
   },
   {
-    "question": "How many centimeters are there in 5 meters?",
-    "correct": "500 centimeters",
+    "question": "In the story about the girl selling ice cream, what was the first problem she faced in the market?",
+    "correct": "Everyone ignored her and did not buy her ice cream",
     "options": [
-      "50 centimeters",
-      "5000 centimeters",
-      "0.05 centimeters",
-      "500 centimeters"
-    ],
-    "difficulty": "easy",
-    "questionType": "mcq",
-    "topic": "Unit Conversion",
-    "complexity_score": 1
-  },
-  {
-    "question": "Saksham calculated the area of a touchpad (12.5cm by 8.5cm) as 106.25. What was missing from his initial answer?",
-    "correct": "The correct unit, 'centimeter square'",
-    "options": [
-      "He should have rounded the number",
-      "The calculation was incorrect",
-      "He forgot to add the perimeter",
-      "The correct unit, 'centimeter square'"
+      "She ran out of pineapples",
+      "Her ice cream melted too quickly",
+      "Another seller copied her idea",
+      "Everyone ignored her and did not buy her ice cream"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Application of Units",
+    "topic": "English Comprehension",
+    "complexity_score": 2
+  },
+  {
+    "question": "What key difference between starch and cellulose was highlighted during the quiz?",
+    "correct": "Starch is soluble in water, while cellulose is insoluble",
+    "options": [
+      "Starch comes from animals, cellulose from plants",
+      "Starch has a taste, while cellulose does not",
+      "Starch is soluble in water, while cellulose is insoluble",
+      "Starch provides structure, while cellulose provides energy"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Food Components",
+    "complexity_score": 2
+  },
+  {
+    "question": "The teacher suggested an improvement for the sentence 'If I can make any robot, I will add to understand emotions.' What was the suggested improvement?",
+    "correct": "I will make it to understand emotions",
+    "options": [
+      "I will add emotional understanding",
+      "I will make it to understand emotions",
+      "I will add emotions to it",
+      "It will have an emotion adder"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "English Grammar & Spelling",
+    "complexity_score": 2
+  },
+  {
+    "question": "A person with bleeding gums and loose teeth is likely suffering from scurvy. This indicates a deficiency of which vitamin?",
+    "correct": "Vitamin C",
+    "options": [
+      "Vitamin A",
+      "Vitamin B1",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Vitamins and Minerals",
+    "complexity_score": 2
+  },
+  {
+    "question": "The teacher explained that Vitamin B1 has two important functions. What are they?",
+    "correct": "Aids in digestion and maintains the nervous system",
+    "options": [
+      "Helps blood clot and builds strong bones",
+      "Aids in digestion and maintains the nervous system",
+      "Improves vision and protects skin",
+      "Provides energy and helps in muscle growth"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "Vitamins and Minerals",
+    "complexity_score": 2
+  },
+  {
+    "question": "In the story, what did the girl observe other marketers doing that gave her an idea to sell her own ice cream successfully?",
+    "correct": "Drawing pictures of their items and writing offers",
+    "options": [
+      "Shouting louder than everyone else",
+      "Giving away free samples",
+      "Drawing pictures of their items and writing offers",
+      "Lowering their prices significantly"
+    ],
+    "difficulty": "medium",
+    "questionType": "mcq",
+    "topic": "English Comprehension",
+    "complexity_score": 2
+  },
+  {
+    "question": "What is the full form of P.E.M. as explained in the class?",
+    "correct": "Protein Energy Malnutrition",
+    "options": [
+      "Protein Enzyme Mixture",
+      "Primary Energy Module",
+      "Protein Energy Malnutrition",
+      "Parental Education Method"
+    ],
+    "difficulty": "hard",
+    "questionType": "mcq",
+    "topic": "Food Components",
     "complexity_score": 3
   },
   {
-    "question": "What strategy was taught for finding the area of a complex shape that isn't a simple rectangle or square?",
-    "correct": "Cut it into smaller, simpler shapes like rectangles and triangles and add their areas",
+    "question": "A complete definition of a 'balanced diet' was given. Besides having all essential nutrients in proper amounts, what other two components must it include?",
+    "correct": "Adequate water and roughage",
     "options": [
-      "Estimate the area by looking at it",
-      "Measure only the longest sides",
-      "Cut it into smaller, simpler shapes like rectangles and triangles and add their areas",
-      "Find the perimeter and divide by four"
+      "Sugar and salt",
+      "Fats and oils",
+      "Adequate water and roughage",
+      "Extra vitamins and minerals"
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Problem-Solving Strategy",
-    "complexity_score": 4
-  },
-  {
-    "question": "In the word problem, why was it necessary to convert the floor's measurements from meters to centimeters before proceeding?",
-    "correct": "Because the tile's dimensions were given in centimeters, and units must be consistent for calculation",
-    "options": [
-      "Because centimeters are more accurate than meters",
-      "Because the floor's area would be too small in meters",
-      "It was not necessary, you could have converted the tile to meters instead",
-      "Because the tile's dimensions were given in centimeters, and units must be consistent for calculation"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Unit Consistency",
-    "complexity_score": 4
-  },
-  {
-    "question": "A square tile measures 20cm by 20cm. What is its area?",
-    "correct": "400 cm²",
-    "options": [
-      "80 cm",
-      "400 cm²",
-      "40 cm²",
-      "200 cm"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Area Calculation Application",
+    "topic": "Food Components",
     "complexity_score": 3
   },
   {
-    "question": "The tutor explained that area is two-dimensional. How does this relate to the unit 'cm²'?",
-    "correct": "The '2' represents the two dimensions being multiplied: length and breadth",
+    "question": "The disease 'marasmus' is caused by a deficiency of which two nutritional components combined?",
+    "correct": "Protein and Carbohydrates",
     "options": [
-      "The '2' means you must multiply the answer by two",
-      "The '2' represents the two dimensions being multiplied: length and breadth",
-      "The '2' is a reminder that there are two shapes",
-      "The '2' means the shape must have at least two straight sides"
+      "Vitamins and Minerals",
+      "Protein and Carbohydrates",
+      "Fats and Water",
+      "Iron and Iodine"
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Dimensionality and Units",
-    "complexity_score": 5
-  },
-  {
-    "question": "If a painter needs to cover a wall with an area of 50 square meters, what does this number tell them?",
-    "correct": "How much surface needs to be covered with paint",
-    "options": [
-      "The height of the wall is 50 meters",
-      "The length of the wall is 50 meters",
-      "How much surface needs to be covered with paint",
-      "They will need exactly 50 liters of paint"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Real-World Application",
+    "topic": "Food Components",
     "complexity_score": 3
   },
   {
-    "question": "To find how many 400 cm² tiles are needed for a 1,000,000 cm² floor, what is the correct final step?",
-    "correct": "Divide the total floor area by the area of one tile",
+    "question": "The word 'depicted' was corrected to 'derived' when describing cellulose from plants. Why is 'derived' a more scientifically accurate term in this context?",
+    "correct": "'Derived' means 'obtained from a source', while 'depicted' means 'shown in a picture'",
     "options": [
-      "Multiply the floor area by the tile area",
-      "Subtract the tile area from the floor area",
-      "Add the two areas together",
-      "Divide the total floor area by the area of one tile"
+      "'Derived' sounds more scientific than 'depicted'",
+      "'Depicted' means 'to build', while 'derived' means 'to grow'",
+      "'Derived' means 'obtained from a source', while 'depicted' means 'shown in a picture'",
+      "'Depicted' is an old word and 'derived' is the modern replacement"
     ],
-    "difficulty": "medium",
+    "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Multi-Step Problem Solving",
-    "complexity_score": 4
-  },
-  {
-    "question": "Anaya correctly found the area of a complex shape by calculating the areas of two triangles (6 and 4 square units) and adding them. What was the total area?",
-    "correct": "10 square units",
-    "options": [
-      "24 square units",
-      "10 square units",
-      "10 units",
-      "2 units"
-    ],
-    "difficulty": "medium",
-    "questionType": "mcq",
-    "topic": "Decomposition Application",
+    "topic": "English Vocabulary",
     "complexity_score": 3
   },
   {
-    "question": "A student calculates the area of a room as 15 square meters. They want to buy tiles measured in centimeters. What is the most likely error they could make if they are not careful?",
-    "correct": "Forgetting to convert one of the units (meters or centimeters) before calculating",
+    "question": "The teacher suggested improving the story narration by adding 'your own thoughts' and 'your own experience.' What is the primary goal of this feedback?",
+    "correct": "To move beyond simple summary to more personal and analytical writing",
     "options": [
-      "Calculating the perimeter instead of area",
-      "Forgetting to convert one of the units (meters or centimeters) before calculating",
-      "Using addition instead of multiplication",
-      "Measuring the room incorrectly"
+      "To make the story longer",
+      "To check if the student remembers their own life events",
+      "To move beyond simple summary to more personal and analytical writing",
+      "To practice using more 'I' statements in sentences"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Critical Thinking in Application",
-    "complexity_score": 6
+    "topic": "English Comprehension",
+    "complexity_score": 3
   },
   {
-    "question": "A square has a perimeter of 20 cm. What is its area?",
-    "correct": "25 cm²",
+    "question": "Based on the ideal percentages mentioned for a balanced diet, which nutrient should make up the largest portion of our food intake?",
+    "correct": "Carbohydrates (60%)",
     "options": [
-      "20 cm²",
-      "100 cm²",
-      "25 cm²",
-      "400 cm²"
+      "Fats (15%)",
+      "Proteins (25%)",
+      "Carbohydrates (60%)",
+      "Vitamins and Minerals"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Two-Step Problem Solving",
-    "complexity_score": 7
-  },
-  {
-    "question": "Based on the logic that a 2D area uses 'square units' (like cm²), what unit would you logically expect for the 3D volume of a box (length x breadth x height)?",
-    "correct": "Cubic units (like cm³)",
-    "options": [
-      "Triple units (like 3cm)",
-      "Area units (like cm²)",
-      "Perimeter units (like cm)",
-      "Cubic units (like cm³)"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Extrapolating Concepts",
-    "complexity_score": 8
-  },
-  {
-    "question": "If you double the length of a rectangle but keep its breadth the same, what happens to its area?",
-    "correct": "The area doubles",
-    "options": [
-      "The area stays the same",
-      "The area quadruples (becomes 4x larger)",
-      "The area is halved",
-      "The area doubles"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Proportional Reasoning",
-    "complexity_score": 7
-  },
-  {
-    "question": "A rectangular garden is 10 meters long and 4 meters wide. You want to cover it with square tiles that are 50cm on each side. How many tiles will you need?",
-    "correct": "160",
-    "options": [
-      "80",
-      "160",
-      "40",
-      "200"
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Multi-Step Problem with Conversion",
-    "complexity_score": 8
-  },
-  {
-    "question": "Two rectangles both have a perimeter of 18 cm. Rectangle A is 8cm by 1cm. Rectangle B is 5cm by 4cm. Which statement is true?",
-    "correct": "Rectangle B has a larger area than Rectangle A.",
-    "options": [
-      "Rectangle A has a larger area than Rectangle B.",
-      "Both rectangles have the same area.",
-      "Rectangle B has a larger area than Rectangle A.",
-      "It's impossible to determine their areas from their perimeters."
-    ],
-    "difficulty": "hard",
-    "questionType": "mcq",
-    "topic": "Analysis of Area vs. Perimeter",
-    "complexity_score": 8
+    "topic": "Food Components",
+    "complexity_score": 3
   }
 ]
