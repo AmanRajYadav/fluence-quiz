@@ -1,282 +1,282 @@
 [
   {
-    "question": "Which sentence correctly describes an action happening right now (Present Continuous)?",
-    "correct": "He is playing cricket.",
+    "question": "Which sentence correctly describes an action happening right now?",
+    "correct": "I am playing.",
     "options": [
-      "He plays cricket.",
-      "He was playing cricket.",
-      "He is playing cricket.",
-      "He will play cricket."
+      "I was playing.",
+      "I will be playing.",
+      "I am playing.",
+      "I played."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Grammar: Tenses",
+    "topic": "Continuous Tenses",
     "complexity_score": 1
   },
   {
-    "question": "In the past, what did Madhubani artists primarily use to make colors?",
-    "correct": "Natural resources like leaves and flowers.",
+    "question": "According to the lesson, what are millets also known as?",
+    "correct": "Nutri-cereals",
     "options": [
-      "Paint purchased from shops.",
-      "Chemical dyes and inks.",
-      "Natural resources like leaves and flowers.",
-      "Crushed colored stones."
+      "Super-grains",
+      "Energy-seeds",
+      "Nutri-cereals",
+      "Healthy-wheats"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "English: Colors of the Earth",
+    "topic": "Science - Nutrition",
     "complexity_score": 1
   },
   {
-    "question": "Which helping verb is used for the Past Simple tense in negative sentences?",
-    "correct": "Did",
+    "question": "The term 'food miles' refers to the:",
+    "correct": "Distance food travels from producer to consumer.",
     "options": [
-      "Had",
-      "Was",
-      "Did",
-      "Does"
+      "Time it takes to cook food.",
+      "Number of ingredients in a meal.",
+      "Distance food travels from producer to consumer.",
+      "Calories burned while eating food."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Grammar: Tenses",
+    "topic": "Science - Food Systems",
     "complexity_score": 1
   },
   {
-    "question": "What is a 'balanced diet'?",
-    "correct": "A diet that provides all essential nutrients in the right quantity.",
+    "question": "In the past, Madhubani artists used the Aparajita flower to create which color?",
+    "correct": "Blue",
     "options": [
-      "A diet that only contains fruits and vegetables.",
-      "A diet that avoids all fats and sugars.",
-      "A diet that provides all essential nutrients in the right quantity.",
-      "Eating only junk food in small amounts."
+      "Red",
+      "Green",
+      "Blue",
+      "Orange"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science: Food & Health",
+    "topic": "English - Madhubani Art",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence correctly describes an action that was happening in the past (Past Continuous)?",
-    "correct": "We were playing.",
+    "question": "What is the correct way to say 'Main kheli' in English?",
+    "correct": "I played.",
     "options": [
-      "We are playing.",
-      "We played.",
-      "We will be playing.",
-      "We were playing."
+      "I play.",
+      "I will play.",
+      "I played.",
+      "I am playing."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Grammar: Tenses",
+    "topic": "Simple Tenses",
     "complexity_score": 1
   },
   {
-    "question": "According to the lesson, what are 'food miles'?",
-    "correct": "The distance food travels from where it is produced to the consumer.",
+    "question": "Which sentence describes a traditional method of cooking mentioned in the class?",
+    "correct": "People cooked on chulhas using firewood.",
     "options": [
-      "The time it takes to cook a meal.",
-      "The amount of food a family eats in a mile-long trip.",
-      "The calories burned while shopping for food.",
-      "The distance food travels from where it is produced to the consumer."
+      "People used solar cookers.",
+      "People used microwave ovens.",
+      "People cooked on chulhas using firewood.",
+      "People used gas stoves with LPG."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science: Food & Health",
+    "topic": "Science - Cooking Methods",
     "complexity_score": 1
   },
   {
-    "question": "The sentence 'We doesn't play' is incorrect. What is the correct form and why?",
-    "correct": "'We don't play,' because 'don't' is used with 'We'.",
+    "question": "Which sentence is grammatically correct?",
+    "correct": "Does he play?",
     "options": [
-      "'We didn't play,' because it should be in the past tense.",
-      "'We isn't playing,' because 'play' needs '-ing'.",
-      "'We don't play,' because 'don't' is used with 'We'.",
-      "The sentence is already correct."
+      "Do he play?",
+      "Does he plays?",
+      "Do he plays?",
+      "Does he play?"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar: Tenses",
+    "topic": "Simple Tenses",
     "complexity_score": 2
   },
   {
-    "question": "How did education help the female Madhubani artists mentioned in the chapter?",
-    "correct": "It helped them manage the commercial aspects of selling their art.",
+    "question": "Which sentence correctly uses the word 'did' in a negative statement?",
+    "correct": "I did not play.",
     "options": [
-      "It taught them how to mix new chemical colors.",
-      "It allowed them to stop painting and get office jobs.",
-      "It helped them manage the commercial aspects of selling their art.",
-      "It provided them with free art supplies from the government."
+      "I did not played.",
+      "I did not plays.",
+      "I did not play.",
+      "I did played not."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English: Colors of the Earth",
+    "topic": "Simple Tenses",
     "complexity_score": 2
   },
   {
-    "question": "Choose the correct negative question form for 'You played cricket.' in the Past Simple tense.",
-    "correct": "Did you not play cricket?",
+    "question": "The story of Suman-Vati suggests that her art was a source of joy mainly because it:",
+    "correct": "Helped her overcome financial difficulties and support her family.",
     "options": [
-      "Did you don't play cricket?",
-      "Had you not played cricket?",
-      "Did you not play cricket?",
-      "Do you not played cricket?"
+      "Was a fun hobby she learned from her father.",
+      "Made her famous in her village.",
+      "Helped her overcome financial difficulties and support her family.",
+      "Allowed her to continue her studies."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar: Tenses",
+    "topic": "English - Comprehension",
     "complexity_score": 2
   },
   {
-    "question": "Why are millets called 'nutri-cereals'?",
-    "correct": "They provide most of the nutrients required for the body's normal functioning.",
+    "question": "Based on the lesson, how can a person help reduce food miles?",
+    "correct": "By choosing to buy food grown locally.",
     "options": [
-      "Because they taste very nutritious.",
-      "They are a type of cereal eaten only by nutritionists.",
-      "They provide most of the nutrients required for the body's normal functioning.",
-      "Because they can only grow in nutrient-rich soil."
+      "By eating less junk food.",
+      "By choosing to buy food grown locally.",
+      "By cooking food in a microwave.",
+      "By eating a balanced diet."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science: Food & Health",
+    "topic": "Science - Food Systems",
     "complexity_score": 2
   },
   {
-    "question": "What is the key difference between the sentences 'I played cricket' (Past Simple) and 'I was playing cricket' (Past Continuous)?",
-    "correct": "Past Simple is a completed action, while Past Continuous was an ongoing action.",
+    "question": "The sentence 'I will be playing' refers to an action that will be:",
+    "correct": "In progress at a specific time in the future.",
     "options": [
-      "There is no real difference in meaning.",
-      "Past Simple is a completed action, while Past Continuous was an ongoing action.",
-      "Past Continuous happened more recently than Past Simple.",
-      "Past Simple is for team sports, Past Continuous is for individual sports."
+      "Completed in the future.",
+      "Starting in the future.",
+      "In progress at a specific time in thefuture.",
+      "Finished just before a future moment."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar: Tenses",
+    "topic": "Continuous Tenses",
     "complexity_score": 2
   },
   {
-    "question": "In Suman-Vati's story, her art was a 'source of joy' primarily because it...",
-    "correct": "helped her overcome financial difficulties and support her family.",
+    "question": "Why is it important to support local artists, according to the discussion?",
+    "correct": "Because their art forms are slowly dying out due to lack of income.",
     "options": [
-      "won her a famous art competition.",
-      "was a relaxing hobby she did in her free time.",
-      "helped her overcome financial difficulties and support her family.",
-      "made her famous in her village."
+      "Because their art is more colorful than modern art.",
+      "Because they give away their art for free.",
+      "Because their art forms are slowly dying out due to lack of income.",
+      "Because they only paint pictures of animals and traditions."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English: Colors of the Earth",
+    "topic": "English - Comprehension",
     "complexity_score": 2
   },
   {
-    "question": "How do modern cooking methods differ from the traditional ones discussed, like using a 'chulha'?",
-    "correct": "Modern methods use fuels like LPG and electricity instead of firewood.",
+    "question": "Junk food is considered unhealthy primarily because it has:",
+    "correct": "High levels of sugar and fats but very few essential nutrients.",
     "options": [
-      "Modern methods make food taste less traditional.",
-      "Traditional methods were much faster than modern ones.",
-      "Modern methods use fuels like LPG and electricity instead of firewood.",
-      "Traditional methods did not require any heat source."
+      "Too many vitamins and minerals.",
+      "Too much dietary fiber and protein.",
+      "High levels of sugar and fats but very few essential nutrients.",
+      "Ingredients that are difficult to cultivate."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science: Food & Health",
+    "topic": "Science - Nutrition",
     "complexity_score": 2
   },
   {
-    "question": "The Future Continuous tense ('I will be playing') is used to describe...",
-    "correct": "an action that will be in progress at a specific time in the future.",
+    "question": "According to the diary entry format discussed, what should be written right after the date, day, and time?",
+    "correct": "The salutation, like 'Dear Diary'.",
     "options": [
-      "a plan that has just been made.",
-      "a completed action in the future.",
-      "an action that will be in progress at a specific time in the future.",
-      "a guess about what someone is doing now."
+      "Your name.",
+      "The main body of the entry.",
+      "The salutation, like 'Dear Diary'.",
+      "A title for the entry."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Grammar: Tenses",
+    "topic": "English - Writing",
     "complexity_score": 2
   },
   {
-    "question": "If a student says 'I had not played cricket' instead of 'I did not play cricket', what tense are they incorrectly using?",
-    "correct": "Past Perfect",
+    "question": "The rule 'use the first form of the verb after Did' is similar to the rule for which other words?",
+    "correct": "Do and Does",
     "options": [
-      "Present Perfect",
-      "Past Continuous",
-      "Future Perfect",
-      "Past Perfect"
+      "Is and Are",
+      "Was and Were",
+      "Do and Does",
+      "Will and Shall"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammar: Tenses",
+    "topic": "Simple Tenses",
     "complexity_score": 3
   },
   {
-    "question": "Based on the lesson, what is the underlying principle that connects 'supporting local artists' and 'reducing food miles'?",
-    "correct": "Both promote consuming locally-produced goods to support the local community and economy.",
+    "question": "If a person eats a large quantity of food every day but still suffers from a disease like scurvy, what is the most likely problem with their diet?",
+    "correct": "It is not a balanced diet and lacks specific nutrients like Vitamin C.",
     "options": [
-      "Both are ways to save money on daily expenses.",
-      "Both are activities related to arts and crafts.",
-      "Both are primarily focused on environmental protection.",
-      "Both promote consuming locally-produced goods to support the local community and economy."
+      "They are eating too much junk food.",
+      "The food has too many food miles.",
+      "It is not a balanced diet and lacks specific nutrients like Vitamin C.",
+      "They are using modern cooking methods."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Cross-Disciplinary Thinking",
+    "topic": "Science - Nutrition",
     "complexity_score": 3
   },
   {
-    "question": "The tutor explains that all tenses shouldn't be taught on the same day for the 'brain to process'. This learning principle is related to the concept of...",
-    "correct": "Spaced Repetition, allowing time for consolidation.",
+    "question": "What is the primary difference in the *source* of energy between cooking on a chulha with cow dung cakes and cooking on a gas stove?",
+    "correct": "One uses biomass energy while the other uses fossil fuel energy.",
     "options": [
-      "Learning everything at once to be more efficient.",
-      "Focusing only on the hardest topics first.",
-      "Spaced Repetition, allowing time for consolidation.",
-      "Avoiding topics that the student dislikes."
+      "One is hot and the other is cold.",
+      "One is traditional and the other is modern.",
+      "One is used in villages and the other in cities.",
+      "One uses biomass energy while the other uses fossil fuel energy."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition & Learning",
+    "topic": "Science - Cooking Methods",
     "complexity_score": 3
   },
   {
-    "question": "A 'deficiency disease' like scurvy is caused by what?",
-    "correct": "A long-term lack of a specific nutrient in the diet.",
+    "question": "The tutor heavily prompted the answer about why Suman-Vati's art is a source of joy. What does this suggest about the challenge of the question?",
+    "correct": "It required connecting personal struggle with professional success, which is a complex idea.",
     "options": [
-      "Eating too much junk food in one day.",
-      "A long-term lack of a specific nutrient in the diet.",
-      "Not exercising enough.",
-      "Cooking food using traditional methods."
+      "The answer was very long and hard to remember.",
+      "The question was written in difficult English.",
+      "It required connecting personal struggle with professional success, which is a complex idea.",
+      "The student had not read that part of the chapter."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Science: Food & Health",
+    "topic": "Metacognition",
     "complexity_score": 3
   },
   {
-    "question": "In the sentence 'She doesn't play', why is 'doesn't' used instead of 'don't'?",
-    "correct": "'Doesn't' is used with third-person singular subjects like 'He', 'She', and 'It'.",
+    "question": "Why is a diary entry a good way to write about visiting a craft fair?",
+    "correct": "It focuses on personal feelings and experiences, which are strong at such an event.",
     "options": [
-      "Because the action is happening in the present.",
-      "'Doesn't' is more formal than 'don't'.",
-      "It's a mistake; it should be 'She don't play'.",
-      "'Doesn't' is used with third-person singular subjects like 'He', 'She', and 'It'."
+      "It is the only way to write about fairs.",
+      "It focuses on personal feelings and experiences, which are strong at such an event.",
+      "It is short and easy to write.",
+      "It does not require correct grammar or spelling."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Grammar: Tenses",
+    "topic": "English - Writing",
     "complexity_score": 3
   },
   {
-    "question": "The format of a diary entry was discussed. What is the main purpose of the 'body' of a diary entry?",
-    "correct": "To express personal feelings and experiences from the day.",
+    "question": "A student writes, 'She do not understands the lesson.' Which TWO grammar rules are being broken here?",
+    "correct": "Subject-verb agreement ('She does') and using the base verb after 'does' ('understand').",
     "options": [
-      "To list all the facts learned during the day.",
-      "To write a formal report for a teacher.",
-      "To express personal feelings and experiences from the day.",
-      "To create a schedule for the next day."
+      "The tense is wrong and the pronoun is wrong.",
+      "The spelling is wrong and the punctuation is wrong.",
+      "Subject-verb agreement ('She does') and using the base verb after 'does' ('understand').",
+      "The sentence should be in the past tense and should be a question."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "English: Writing Skills",
+    "topic": "Simple Tenses",
     "complexity_score": 3
   }
 ]
