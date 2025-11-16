@@ -1,282 +1,282 @@
 [
   {
-    "question": "Which sentence correctly describes an action happening right now?",
-    "correct": "I am playing.",
+    "question": "According to the lesson, junk foods are considered unhealthy primarily because they contain high levels of sugar and what other component?",
+    "correct": "Fat",
     "options": [
-      "I was playing.",
-      "I will be playing.",
-      "I am playing.",
-      "I played."
+      "Protein",
+      "Vitamins",
+      "Fat",
+      "Dietary Fiber"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Continuous Tenses",
+    "topic": "Nutrition Basics",
     "complexity_score": 1
   },
   {
-    "question": "According to the lesson, what are millets also known as?",
-    "correct": "Nutri-cereals",
+    "question": "What is the primary function of calcium tablets given for a bone fracture?",
+    "correct": "To help in strengthening and healing bones",
     "options": [
-      "Super-grains",
-      "Energy-seeds",
-      "Nutri-cereals",
-      "Healthy-wheats"
+      "To reduce pain",
+      "To help absorb Vitamin D",
+      "To help in strengthening and healing bones",
+      "To prevent infection"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science - Nutrition",
+    "topic": "Vitamins and Minerals",
     "complexity_score": 1
   },
   {
-    "question": "The term 'food miles' refers to the:",
-    "correct": "Distance food travels from producer to consumer.",
+    "question": "Which traditional Indian cooking tool was mentioned for grinding ingredients like chutney?",
+    "correct": "Silbatta",
     "options": [
-      "Time it takes to cook food.",
-      "Number of ingredients in a meal.",
-      "Distance food travels from producer to consumer.",
-      "Calories burned while eating food."
+      "Mixer-grinder",
+      "Gas stove",
+      "Silbatta",
+      "Chulha"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science - Food Systems",
+    "topic": "Culinary Practices",
     "complexity_score": 1
   },
   {
-    "question": "In the past, Madhubani artists used the Aparajita flower to create which color?",
-    "correct": "Blue",
+    "question": "What color change occurs when iodine solution comes into contact with starch?",
+    "correct": "It turns blue-black",
     "options": [
-      "Red",
-      "Green",
-      "Blue",
-      "Orange"
+      "It turns bright red",
+      "It becomes clear",
+      "It turns blue-black",
+      "It fizzes and bubbles"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "English - Madhubani Art",
+    "topic": "Chemical Tests for Nutrients",
     "complexity_score": 1
   },
   {
-    "question": "What is the correct way to say 'Main kheli' in English?",
-    "correct": "I played.",
+    "question": "What is the specific role of Vitamin D as explained in the class?",
+    "correct": "It helps the body absorb calcium",
     "options": [
-      "I play.",
-      "I will play.",
-      "I played.",
-      "I am playing."
+      "It directly heals broken bones",
+      "It helps the body absorb calcium",
+      "It is a source of energy",
+      "It provides dietary fiber"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Simple Tenses",
+    "topic": "Vitamins and Minerals",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence describes a traditional method of cooking mentioned in the class?",
-    "correct": "People cooked on chulhas using firewood.",
+    "question": "Which of the following were mentioned as examples of millets?",
+    "correct": "Jowar, Bajra, Ragi",
     "options": [
-      "People used solar cookers.",
-      "People used microwave ovens.",
-      "People cooked on chulhas using firewood.",
-      "People used gas stoves with LPG."
+      "Wheat, Rice, Corn",
+      "Lays, Kurkure, Momos",
+      "Jowar, Bajra, Ragi",
+      "Chana, Green gram, Kidney beans"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Science - Cooking Methods",
+    "topic": "Food Groups",
     "complexity_score": 1
   },
   {
-    "question": "Which sentence is grammatically correct?",
-    "correct": "Does he play?",
+    "question": "Why would eating ONLY millets not provide a complete, balanced diet?",
+    "correct": "A balanced diet requires a variety of foods to provide all essential nutrients.",
     "options": [
-      "Do he play?",
-      "Does he plays?",
-      "Do he plays?",
-      "Does he play?"
+      "Millets contain too much fat and sugar.",
+      "Millets are classified as junk food.",
+      "Millets do not contain any vitamins or minerals.",
+      "A balanced diet requires a variety of foods to provide all essential nutrients."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Simple Tenses",
+    "topic": "Balanced Diet",
     "complexity_score": 2
   },
   {
-    "question": "Which sentence correctly uses the word 'did' in a negative statement?",
-    "correct": "I did not play.",
+    "question": "In the experiment scenario, the teacher's sari turned blue-black with iodine drops, but the student's socks did not. What is the most likely reason for this difference?",
+    "correct": "The sari was made of a natural fiber containing starch, while the socks were synthetic.",
     "options": [
-      "I did not played.",
-      "I did not plays.",
-      "I did not play.",
-      "I did played not."
+      "The iodine solution was stronger on the sari.",
+      "The sari was made of a natural fiber containing starch, while the socks were synthetic.",
+      "The socks were cleaner than the sari.",
+      "All fabrics react with iodine in the same way."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Simple Tenses",
+    "topic": "Application of Starch Test",
     "complexity_score": 2
   },
   {
-    "question": "The story of Suman-Vati suggests that her art was a source of joy mainly because it:",
-    "correct": "Helped her overcome financial difficulties and support her family.",
+    "question": "Sugar is a type of carbohydrate, yet it doesn't turn blue-black with iodine. Why?",
+    "correct": "Iodine specifically reacts with starch, not with simple sugars.",
     "options": [
-      "Was a fun hobby she learned from her father.",
-      "Made her famous in her village.",
-      "Helped her overcome financial difficulties and support her family.",
-      "Allowed her to continue her studies."
+      "Sugar does not contain any carbohydrates.",
+      "The test requires heat to work on sugar.",
+      "Iodine specifically reacts with starch, not with simple sugars.",
+      "Sugar neutralizes the iodine solution."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English - Comprehension",
+    "topic": "Chemical Tests for Nutrients",
     "complexity_score": 2
   },
   {
-    "question": "Based on the lesson, how can a person help reduce food miles?",
-    "correct": "By choosing to buy food grown locally.",
+    "question": "What is a key difference between ingredients used in traditional vs. modern cooking practices, as discussed?",
+    "correct": "Traditional uses fresh, locally grown ingredients while modern often uses pre-packaged foods.",
     "options": [
-      "By eating less junk food.",
-      "By choosing to buy food grown locally.",
-      "By cooking food in a microwave.",
-      "By eating a balanced diet."
+      "Traditional uses only vegetables, while modern uses only meat.",
+      "Traditional uses fresh, locally grown ingredients while modern often uses pre-packaged foods.",
+      "Traditional cooking does not use spices.",
+      "Modern cooking is always healthier than traditional cooking."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science - Food Systems",
+    "topic": "Culinary Practices",
     "complexity_score": 2
   },
   {
-    "question": "The sentence 'I will be playing' refers to an action that will be:",
-    "correct": "In progress at a specific time in the future.",
+    "question": "The statement \"All starches are carbohydrates, but not all carbohydrates are starches\" was discussed. Which finding from the lesson supports this?",
+    "correct": "Sugar is a carbohydrate but does not react with the starch test.",
     "options": [
-      "Completed in the future.",
-      "Starting in the future.",
-      "In progress at a specific time in thefuture.",
-      "Finished just before a future moment."
+      "Millets are carbohydrates and are considered healthy.",
+      "Sugar is a carbohydrate but does not react with the starch test.",
+      "Proteins are not carbohydrates.",
+      "Junk food contains carbohydrates."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Continuous Tenses",
+    "topic": "Nutrient Classification",
     "complexity_score": 2
   },
   {
-    "question": "Why is it important to support local artists, according to the discussion?",
-    "correct": "Because their art forms are slowly dying out due to lack of income.",
+    "question": "The tutor used an analogy of Elon Musk's failing rockets to describe the learning process. What does this suggest about making mistakes while learning?",
+    "correct": "Mistakes and confusion are a necessary and productive part of deep learning.",
     "options": [
-      "Because their art is more colorful than modern art.",
-      "Because they give away their art for free.",
-      "Because their art forms are slowly dying out due to lack of income.",
-      "Because they only paint pictures of animals and traditions."
+      "Learning should be fast and free of errors.",
+      "Only scientists make mistakes while learning.",
+      "Mistakes and confusion are a necessary and productive part of deep learning.",
+      "If you fail, you should stop trying."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English - Comprehension",
+    "topic": "Metacognition and Learning",
     "complexity_score": 2
   },
   {
-    "question": "Junk food is considered unhealthy primarily because it has:",
-    "correct": "High levels of sugar and fats but very few essential nutrients.",
+    "question": "If you were to test a potato slice and a plastic toy with iodine solution, what would you expect to happen based on the principles discussed?",
+    "correct": "The potato would turn blue-black, and the plastic toy would not change color.",
     "options": [
-      "Too many vitamins and minerals.",
-      "Too much dietary fiber and protein.",
-      "High levels of sugar and fats but very few essential nutrients.",
-      "Ingredients that are difficult to cultivate."
+      "Both would turn blue-black.",
+      "Neither would change color.",
+      "The potato would turn blue-black, and the plastic toy would not change color.",
+      "The plastic toy would turn blue-black, and the potato would not change color."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Science - Nutrition",
+    "topic": "Application of Starch Test",
     "complexity_score": 2
   },
   {
-    "question": "According to the diary entry format discussed, what should be written right after the date, day, and time?",
-    "correct": "The salutation, like 'Dear Diary'.",
+    "question": "When the student was struggling to recall an answer, the tutor recommended writing it down. What learning principle does this active recall method support?",
+    "correct": "Writing forces the brain to retrieve information, strengthening the memory.",
     "options": [
-      "Your name.",
-      "The main body of the entry.",
-      "The salutation, like 'Dear Diary'.",
-      "A title for the entry."
+      "Reading an answer multiple times is the most effective way to learn.",
+      "Learning is easiest when you choose the least challenging path.",
+      "Writing forces the brain to retrieve information, strengthening the memory.",
+      "Memorizing is more important than understanding."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "English - Writing",
+    "topic": "Learning Strategies",
     "complexity_score": 2
   },
   {
-    "question": "The rule 'use the first form of the verb after Did' is similar to the rule for which other words?",
-    "correct": "Do and Does",
+    "question": "A doctor prescribes both Vitamin D and calcium for a healing bone. Why is prescribing both together more effective than just prescribing a larger amount of calcium?",
+    "correct": "Without Vitamin D, the body cannot effectively absorb and use the calcium.",
     "options": [
-      "Is and Are",
-      "Was and Were",
-      "Do and Does",
-      "Will and Shall"
+      "Vitamin D makes the calcium taste better.",
+      "The two tablets are for different bones in the body.",
+      "Without Vitamin D, the body cannot effectively absorb and use the calcium.",
+      "It is just a standard practice with no scientific reason."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Simple Tenses",
+    "topic": "Vitamins and Minerals",
     "complexity_score": 3
   },
   {
-    "question": "If a person eats a large quantity of food every day but still suffers from a disease like scurvy, what is the most likely problem with their diet?",
-    "correct": "It is not a balanced diet and lacks specific nutrients like Vitamin C.",
+    "question": "Kavya astutely suggested that an answer should state a sock 'can be' made of synthetic fiber, not 'is' made of it. This shows an understanding of what aspect of scientific reasoning?",
+    "correct": "The importance of considering possibilities and avoiding absolute statements without complete evidence.",
     "options": [
-      "They are eating too much junk food.",
-      "The food has too many food miles.",
-      "It is not a balanced diet and lacks specific nutrients like Vitamin C.",
-      "They are using modern cooking methods."
+      "The need to memorize facts exactly as they are written.",
+      "The idea that all socks are made from the same material.",
+      "The importance of considering possibilities and avoiding absolute statements without complete evidence.",
+      "The fact that natural fibers never contain starch."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Science - Nutrition",
+    "topic": "Scientific Reasoning",
     "complexity_score": 3
   },
   {
-    "question": "What is the primary difference in the *source* of energy between cooking on a chulha with cow dung cakes and cooking on a gas stove?",
-    "correct": "One uses biomass energy while the other uses fossil fuel energy.",
+    "question": "Based on the discussion, why would a diet consisting solely of a new 'miracle fruit' (rich only in vitamins) be considered unhealthy in the long term?",
+    "correct": "It would lack other essential nutrients like proteins, fats, and carbohydrates required for a balanced diet.",
     "options": [
-      "One is hot and the other is cold.",
-      "One is traditional and the other is modern.",
-      "One is used in villages and the other in cities.",
-      "One uses biomass energy while the other uses fossil fuel energy."
+      "Fruits are always unhealthy if eaten alone.",
+      "It would provide too many vitamins.",
+      "It would lack other essential nutrients like proteins, fats, and carbohydrates required for a balanced diet.",
+      "The body can produce all other required nutrients on its own."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Science - Cooking Methods",
+    "topic": "Balanced Diet",
     "complexity_score": 3
   },
   {
-    "question": "The tutor heavily prompted the answer about why Suman-Vati's art is a source of joy. What does this suggest about the challenge of the question?",
-    "correct": "It required connecting personal struggle with professional success, which is a complex idea.",
+    "question": "The tutor suggested that adding examples like 'ragi, jowar, bajra' improves an answer. What does this imply about providing a strong scientific explanation?",
+    "correct": "A strong explanation is specific and supported by concrete evidence or examples.",
     "options": [
-      "The answer was very long and hard to remember.",
-      "The question was written in difficult English.",
-      "It required connecting personal struggle with professional success, which is a complex idea.",
-      "The student had not read that part of the chapter."
+      "Longer answers are always better, regardless of content.",
+      "A strong explanation is specific and supported by concrete evidence or examples.",
+      "Using your own words means changing the core facts.",
+      "Teachers only give good marks for answers copied from the book."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition",
+    "topic": "Scientific Communication",
     "complexity_score": 3
   },
   {
-    "question": "Why is a diary entry a good way to write about visiting a craft fair?",
-    "correct": "It focuses on personal feelings and experiences, which are strong at such an event.",
+    "question": "Imagine a food item is tested. The iodine test is negative (no blue-black color), but the food is known to give energy. What can you infer about the food's composition?",
+    "correct": "It likely contains carbohydrates in the form of simple sugars, but not starch.",
     "options": [
-      "It is the only way to write about fairs.",
-      "It focuses on personal feelings and experiences, which are strong at such an event.",
-      "It is short and easy to write.",
-      "It does not require correct grammar or spelling."
+      "It contains no nutrients at all.",
+      "It must contain a large amount of starch.",
+      "It likely contains carbohydrates in the form of simple sugars, but not starch.",
+      "It is made entirely of protein."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "English - Writing",
+    "topic": "Deductive Reasoning",
     "complexity_score": 3
   },
   {
-    "question": "A student writes, 'She do not understands the lesson.' Which TWO grammar rules are being broken here?",
-    "correct": "Subject-verb agreement ('She does') and using the base verb after 'does' ('understand').",
+    "question": "The tutor reframed the student's confusion and struggles as the very moment when 'learning is happening.' What does this growth mindset perspective suggest?",
+    "correct": "Effort and challenge are indicators of brain growth, not failure.",
     "options": [
-      "The tense is wrong and the pronoun is wrong.",
-      "The spelling is wrong and the punctuation is wrong.",
-      "Subject-verb agreement ('She does') and using the base verb after 'does' ('understand').",
-      "The sentence should be in the past tense and should be a question."
+      "Confusion means the student is not intelligent.",
+      "Learning should always feel easy and effortless.",
+      "Teachers should scold students when they are confused.",
+      "Effort and challenge are indicators of brain growth, not failure."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Simple Tenses",
+    "topic": "Metacognition and Growth Mindset",
     "complexity_score": 3
   }
 ]
