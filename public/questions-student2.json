@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the lesson, junk foods are considered unhealthy primarily because they contain high levels of sugar and what other component?",
-    "correct": "Fat",
+    "question": "What is the primary function of an iodine solution in a food test?",
+    "correct": "To test for the presence of starch.",
     "options": [
-      "Protein",
-      "Vitamins",
-      "Fat",
-      "Dietary Fiber"
+      "To test for the presence of proteins.",
+      "To test for the presence of fats.",
+      "To test for the presence of starch.",
+      "To test for the presence of simple sugars."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Nutrition Basics",
+    "topic": "Nutrition Science",
     "complexity_score": 1
   },
   {
-    "question": "What is the primary function of calcium tablets given for a bone fracture?",
-    "correct": "To help in strengthening and healing bones",
+    "question": "What is the normal temperature of a healthy human body in degrees Celsius?",
+    "correct": "37°C",
     "options": [
-      "To reduce pain",
-      "To help absorb Vitamin D",
-      "To help in strengthening and healing bones",
-      "To prevent infection"
+      "98.6°C",
+      "100°C",
+      "37°C",
+      "0°C"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vitamins and Minerals",
+    "topic": "Human Biology & Temperature",
     "complexity_score": 1
   },
   {
-    "question": "Which traditional Indian cooking tool was mentioned for grinding ingredients like chutney?",
-    "correct": "Silbatta",
+    "question": "Which of the following are examples of millets, as discussed in the class?",
+    "correct": "Jowar, bajra, ragi",
     "options": [
-      "Mixer-grinder",
-      "Gas stove",
-      "Silbatta",
-      "Chulha"
+      "Wheat, rice, corn",
+      "Jowar, bajra, ragi",
+      "Oats, barley, wheat",
+      "Lentils, beans, peas"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Culinary Practices",
+    "topic": "Nutrition Science",
     "complexity_score": 1
   },
   {
-    "question": "What color change occurs when iodine solution comes into contact with starch?",
-    "correct": "It turns blue-black",
+    "question": "What is the correct formula for converting a temperature from Celsius to Fahrenheit?",
+    "correct": "F = (C × 9/5) + 32",
     "options": [
-      "It turns bright red",
-      "It becomes clear",
-      "It turns blue-black",
-      "It fizzes and bubbles"
+      "F = (C - 32) × 5/9",
+      "F = (C × 5/9) + 32",
+      "F = C + 32",
+      "F = (C × 9/5) + 32"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Chemical Tests for Nutrients",
+    "topic": "Temperature Conversion",
     "complexity_score": 1
   },
   {
-    "question": "What is the specific role of Vitamin D as explained in the class?",
-    "correct": "It helps the body absorb calcium",
+    "question": "According to the lesson, what essential role does Vitamin D play in the body, especially after a fracture?",
+    "correct": "It helps the body absorb calcium.",
     "options": [
-      "It directly heals broken bones",
-      "It helps the body absorb calcium",
-      "It is a source of energy",
-      "It provides dietary fiber"
+      "It directly heals broken bones.",
+      "It helps the body absorb calcium.",
+      "It reduces pain and swelling.",
+      "It provides energy to the body."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Vitamins and Minerals",
+    "topic": "Nutrition & Health",
     "complexity_score": 1
   },
   {
-    "question": "Which of the following were mentioned as examples of millets?",
-    "correct": "Jowar, Bajra, Ragi",
+    "question": "At what temperature in degrees Celsius does water boil?",
+    "correct": "100°C",
     "options": [
-      "Wheat, Rice, Corn",
-      "Lays, Kurkure, Momos",
-      "Jowar, Bajra, Ragi",
-      "Chana, Green gram, Kidney beans"
+      "98.6°C",
+      "212°C",
+      "100°C",
+      "37°C"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Food Groups",
+    "topic": "Physical Science",
     "complexity_score": 1
   },
   {
-    "question": "Why would eating ONLY millets not provide a complete, balanced diet?",
-    "correct": "A balanced diet requires a variety of foods to provide all essential nutrients.",
+    "question": "A person says they have a fever of '100 degrees'. What is the most likely unit of measurement?",
+    "correct": "Fahrenheit",
     "options": [
-      "Millets contain too much fat and sugar.",
-      "Millets are classified as junk food.",
-      "Millets do not contain any vitamins or minerals.",
-      "A balanced diet requires a variety of foods to provide all essential nutrients."
+      "Celsius",
+      "Fahrenheit",
+      "Kelvin",
+      "It could be either Celsius or Fahrenheit."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Balanced Diet",
+    "topic": "Real-World Application",
     "complexity_score": 2
   },
   {
-    "question": "In the experiment scenario, the teacher's sari turned blue-black with iodine drops, but the student's socks did not. What is the most likely reason for this difference?",
-    "correct": "The sari was made of a natural fiber containing starch, while the socks were synthetic.",
+    "question": "Using the formula, what is 100°C in degrees Fahrenheit?",
+    "correct": "212°F",
     "options": [
-      "The iodine solution was stronger on the sari.",
-      "The sari was made of a natural fiber containing starch, while the socks were synthetic.",
-      "The socks were cleaner than the sari.",
-      "All fabrics react with iodine in the same way."
+      "180°F",
+      "132°F",
+      "212°F",
+      "100°F"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Application of Starch Test",
+    "topic": "Temperature Conversion",
     "complexity_score": 2
   },
   {
-    "question": "Sugar is a type of carbohydrate, yet it doesn't turn blue-black with iodine. Why?",
-    "correct": "Iodine specifically reacts with starch, not with simple sugars.",
+    "question": "The teacher explained that the modal verb 'can' indicates ability or certainty, while 'may' indicates possibility. Which statement is the most accurate scientific description?",
+    "correct": "Adding acid to this substance may cause a reaction.",
     "options": [
-      "Sugar does not contain any carbohydrates.",
-      "The test requires heat to work on sugar.",
-      "Iodine specifically reacts with starch, not with simple sugars.",
-      "Sugar neutralizes the iodine solution."
+      "The sun can be hot tomorrow.",
+      "It may rain yesterday.",
+      "Adding acid to this substance may cause a reaction.",
+      "I may lift 100kg because I am strong."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Chemical Tests for Nutrients",
+    "topic": "Scientific Language",
     "complexity_score": 2
   },
   {
-    "question": "What is a key difference between ingredients used in traditional vs. modern cooking practices, as discussed?",
-    "correct": "Traditional uses fresh, locally grown ingredients while modern often uses pre-packaged foods.",
+    "question": "Why would an iodine test performed on a sample of pure sugar NOT result in a blue-black color change?",
+    "correct": "Because iodine specifically reacts with starch, not simple sugars.",
     "options": [
-      "Traditional uses only vegetables, while modern uses only meat.",
-      "Traditional uses fresh, locally grown ingredients while modern often uses pre-packaged foods.",
-      "Traditional cooking does not use spices.",
-      "Modern cooking is always healthier than traditional cooking."
+      "Because sugar is white and hides the color change.",
+      "Because the sugar dissolves in the iodine solution.",
+      "Because iodine specifically reacts with starch, not simple sugars.",
+      "Because the test requires heat to work on sugar."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Culinary Practices",
+    "topic": "Nutrition Science",
     "complexity_score": 2
   },
   {
-    "question": "The statement \"All starches are carbohydrates, but not all carbohydrates are starches\" was discussed. Which finding from the lesson supports this?",
-    "correct": "Sugar is a carbohydrate but does not react with the starch test.",
+    "question": "When converting 20°C to Fahrenheit, what is the first step you should perform according to the BODMAS rule?",
+    "correct": "Multiply 20 by 9/5.",
     "options": [
-      "Millets are carbohydrates and are considered healthy.",
-      "Sugar is a carbohydrate but does not react with the starch test.",
-      "Proteins are not carbohydrates.",
-      "Junk food contains carbohydrates."
+      "Add 32 to 20.",
+      "Multiply 20 by 9/5.",
+      "Divide 9 by 5.",
+      "Add 20 and 32, then multiply."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Nutrient Classification",
+    "topic": "Temperature Conversion",
     "complexity_score": 2
   },
   {
-    "question": "The tutor used an analogy of Elon Musk's failing rockets to describe the learning process. What does this suggest about making mistakes while learning?",
-    "correct": "Mistakes and confusion are a necessary and productive part of deep learning.",
+    "question": "A weather report says the city temperature is 40°C. How does this compare to a normal human's body temperature?",
+    "correct": "It is hotter than normal body temperature.",
     "options": [
-      "Learning should be fast and free of errors.",
-      "Only scientists make mistakes while learning.",
-      "Mistakes and confusion are a necessary and productive part of deep learning.",
-      "If you fail, you should stop trying."
+      "It is colder than normal body temperature.",
+      "It is the same as normal body temperature.",
+      "It is hotter than normal body temperature.",
+      "It is impossible to compare Celsius and body temperature."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Metacognition and Learning",
+    "topic": "Real-World Application",
     "complexity_score": 2
   },
   {
-    "question": "If you were to test a potato slice and a plastic toy with iodine solution, what would you expect to happen based on the principles discussed?",
-    "correct": "The potato would turn blue-black, and the plastic toy would not change color.",
+    "question": "Why was wheat NOT classified as a millet in the lesson?",
+    "correct": "Millets like jowar and bajra are a distinct category of grains.",
     "options": [
-      "Both would turn blue-black.",
-      "Neither would change color.",
-      "The potato would turn blue-black, and the plastic toy would not change color.",
-      "The plastic toy would turn blue-black, and the potato would not change color."
+      "Because wheat contains gluten.",
+      "Because wheat is less healthy than millets.",
+      "Millets like jowar and bajra are a distinct category of grains.",
+      "Because wheat is only grown in cold climates."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Application of Starch Test",
+    "topic": "Nutrition Science",
     "complexity_score": 2
   },
   {
-    "question": "When the student was struggling to recall an answer, the tutor recommended writing it down. What learning principle does this active recall method support?",
-    "correct": "Writing forces the brain to retrieve information, strengthening the memory.",
+    "question": "What is the normal human body temperature (37°C) when converted to Fahrenheit?",
+    "correct": "98.6°F",
     "options": [
-      "Reading an answer multiple times is the most effective way to learn.",
-      "Learning is easiest when you choose the least challenging path.",
-      "Writing forces the brain to retrieve information, strengthening the memory.",
-      "Memorizing is more important than understanding."
+      "100°F",
+      "98.6°F",
+      "69°F",
+      "37°F"
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Learning Strategies",
+    "topic": "Temperature Conversion",
     "complexity_score": 2
   },
   {
-    "question": "A doctor prescribes both Vitamin D and calcium for a healing bone. Why is prescribing both together more effective than just prescribing a larger amount of calcium?",
-    "correct": "Without Vitamin D, the body cannot effectively absorb and use the calcium.",
+    "question": "Why is it biologically impossible for a living person to have a fever of 100°C?",
+    "correct": "Because 100°C is the boiling point of water, and the human body is mostly water.",
     "options": [
-      "Vitamin D makes the calcium taste better.",
-      "The two tablets are for different bones in the body.",
-      "Without Vitamin D, the body cannot effectively absorb and use the calcium.",
-      "It is just a standard practice with no scientific reason."
+      "Because thermometers cannot measure that high.",
+      "Because fevers are always measured in Fahrenheit.",
+      "Because 100°C is the boiling point of water, and the human body is mostly water.",
+      "Because the body's natural temperature is 98.6°C."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Vitamins and Minerals",
+    "topic": "Critical Thinking",
     "complexity_score": 3
   },
   {
-    "question": "Kavya astutely suggested that an answer should state a sock 'can be' made of synthetic fiber, not 'is' made of it. This shows an understanding of what aspect of scientific reasoning?",
-    "correct": "The importance of considering possibilities and avoiding absolute statements without complete evidence.",
+    "question": "A student is converting 50°C to Fahrenheit. They incorrectly calculate (50 + 32) * 9/5. Which mathematical principle did they ignore?",
+    "correct": "BODMAS/Order of Operations",
     "options": [
-      "The need to memorize facts exactly as they are written.",
-      "The idea that all socks are made from the same material.",
-      "The importance of considering possibilities and avoiding absolute statements without complete evidence.",
-      "The fact that natural fibers never contain starch."
+      "The law of averages",
+      "Decimal multiplication",
+      "The commutative property",
+      "BODMAS/Order of Operations"
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Scientific Reasoning",
+    "topic": "Mathematical Reasoning",
     "complexity_score": 3
   },
   {
-    "question": "Based on the discussion, why would a diet consisting solely of a new 'miracle fruit' (rich only in vitamins) be considered unhealthy in the long term?",
-    "correct": "It would lack other essential nutrients like proteins, fats, and carbohydrates required for a balanced diet.",
+    "question": "If an iodine test on a potato slice turns blue-black, but an identical test on a piece of fish shows no change, what can you scientifically conclude?",
+    "correct": "The potato contains starch, while the fish does not.",
     "options": [
-      "Fruits are always unhealthy if eaten alone.",
-      "It would provide too many vitamins.",
-      "It would lack other essential nutrients like proteins, fats, and carbohydrates required for a balanced diet.",
-      "The body can produce all other required nutrients on its own."
+      "The potato has more protein than the fish.",
+      "The fish is healthier than the potato.",
+      "The potato contains starch, while the fish does not.",
+      "The iodine solution is only effective on vegetables."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Balanced Diet",
+    "topic": "Scientific Inference",
     "complexity_score": 3
   },
   {
-    "question": "The tutor suggested that adding examples like 'ragi, jowar, bajra' improves an answer. What does this imply about providing a strong scientific explanation?",
-    "correct": "A strong explanation is specific and supported by concrete evidence or examples.",
+    "question": "A doctor informs a patient their temperature is 39°C. Based on your knowledge of normal body temperature, what does this indicate?",
+    "correct": "The patient has a fever.",
     "options": [
-      "Longer answers are always better, regardless of content.",
-      "A strong explanation is specific and supported by concrete evidence or examples.",
-      "Using your own words means changing the core facts.",
-      "Teachers only give good marks for answers copied from the book."
+      "The patient's temperature is normal.",
+      "The patient is dangerously cold (hypothermic).",
+      "The doctor is using a Fahrenheit thermometer.",
+      "The patient has a fever."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Scientific Communication",
+    "topic": "Analysis & Application",
     "complexity_score": 3
   },
   {
-    "question": "Imagine a food item is tested. The iodine test is negative (no blue-black color), but the food is known to give energy. What can you infer about the food's composition?",
-    "correct": "It likely contains carbohydrates in the form of simple sugars, but not starch.",
+    "question": "The teacher stated that 'feeling confused is a sign that learning is happening.' How does this connect to solving a difficult math problem like temperature conversion for the first time?",
+    "correct": "Confusion arises when the brain works hard to understand new rules and steps, which strengthens learning.",
     "options": [
-      "It contains no nutrients at all.",
-      "It must contain a large amount of starch.",
-      "It likely contains carbohydrates in the form of simple sugars, but not starch.",
-      "It is made entirely of protein."
+      "It means if you are confused, you should stop trying.",
+      "It suggests that confusion is the final goal of learning.",
+      "Confusion arises when the brain works hard to understand new rules and steps, which strengthens learning.",
+      "It means only people who are confused can learn math."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Deductive Reasoning",
+    "topic": "Metacognition",
     "complexity_score": 3
   },
   {
-    "question": "The tutor reframed the student's confusion and struggles as the very moment when 'learning is happening.' What does this growth mindset perspective suggest?",
-    "correct": "Effort and challenge are indicators of brain growth, not failure.",
+    "question": "Considering the relationship between Calcium and Vitamin D, why would a person with a calcium deficiency also be tested for a Vitamin D deficiency?",
+    "correct": "Because a lack of Vitamin D can prevent the body from absorbing available calcium.",
     "options": [
-      "Confusion means the student is not intelligent.",
-      "Learning should always feel easy and effortless.",
-      "Teachers should scold students when they are confused.",
-      "Effort and challenge are indicators of brain growth, not failure."
+      "Because Vitamin D turns into Calcium in the body.",
+      "Because they are the same substance with different names.",
+      "Because a lack of Vitamin D can prevent the body from absorbing available calcium.",
+      "Because both are only found in sunlight."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Metacognition and Growth Mindset",
+    "topic": "Systems Thinking in Biology",
     "complexity_score": 3
   }
 ]
