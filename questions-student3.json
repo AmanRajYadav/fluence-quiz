@@ -1,282 +1,282 @@
 [
   {
-    "question": "According to the theorems discussed, what does a perpendicular line drawn from the center of a circle to a chord do to the chord?",
-    "correct": "It divides the chord into two equal parts (bisects it).",
+    "question": "According to the instructor's explanation, what does the 'Artificial' in Artificial Intelligence mean?",
+    "correct": "Something that is man-made.",
     "options": [
-      "It makes the chord equal to the radius.",
-      "It divides the chord into two equal parts (bisects it).",
-      "It doubles the length of the chord.",
-      "It is always parallel to the chord."
+      "Something that is fake or not real.",
+      "A complex computer system.",
+      "Something that is man-made.",
+      "A natural phenomenon discovered by humans."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Perpendicular from Center to Chord",
+    "topic": "Defining AI",
     "complexity_score": 1
   },
   {
-    "question": "What is the key property of two 'congruent circles' as explained in the class?",
-    "correct": "They have the same radii.",
+    "question": "Which AI tool did the class use to build the 'The Format Fixer' web app?",
+    "correct": "The transcript does not explicitly name the app-building tool, but implies a generative AI.",
     "options": [
-      "They have the same center point.",
-      "They have the same number of chords.",
-      "They must intersect at two points.",
-      "They have the same radii."
+      "NotebookLM",
+      "Claude",
+      "ChatGPT",
+      "The transcript does not explicitly name the app-building tool, but implies a generative AI."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Congruent Circles",
+    "topic": "AI Tools in Practice",
     "complexity_score": 1
   },
   {
-    "question": "The theorem 'If the angles subtended by the chords of a circle at the center are equal, then the chords are equal' is the converse of which statement?",
-    "correct": "If two chords are equal, then the angles they subtend at the center are equal.",
+    "question": "What is the primary function of the NotebookLM tool as demonstrated in the class?",
+    "correct": "To deeply research and understand a new topic using various sources.",
     "options": [
-      "If two chords are parallel, their lengths are equal.",
-      "If two chords are equal, then the angles they subtend at the center are equal.",
-      "A perpendicular from the center bisects the chord.",
-      "The longest chord is the diameter."
+      "To write and debug computer code.",
+      "To generate images from text descriptions.",
+      "To deeply research and understand a new topic using various sources.",
+      "To create simple web applications from prompts."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Theorems and Converses",
+    "topic": "AI Tools for Learning",
     "complexity_score": 1
   },
   {
-    "question": "What does it mean if two chords are 'equidistant' from the center of a circle?",
-    "correct": "Their perpendicular distances from the center are equal.",
+    "question": "What problem was 'The Format Fixer' app designed to solve?",
+    "correct": "Cleaning up messy, broken text copied from PDF files.",
     "options": [
-      "The chords have the same endpoints.",
-      "The chords are parallel to each other.",
-      "Their perpendicular distances from the center are equal.",
-      "The length of the chords is equal to the distance from the center."
+      "Translating text from one language to another.",
+      "Correcting spelling and grammar mistakes.",
+      "Cleaning up messy, broken text copied from PDF files.",
+      "Summarizing long documents into key points."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Equidistant Chords",
+    "topic": "AI Application",
     "complexity_score": 1
   },
   {
-    "question": "What is true about equal chords in the same circle, based on the fifth theorem discussed?",
-    "correct": "They are equidistant from the center.",
+    "question": "The instructor defines intelligence as the ability to do what?",
+    "correct": "Process information to achieve a goal.",
     "options": [
-      "They must be diameters.",
-      "They are equidistant from the center.",
-      "They must be parallel.",
-      "They form a right angle where they intersect."
+      "Have a high IQ level.",
+      "Know everything about all subjects.",
+      "Process information to achieve a goal.",
+      "Mimic human conversation perfectly."
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Properties of Equal Chords",
+    "topic": "Defining Intelligence",
     "complexity_score": 1
   },
   {
-    "question": "The converse of the theorem 'The perpendicular from the center of a circle to a chord bisects the chord' states that:",
-    "correct": "A line from the center that bisects a chord is perpendicular to the chord.",
+    "question": "Which of the following AI tools was mentioned by student Khomesh?",
+    "correct": "Gemini",
     "options": [
-      "A line that bisects a chord must pass through the center.",
-      "A line from the center that bisects a chord is perpendicular to the chord.",
-      "Any two bisected chords are equal.",
-      "A perpendicular line from the center is equal to the radius."
+      "Midjourney",
+      "Siri",
+      "Gemini",
+      "Alexa"
     ],
     "difficulty": "easy",
     "questionType": "mcq",
-    "topic": "Theorems and Converses",
+    "topic": "AI Tool Awareness",
     "complexity_score": 1
   },
   {
-    "question": "In the proof that equidistant chords are equal, which congruence rule was correctly identified to prove triangle CON is congruent to triangle AOM?",
-    "correct": "RHS (Right-angle, Hypotenuse, Side)",
+    "question": "Why did the instructor emphasize the difference between 'what AI is' versus 'how it works' or 'what we can do with it'?",
+    "correct": "To encourage a deeper, foundational understanding beyond just its uses.",
     "options": [
-      "SAS (Side, Angle, Side)",
-      "SSS (Side, Side, Side)",
-      "AAS (Angle, Angle, Side)",
-      "RHS (Right-angle, Hypotenuse, Side)"
+      "Because the 'how' is too technical for beginners.",
+      "To test the students' listening skills.",
+      "To encourage a deeper, foundational understanding beyond just its uses.",
+      "Because he did not plan to cover the uses of AI."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Congruence Rules Application",
+    "topic": "Metacognition in Learning",
     "complexity_score": 2
   },
   {
-    "question": "Why was the SAS (Side-Angle-Side) congruence rule incorrect for proving triangles CON and AOM congruent in the main proof?",
-    "correct": "The right angle was not located between the two known sides.",
+    "question": "The instructor used an analogy of a chimpanzee learning to crack a nut. What aspect of intelligence was this meant to illustrate?",
+    "correct": "Learning from observation to achieve a goal more efficiently.",
     "options": [
-      "SAS can only be used for isosceles triangles.",
-      "There were no equal angles.",
-      "The right angle was not located between the two known sides.",
-      "One of the sides was not actually a side of the triangle."
+      "That animals are as intelligent as humans.",
+      "The ability to use tools.",
+      "Learning from observation to achieve a goal more efficiently.",
+      "The physical strength required for tasks."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Congruence Rules Application",
+    "topic": "Defining Intelligence",
     "complexity_score": 2
   },
   {
-    "question": "After proving ΔCON ≅ ΔAOM, the next step was stating CN = AM. Why couldn't we directly state CD = AB by CPCT?",
-    "correct": "Because CD and AB are the full chords, not sides of the proven congruent triangles.",
+    "question": "In the prompt for 'The Format Fixer,' what was the purpose of specifying the 'layout' with a left and right text box?",
+    "correct": "To give the AI clear instructions on the app's user interface and structure.",
     "options": [
-      "Because CD and AB were given as unequal.",
-      "Because CPCT only applies to angles, not sides.",
-      "Because the triangles were proven by RHS, not SSS.",
-      "Because CD and AB are the full chords, not sides of the proven congruent triangles."
+      "It was a random detail that had no effect.",
+      "To make the prompt longer and more complex.",
+      "To give the AI clear instructions on the app's user interface and structure.",
+      "To ensure the app would work on mobile phones."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Proof Logic (CPCT)",
+    "topic": "Prompt Engineering",
     "complexity_score": 2
   },
   {
-    "question": "If a perpendicular from the center bisects a chord of length 14 cm, what is the length of each segment of the chord?",
-    "correct": "7 cm",
+    "question": "What is the key difference between NotebookLM's 'fast search' and 'deep research' functions?",
+    "correct": "'Deep research' pulls from a wider variety of sources like YouTube and Reddit, not just top Google results.",
     "options": [
-      "14 cm",
-      "3.5 cm",
-      "Cannot be determined",
-      "7 cm"
+      "'Fast search' is for simple topics, while 'deep research' is for scientific ones.",
+      "'Deep research' provides incorrect information, while 'fast search' is always accurate.",
+      "'Deep research' costs money, while 'fast search' is free.",
+      "'Deep research' pulls from a wider variety of sources like YouTube and Reddit, not just top Google results."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Applying Theorems",
+    "topic": "AI Tools for Learning",
     "complexity_score": 2
   },
   {
-    "question": "What common mistake did the teacher point out when students were asked to draw two intersecting chords?",
-    "correct": "Drawing two diameters, which is a special, non-general case.",
+    "question": "The instructor's first activity was a name-remembering game. How did this connect to the main topic of AI?",
+    "correct": "It served as a practical example of how humans process and recall information, which is a facet of intelligence.",
     "options": [
-      "Drawing chords that were parallel.",
-      "Drawing chords of different lengths.",
-      "Drawing chords that didn't touch the circle's edge.",
-      "Drawing two diameters, which is a special, non-general case."
+      "It was just an icebreaker with no connection to the topic.",
+      "It was to prove that computers have better memory than humans.",
+      "It served as a practical example of how humans process and recall information, which is a facet of intelligence.",
+      "It was meant to decide who would answer the first question about AI."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Geometric Visualization",
+    "topic": "Connecting Concepts",
     "complexity_score": 2
   },
   {
-    "question": "In the proof for equal chords in congruent circles, which congruence rule was used to show the triangles were congruent?",
-    "correct": "SSS (Side-Side-Side)",
+    "question": "A student described AI as 'a servant that is always available'. The instructor categorized this as a description of its traits, not its fundamental definition. Why?",
+    "correct": "Because 'always available' describes a characteristic or benefit, not the core nature of what AI is (man-made intelligence).",
     "options": [
-      "RHS (Right-angle, Hypotenuse, Side)",
-      "ASA (Angle, Side, Angle)",
-      "SAS (Side, Angle, Side)",
-      "SSS (Side-Side-Side)"
+      "Because the instructor disagreed with the student.",
+      "Because AI is not always available and can have downtime.",
+      "Because 'servant' is a negative term for technology.",
+      "Because 'always available' describes a characteristic or benefit, not the core nature of what AI is (man-made intelligence)."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Congruent Circles Proof",
+    "topic": "Defining AI",
     "complexity_score": 2
   },
   {
-    "question": "What is the key difference in the 'Given' information when comparing the theorem 'perpendicular from center bisects a chord' and its converse?",
-    "correct": "In the theorem, the line is given as perpendicular; in the converse, the chord is given as bisected.",
+    "question": "One student mentioned that AI gets data and gives answers based on that data. Why did the instructor call this a very important 'puzzle piece'?",
+    "correct": "It correctly identifies that AI's intelligence is built upon the data it has been trained on.",
     "options": [
-      "The theorem assumes the chord is a diameter, while the converse does not.",
-      "There is no difference in the 'Given' information.",
-      "In the theorem, the chord is given as bisected; in the converse, the line is given as perpendicular.",
-      "In the theorem, the line is given as perpendicular; in the converse, the chord is given as bisected."
+      "Because it was the only correct answer given by a student.",
+      "Because the instructor likes puzzles.",
+      "It was a simple way to praise the student without agreeing.",
+      "It correctly identifies that AI's intelligence is built upon the data it has been trained on."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Theorems and Converses",
+    "topic": "How AI Works",
     "complexity_score": 2
   },
   {
-    "question": "The final step of the main proof, AB = CD, was derived from 1/2 AB = 1/2 CD. Which theorem allowed us to state that AM = 1/2 AB and CN = 1/2 CD?",
-    "correct": "The perpendicular from the center of a circle to a chord bisects the chord.",
+    "question": "What unique feature did the instructor mention NotebookLM can create from source documents besides a quiz?",
+    "correct": "An audio podcast and a video overview explaining the topic.",
     "options": [
-      "Equal chords of a circle are equidistant from the center.",
-      "The Pythagorean theorem.",
-      "Chords equidistant from the center are equal in length.",
-      "The perpendicular from the center of a circle to a chord bisects the chord."
+      "A PowerPoint presentation.",
+      "A 3D model of the topic.",
+      "An interactive game.",
+      "An audio podcast and a video overview explaining the topic."
     ],
     "difficulty": "medium",
     "questionType": "mcq",
-    "topic": "Proof Logic",
+    "topic": "AI Tools for Learning",
     "complexity_score": 2
   },
   {
-    "question": "The main proof that 'chords equidistant from the center are equal' is a logical chain. What would happen if we didn't know the theorem 'perpendicular from the center bisects a chord'?",
-    "correct": "We could prove CN = AM, but couldn't connect this fact to the full chords AB and CD.",
+    "question": "The instructor stated AI is fundamentally different from past inventions like the steam engine or printing press. Based on the class, what is the most likely reason for this difference?",
+    "correct": "AI is a technology that exhibits intelligence and can learn, unlike previous mechanical or informational tools.",
     "options": [
-      "The proof would be unaffected.",
-      "We would be unable to prove the triangles congruent in the first place.",
-      "We could prove CN = AM, but couldn't connect this fact to the full chords AB and CD.",
-      "We would have to use SSS congruence instead of RHS."
+      "AI is the first technology to be available on phones.",
+      "AI was invented more recently than any other technology.",
+      "AI is a technology that exhibits intelligence and can learn, unlike previous mechanical or informational tools.",
+      "AI is the only technology that requires electricity to function."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Logical Dependency in Proofs",
+    "topic": "Analytical Thinking",
     "complexity_score": 3
   },
   {
-    "question": "Why is specifying the distance to a chord as 'perpendicular distance' critically important in geometry?",
-    "correct": "It defines a unique, shortest distance, preventing ambiguity.",
+    "question": "The instructor called the students' initial definitions of AI 'puzzle pieces.' What does this metaphor imply about the process of learning complex subjects?",
+    "correct": "That learning is a collaborative process where individual ideas combine to form a complete picture.",
     "options": [
-      "It's just a convention with no mathematical reason.",
-      "Because all lines from the center to a chord are perpendicular.",
-      "It defines a unique, shortest distance, preventing ambiguity.",
-      "It makes the calculations easier but is not required."
+      "That most student answers are wrong and need to be corrected.",
+      "That learning is a game with winners and losers.",
+      "That the final answer is hidden and difficult to find.",
+      "That learning is a collaborative process where individual ideas combine to form a complete picture."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Geometric Definitions",
+    "topic": "Metacognition in Learning",
     "complexity_score": 3
   },
   {
-    "question": "In the RHS proof, triangles CON and AOM were used. What other pair of triangles could have been constructed and used to reach the same conclusion?",
-    "correct": "ΔDON and ΔBOM",
+    "question": "Based on the detailed prompt used to create 'The Format Fixer,' what is a key principle for communicating effectively with an AI?",
+    "correct": "Being specific about structure ('layout') and rules ('logic') leads to better results.",
     "options": [
-      "ΔCDP and ΔABP",
-      "ΔCAO and ΔDBO",
-      "ΔDON and ΔBOM",
-      "No other pair of triangles would work."
+      "Using only single-word commands is most effective.",
+      "The AI works best if you are vague and let it be creative.",
+      "Communicating in a poetic or emotional way improves output.",
+      "Being specific about structure ('layout') and rules ('logic') leads to better results."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Alternative Proof Strategies",
+    "topic": "Prompt Engineering",
     "complexity_score": 3
   },
   {
-    "question": "You know that a line segment OM from the center O bisects chord AB at point M. Which theorem allows you to conclude that ∠OMA is 90°?",
-    "correct": "The line drawn through the center of a circle to bisect a chord is perpendicular to the chord.",
+    "question": "Why would a tool like NotebookLM be particularly useful for a law student or someone reviewing a loan agreement?",
+    "correct": "It can process and analyze huge volumes of text, allowing the user to ask specific questions about complex documents.",
     "options": [
-      "The perpendicular from the center of a circle to a chord bisects the chord.",
-      "Equal chords of a circle are equidistant from the center.",
-      "The line drawn through the center of a circle to bisect a chord is perpendicular to the chord.",
-      "You cannot conclude that the angle is 90°."
+      "It can automatically sign legal documents.",
+      "It can predict the outcome of a court case.",
+      "It can process and analyze huge volumes of text, allowing the user to ask specific questions about complex documents.",
+      "It provides free legal advice from certified lawyers."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Applying Converse Theorems",
+    "topic": "Real-World Application",
     "complexity_score": 3
   },
   {
-    "question": "Imagine you have a circle with two equal chords that are parallel to each other. What can you definitively conclude about their relationship with the center?",
-    "correct": "They are on opposite sides of the center and are equidistant from it.",
+    "question": "The instructor said, 'without information, there is no intelligence.' How does this concept apply to an AI like ChatGPT?",
+    "correct": "The AI's ability to answer questions is entirely dependent on the vast amount of text data it was trained on.",
     "options": [
-      "One chord must be a diameter.",
-      "They must pass through the center.",
-      "They are on opposite sides of the center and are equidistant from it.",
-      "The distance between them is equal to the radius."
+      "The AI generates new information from scratch without any prior data.",
+      "The AI has its own consciousness and personal experiences.",
+      "The AI's intelligence is stored on a single microchip.",
+      "The AI's ability to answer questions is entirely dependent on the vast amount of text data it was trained on."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Synthesizing Concepts",
+    "topic": "How AI Works",
     "complexity_score": 3
   },
   {
-    "question": "To use the SAS congruence rule for ΔAOM, a student correctly identifies sides AO and OM. What additional piece of information would be required?",
-    "correct": "The measure of the angle between those sides, ∠AOM.",
+    "question": "The instructor mentioned that ChatGPT reached 100 million users in two months, a feat that took other technologies decades. What does this rapid adoption imply?",
+    "correct": "That AI literacy is becoming a critical skill for everyone, very quickly.",
     "options": [
-      "The length of the chord AM.",
-      "The measure of the right angle, ∠AMO.",
-      "The radius of the circle.",
-      "The measure of the angle between those sides, ∠AOM."
+      "That older technologies were not very useful.",
+      "That AI is just a temporary trend that will fade away.",
+      "That AI literacy is becoming a critical skill for everyone, very quickly.",
+      "That marketing for new technology has improved significantly."
     ],
     "difficulty": "hard",
     "questionType": "mcq",
-    "topic": "Analytical Thinking on Proofs",
+    "topic": "Societal Impact of AI",
     "complexity_score": 3
   }
 ]
